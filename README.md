@@ -1,0 +1,1 @@
+# minnesota-2022-election-results
