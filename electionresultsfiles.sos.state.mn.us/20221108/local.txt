@@ -4666,12 +4666,12 @@ MN;;;4012;Town Supervisor Seat B (Libby Township);36908;9001;Michael Hall;;;NP;2
 MN;;;4012;Town Supervisor Seat B (Libby Township);36908;9901;WRITE-IN;;;WI;2;2;0;0.00;24
 MN;;;4022;Town Treasurer (Libby Township);36908;9001;Robert Oaks;;;NP;2;2;26;100.00;26
 MN;;;4022;Town Treasurer (Libby Township);36908;9901;WRITE-IN;;;WI;2;2;0;0.00;26
-MN;;;4010;Town Supervisor Seat A (Lien Township);36998;9001;Jody Kruize;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Lien Township);36998;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Lien Township);36998;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Lien Township);36998;9001;Patricia Schack;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Lien Township);36998;9002;Jennifer Huseth;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Lien Township);36998;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Lien Township);36998;9001;Jody Kruize;;;NP;1;1;74;96.10;77
+MN;;;4010;Town Supervisor Seat A (Lien Township);36998;9901;WRITE-IN;;;WI;1;1;3;3.90;77
+MN;;;4012;Town Supervisor Seat B (Lien Township);36998;9901;WRITE-IN;;;WI;1;1;54;100.00;54
+MN;;;4022;Town Treasurer (Lien Township);36998;9001;Patricia Schack;;;NP;1;1;59;71.95;82
+MN;;;4022;Town Treasurer (Lien Township);36998;9002;Jennifer Huseth;;;NP;1;1;21;25.61;82
+MN;;;4022;Town Treasurer (Lien Township);36998;9901;WRITE-IN;;;WI;1;1;2;2.44;82
 MN;;;1001;Mayor (Lilydale);37016;9001;John E. Diehl;;;NP;1;1;415;75.32;551
 MN;;;1001;Mayor (Lilydale);37016;9002;Steve Grego;;;NP;1;1;133;24.14;551
 MN;;;1001;Mayor (Lilydale);37016;9901;WRITE-IN;;;WI;1;1;3;0.54;551
@@ -4897,8 +4897,8 @@ MN;;;4012;Town Supervisor Seat B (Mccrea Township);38942;9001;Jeff Wohlers;;;NP;
 MN;;;4012;Town Supervisor Seat B (Mccrea Township);38942;9901;WRITE-IN;;;WI;1;1;2;1.57;127
 MN;;;4022;Town Treasurer (Mccrea Township);38942;9001;Cynthia Anderson;;;NP;1;1;125;97.66;128
 MN;;;4022;Town Treasurer (Mccrea Township);38942;9901;WRITE-IN;;;WI;1;1;3;2.34;128
-MN;;;4010;Town Supervisor Seat 1 (Mcdonaldsville Township);38978;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Mcdonaldsville Township);38978;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat 1 (Mcdonaldsville Township);38978;9901;WRITE-IN;;;WI;1;1;37;100.00;37
+MN;;;4021;Town Clerk (Mcdonaldsville Township);38978;9901;WRITE-IN;;;WI;1;1;47;100.00;47
 MN;;;1001;Mayor (Mcgrath);38996;9001;Brian Clark;;;NP;1;1;18;90.00;20
 MN;;;1001;Mayor (Mcgrath);38996;9901;WRITE-IN;;;WI;1;1;2;10.00;20
 MN;;;1010;Council Member (Mcgrath) (Elect 2);38996;9001;Calvin Stemig;;;NP;1;1;11;32.35;34
