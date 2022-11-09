@@ -970,17 +970,17 @@ MN;;;4021;Town Clerk (Bradbury Township);07210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Bradbury Township);07210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Bradbury Twp);07210;9001;YES;;;NP;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Bradbury Twp);07210;9002;NO;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Braham);07282;9001;Nate George;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Braham);07282;9002;Patricia "Tish" Carlson;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Braham);07282;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Braham) (Elect 2);07282;9001;Robert "Bob" Knowles;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Braham) (Elect 2);07282;9002;Michael Wachs;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Braham) (Elect 2);07282;9003;Vicky Ethen;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Braham) (Elect 2);07282;9004;Nicole 'Marie' Peltz;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Braham) (Elect 2);07282;9005;Peter DuVernay;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Braham) (Elect 2);07282;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1012;Special Election for Council Member (Braham);07282;9001;Jeremy Kunshier;;;NP;0;2;0;0.00;0
-MN;;;1012;Special Election for Council Member (Braham);07282;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Braham);07282;9001;Nate George;;;NP;1;2;0;0.00;0
+MN;;;1001;Mayor (Braham);07282;9002;Patricia "Tish" Carlson;;;NP;1;2;0;0.00;0
+MN;;;1001;Mayor (Braham);07282;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1010;Council Member (Braham) (Elect 2);07282;9001;Robert "Bob" Knowles;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Braham) (Elect 2);07282;9002;Michael Wachs;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Braham) (Elect 2);07282;9003;Vicky Ethen;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Braham) (Elect 2);07282;9004;Nicole 'Marie' Peltz;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Braham) (Elect 2);07282;9005;Peter DuVernay;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Braham) (Elect 2);07282;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1012;Special Election for Council Member (Braham);07282;9001;Jeremy Kunshier;;;NP;1;2;0;0.00;0
+MN;;;1012;Special Election for Council Member (Braham);07282;9901;WRITE-IN;;;WI;1;2;0;0.00;0
 MN;;;1001;Mayor (Brainerd);07300;9001;Dave Badeaux;;;NP;0;9;0;0.00;0
 MN;;;1001;Mayor (Brainerd);07300;9901;WRITE-IN;;;WI;0;9;0;0.00;0
 MN;;;1010;Council Member at Large (Brainerd);07300;9001;Justin Grecula;;;NP;0;9;0;0.00;0
@@ -1418,12 +1418,12 @@ MN;;;1010;Council Member (Chandler) (Elect 2);10900;9002;LeRoy Buys;;;NP;0;1;0;0
 MN;;;1010;Council Member (Chandler) (Elect 2);10900;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Chandler);10900;9001;Sharon Staab;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Chandler);10900;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Chanhassen);10918;9001;Elise Ryan;;;NP;0;8;0;0.00;0
-MN;;;1001;Mayor (Chanhassen);10918;9901;WRITE-IN;;;WI;0;8;0;0.00;0
-MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9001;Mark von Oven;;;NP;0;8;0;0.00;0
-MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9002;Andrew E. Soudbash;;;NP;0;8;0;0.00;0
-MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9003;Jerry A. McDonald;;;NP;0;8;0;0.00;0
-MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;;;1001;Mayor (Chanhassen);10918;9001;Elise Ryan;;;NP;2;8;0;0.00;0
+MN;;;1001;Mayor (Chanhassen);10918;9901;WRITE-IN;;;WI;2;8;0;0.00;0
+MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9001;Mark von Oven;;;NP;2;8;0;0.00;0
+MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9002;Andrew E. Soudbash;;;NP;2;8;0;0.00;0
+MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9003;Jerry A. McDonald;;;NP;2;8;0;0.00;0
+MN;;;1010;Council Member at Large (Chanhassen) (Elect 2);10918;9901;WRITE-IN;;;WI;2;8;0;0.00;0
 MN;;;1001;Mayor (Chaska);10972;9001;Jay W Rohe;;;NP;0;6;0;0.00;0
 MN;;;1001;Mayor (Chaska);10972;9002;Mark Windschitl;;;NP;0;6;0;0.00;0
 MN;;;1001;Mayor (Chaska);10972;9901;WRITE-IN;;;WI;0;6;0;0.00;0
@@ -4992,9 +4992,9 @@ MN;;;1001;Mayor (Manhattan Beach);39806;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Manhattan Beach) (Elect 2);39806;9001;Steve Amans;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Manhattan Beach) (Elect 2);39806;9002;Barbara Ann Wannebo;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Manhattan Beach) (Elect 2);39806;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Mankato);39878;9001;Toby Leonard;;;NP;0;19;0;0.00;0
-MN;;;1001;Mayor (Mankato);39878;9003;Najwa Massad;;;NP;0;19;0;0.00;0
-MN;;;1001;Mayor (Mankato);39878;9901;WRITE-IN;;;WI;0;19;0;0.00;0
+MN;;;1001;Mayor (Mankato);39878;9001;Toby Leonard;;;NP;1;19;0;0.00;0
+MN;;;1001;Mayor (Mankato);39878;9003;Najwa Massad;;;NP;1;19;0;0.00;0
+MN;;;1001;Mayor (Mankato);39878;9901;WRITE-IN;;;WI;1;19;0;0.00;0
 MN;;;1020;Council Member Ward 1 (Mankato);39878;9001;Michael McLaughlin;;;NP;0;3;0;0.00;0
 MN;;;1020;Council Member Ward 1 (Mankato);39878;9002;Karen Foreman;;;NP;0;3;0;0.00;0
 MN;;;1020;Council Member Ward 1 (Mankato);39878;9901;WRITE-IN;;;WI;0;3;0;0.00;0
@@ -6737,13 +6737,13 @@ MN;;;4012;Special Election for Town Supervisor Seat B (Roome Township);55384;900
 MN;;;4012;Special Election for Town Supervisor Seat B (Roome Township);55384;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Roome Township);55384;9001;Joel Ness;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Roome Township);55384;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Roosevelt);55438;9001;Gerald Landby;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Roosevelt);55438;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Roosevelt) (Elect 2);55438;9001;Michael Nordine;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Roosevelt) (Elect 2);55438;9002;Leland Hendrickson;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Roosevelt) (Elect 2);55438;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1012;Special Election for Council Member (Roosevelt);55438;9001;Donna Pederson;;;NP;0;2;0;0.00;0
-MN;;;1012;Special Election for Council Member (Roosevelt);55438;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Roosevelt);55438;9001;Gerald Landby;;;NP;1;2;0;0.00;0
+MN;;;1001;Mayor (Roosevelt);55438;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1010;Council Member (Roosevelt) (Elect 2);55438;9001;Michael Nordine;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Roosevelt) (Elect 2);55438;9002;Leland Hendrickson;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Roosevelt) (Elect 2);55438;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1012;Special Election for Council Member (Roosevelt);55438;9001;Donna Pederson;;;NP;1;2;0;0.00;0
+MN;;;1012;Special Election for Council Member (Roosevelt);55438;9901;WRITE-IN;;;WI;1;2;0;0.00;0
 MN;;;1001;Mayor (Roscoe);55510;9001;Donald Albrecht;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Roscoe);55510;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Roscoe) (Elect 2);55510;9001;Tim O'Neil;;;NP;0;1;0;0.00;0
@@ -6826,13 +6826,13 @@ MN;;;4022;Town Treasurer (Round Lake Township);56050;9901;WRITE-IN;;;WI;0;1;0;0.
 MN;;;1010;Council Member (Round Lake) (Elect 2);56086;9001;Walon L. Habben;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Round Lake) (Elect 2);56086;9002;James Adams;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Round Lake) (Elect 2);56086;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Royalton);56176;9001;Brenda Weiss-Pesta;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Royalton);56176;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Royalton) (Elect 2);56176;9001;Scott Kalis;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Royalton) (Elect 2);56176;9002;Robert Lanners;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Royalton) (Elect 2);56176;9003;Tyler Struffert;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Royalton) (Elect 2);56176;9004;Kara Sowada;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Royalton) (Elect 2);56176;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Royalton);56176;9001;Brenda Weiss-Pesta;;;NP;1;2;0;0.00;0
+MN;;;1001;Mayor (Royalton);56176;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1010;Council Member (Royalton) (Elect 2);56176;9001;Scott Kalis;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Royalton) (Elect 2);56176;9002;Robert Lanners;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Royalton) (Elect 2);56176;9003;Tyler Struffert;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Royalton) (Elect 2);56176;9004;Kara Sowada;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Royalton) (Elect 2);56176;9901;WRITE-IN;;;WI;1;2;0;0.00;0
 MN;;;1001;Mayor (Rush City);56266;9001;Alan Johnson;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Rush City);56266;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Rush City) (Elect 2);56266;9001;Frank Storm;;;NP;0;1;0;0.00;0
@@ -7087,11 +7087,11 @@ MN;;;1001;Mayor (Sauk Centre);58648;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Sauk Centre) (Elect 2);58648;9001;Heidi Leach;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Sauk Centre) (Elect 2);58648;9002;Joseph Fuechtmann;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Sauk Centre) (Elect 2);58648;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9001;Ellen Thronson;;;NP;0;6;0;0.00;0
-MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9002;Clinton Holmgren;;;NP;0;6;0;0.00;0
-MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9003;Kyle Boron;;;NP;0;6;0;0.00;0
-MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9004;Jason Ellering;;;NP;0;6;0;0.00;0
-MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9901;WRITE-IN;;;WI;0;6;0;0.00;0
+MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9001;Ellen Thronson;;;NP;1;6;0;0.00;0
+MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9002;Clinton Holmgren;;;NP;1;6;0;0.00;0
+MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9003;Kyle Boron;;;NP;1;6;0;0.00;0
+MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9004;Jason Ellering;;;NP;1;6;0;0.00;0
+MN;;;1010;Council Member (Sauk Rapids) (Elect 2);58684;9901;WRITE-IN;;;WI;1;6;0;0.00;0
 MN;;;1010;Council Member (Savage) (Elect 2);58738;9001;Crystal Lorenz;;;NP;0;9;0;0.00;0
 MN;;;1010;Council Member (Savage) (Elect 2);58738;9002;Stacy Crakes;;;NP;0;9;0;0.00;0
 MN;;;1010;Council Member (Savage) (Elect 2);58738;9003;Bob Coughlen;;;NP;0;9;0;0.00;0
