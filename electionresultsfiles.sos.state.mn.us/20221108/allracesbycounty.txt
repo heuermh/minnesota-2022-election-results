@@ -1259,8 +1259,8 @@ MN;13;;9217;Judge - 10th District Court 18;10;9001;Michele A. Davis;;;NP;23;23;1
 MN;13;;9217;Judge - 10th District Court 18;10;9901;WRITE-IN;;;WI;23;23;147;1.17;12574
 MN;13;;9218;Judge - 10th District Court 19;10;9001;James A. Cunningham Jr.;;;NP;23;23;12404;98.88;12544
 MN;13;;9218;Judge - 10th District Court 19;10;9901;WRITE-IN;;;WI;23;23;140;1.12;12544
-MN;13;;9226;Judge - 10th District Court 27;10;9001;John P. Dehen;;;NP;23;23;12440;98.90;12578
-MN;13;;9226;Judge - 10th District Court 27;10;9901;WRITE-IN;;;WI;23;23;138;1.10;12578
+MN;13;;9226;Judge - 10th District Court 27;10;9001;John P. Dehen;;;NP;23;23;12440;98.89;12579
+MN;13;;9226;Judge - 10th District Court 27;10;9901;WRITE-IN;;;WI;23;23;139;1.11;12579
 MN;13;;9228;Judge - 10th District Court 29;10;9001;Krista K. Martin;;;NP;23;23;12473;98.90;12612
 MN;13;;9228;Judge - 10th District Court 29;10;9901;WRITE-IN;;;WI;23;23;139;1.10;12612
 MN;13;;9229;Judge - 10th District Court 30;10;9001;Jenny Walker Jasper;;;NP;23;23;12442;98.93;12577
@@ -4897,35 +4897,35 @@ MN;51;;8605;Judge - 5th District Court 6;05;9001;Michelle Dietrich;;;NP;29;29;29
 MN;51;;8605;Judge - 5th District Court 6;05;9901;WRITE-IN;;;WI;29;29;10;0.34;2955
 MN;51;;8615;Judge - 5th District Court 16;05;9001;Darci J. Bentz;;;NP;29;29;2905;99.59;2917
 MN;51;;8615;Judge - 5th District Court 16;05;9901;WRITE-IN;;;WI;29;29;12;0.41;2917
-MN;52;;0104;U.S. Representative District 1;1;0101;Brian Abrahamson;;;GLC;26;26;242;1.59;15235
-MN;52;;0104;U.S. Representative District 1;1;0201;Richard B. Reisdorf;;;LMN;26;26;341;2.24;15235
-MN;52;;0104;U.S. Representative District 1;1;0301;Brad Finstad;;;R;26;26;7334;48.14;15235
-MN;52;;0104;U.S. Representative District 1;1;0401;Jeff Ettinger;;;DFL;26;26;7309;47.98;15235
-MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;26;26;9;0.06;15235
-MN;52;;0138;State Senator District 18;18;0301;Mark Wright;;;R;26;26;6943;45.63;15215
-MN;52;;0138;State Senator District 18;18;0401;Nick Frentz;;;DFL;26;26;8260;54.29;15215
-MN;52;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;26;26;12;0.08;15215
-MN;52;;0222;State Representative District 18A;18A;0301;Susan Akland;;;R;26;26;7393;48.67;15190
-MN;52;;0222;State Representative District 18A;18A;0401;Jeff Brand;;;DFL;26;26;7779;51.21;15190
-MN;52;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;26;26;18;0.12;15190
-MN;52;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;26;26;99;0.65;15311
-MN;52;;0331;Governor & Lt Governor;;0201;James McCaskel and David Sandbeck;;;LMN;26;26;154;1.01;15311
-MN;52;;0331;Governor & Lt Governor;;0301;Scott Jensen and Matt Birk;;;R;26;26;6964;45.48;15311
-MN;52;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;26;26;7929;51.79;15311
-MN;52;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;26;26;122;0.80;15311
-MN;52;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;26;26;38;0.25;15311
-MN;52;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;26;26;5;0.03;15311
-MN;52;;0332;Secretary of State;;0301;Kim Crockett;;;R;26;26;7095;47.12;15058
-MN;52;;0332;Secretary of State;;0401;Steve Simon;;;DFL;26;26;7947;52.78;15058
-MN;52;;0332;Secretary of State;;9901;WRITE-IN;;;WI;26;26;16;0.11;15058
-MN;52;;0333;State Auditor;;0101;Will Finn;;;GLC;26;26;240;1.60;15031
-MN;52;;0333;State Auditor;;0201;Tim Davis;;;LMN;26;26;487;3.24;15031
-MN;52;;0333;State Auditor;;0301;Ryan Wilson;;;R;26;26;7311;48.64;15031
-MN;52;;0333;State Auditor;;0401;Julie Blaha;;;DFL;26;26;6984;46.46;15031
-MN;52;;0333;State Auditor;;9901;WRITE-IN;;;WI;26;26;9;0.06;15031
-MN;52;;0335;Attorney General;;0301;Jim Schultz;;;R;26;26;7564;49.88;15164
-MN;52;;0335;Attorney General;;0401;Keith Ellison;;;DFL;26;26;7582;50.00;15164
-MN;52;;0335;Attorney General;;9901;WRITE-IN;;;WI;26;26;18;0.12;15164
+MN;52;;0104;U.S. Representative District 1;1;0101;Brian Abrahamson;;;GLC;26;26;242;1.59;15234
+MN;52;;0104;U.S. Representative District 1;1;0201;Richard B. Reisdorf;;;LMN;26;26;341;2.24;15234
+MN;52;;0104;U.S. Representative District 1;1;0301;Brad Finstad;;;R;26;26;7333;48.14;15234
+MN;52;;0104;U.S. Representative District 1;1;0401;Jeff Ettinger;;;DFL;26;26;7309;47.98;15234
+MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;26;26;9;0.06;15234
+MN;52;;0138;State Senator District 18;18;0301;Mark Wright;;;R;26;26;6942;45.63;15214
+MN;52;;0138;State Senator District 18;18;0401;Nick Frentz;;;DFL;26;26;8260;54.29;15214
+MN;52;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;26;26;12;0.08;15214
+MN;52;;0222;State Representative District 18A;18A;0301;Susan Akland;;;R;26;26;7392;48.67;15189
+MN;52;;0222;State Representative District 18A;18A;0401;Jeff Brand;;;DFL;26;26;7779;51.21;15189
+MN;52;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;26;26;18;0.12;15189
+MN;52;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;26;26;99;0.65;15310
+MN;52;;0331;Governor & Lt Governor;;0201;James McCaskel and David Sandbeck;;;LMN;26;26;154;1.01;15310
+MN;52;;0331;Governor & Lt Governor;;0301;Scott Jensen and Matt Birk;;;R;26;26;6963;45.48;15310
+MN;52;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;26;26;7929;51.79;15310
+MN;52;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;26;26;122;0.80;15310
+MN;52;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;26;26;38;0.25;15310
+MN;52;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;26;26;5;0.03;15310
+MN;52;;0332;Secretary of State;;0301;Kim Crockett;;;R;26;26;7094;47.11;15057
+MN;52;;0332;Secretary of State;;0401;Steve Simon;;;DFL;26;26;7947;52.78;15057
+MN;52;;0332;Secretary of State;;9901;WRITE-IN;;;WI;26;26;16;0.11;15057
+MN;52;;0333;State Auditor;;0101;Will Finn;;;GLC;26;26;240;1.60;15030
+MN;52;;0333;State Auditor;;0201;Tim Davis;;;LMN;26;26;487;3.24;15030
+MN;52;;0333;State Auditor;;0301;Ryan Wilson;;;R;26;26;7310;48.64;15030
+MN;52;;0333;State Auditor;;0401;Julie Blaha;;;DFL;26;26;6984;46.47;15030
+MN;52;;0333;State Auditor;;9901;WRITE-IN;;;WI;26;26;9;0.06;15030
+MN;52;;0335;Attorney General;;0301;Jim Schultz;;;R;26;26;7563;49.88;15163
+MN;52;;0335;Attorney General;;0401;Keith Ellison;;;DFL;26;26;7582;50.00;15163
+MN;52;;0335;Attorney General;;9901;WRITE-IN;;;WI;26;26;18;0.12;15163
 MN;52;;0391;County Commissioner District 1;01;9001;Marie Dranttel;;;NP;4;4;1752;63.20;2772
 MN;52;;0391;County Commissioner District 1;01;9003;Jennifer Andrashko;;;NP;4;4;1012;36.51;2772
 MN;52;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;4;4;8;0.29;2772
@@ -4937,52 +4937,52 @@ MN;52;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;3;32;1.43;224
 MN;52;;0394;County Commissioner District 4;04;9001;Thomas P. Hagen;;;NP;3;3;718;28.28;2539
 MN;52;;0394;County Commissioner District 4;04;9002;Mark Dehen;;;NP;3;3;1814;71.45;2539
 MN;52;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;3;3;7;0.28;2539
-MN;52;;0395;County Commissioner District 5;05;9001;John Luepke;;;NP;11;11;1717;48.63;3531
-MN;52;;0395;County Commissioner District 5;05;9002;Kurt Zins;;;NP;11;11;1801;51.01;3531
-MN;52;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;11;11;13;0.37;3531
-MN;52;;0404;County Sheriff;;9001;Dave Lange;;;NP;26;26;9065;63.81;14207
-MN;52;;0404;County Sheriff;;9002;Marc Chadderdon;;;NP;26;26;5087;35.81;14207
-MN;52;;0404;County Sheriff;;9901;WRITE-IN;;;WI;26;26;55;0.39;14207
-MN;52;;0405;County Attorney;;9001;Michelle Zehnder Fischer;;;NP;26;26;12140;98.84;12282
-MN;52;;0405;County Attorney;;9901;WRITE-IN;;;WI;26;26;142;1.16;12282
+MN;52;;0395;County Commissioner District 5;05;9001;John Luepke;;;NP;11;11;1716;48.61;3530
+MN;52;;0395;County Commissioner District 5;05;9002;Kurt Zins;;;NP;11;11;1801;51.02;3530
+MN;52;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;11;11;13;0.37;3530
+MN;52;;0404;County Sheriff;;9001;Dave Lange;;;NP;26;26;9064;63.80;14206
+MN;52;;0404;County Sheriff;;9002;Marc Chadderdon;;;NP;26;26;5087;35.81;14206
+MN;52;;0404;County Sheriff;;9901;WRITE-IN;;;WI;26;26;55;0.39;14206
+MN;52;;0405;County Attorney;;9001;Michelle Zehnder Fischer;;;NP;26;26;12139;98.84;12281
+MN;52;;0405;County Attorney;;9901;WRITE-IN;;;WI;26;26;142;1.16;12281
 MN;52;;0432;Soil and Water Supervisor District 2;6103;9001;Eric Annexstad;;;NP;26;26;12136;99.37;12213
 MN;52;;0432;Soil and Water Supervisor District 2;6103;9901;WRITE-IN;;;WI;26;26;77;0.63;12213
-MN;52;;0435;Soil and Water Supervisor District 5;6103;9001;John H Kral;;;NP;26;26;12019;99.50;12079
-MN;52;;0435;Soil and Water Supervisor District 5;6103;9901;WRITE-IN;;;WI;26;26;60;0.50;12079
-MN;52;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;26;26;10920;99.34;10993
-MN;52;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;26;26;73;0.66;10993
-MN;52;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;26;26;10865;99.36;10935
-MN;52;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;26;26;70;0.64;10935
-MN;52;;7010;Judge - Court of Appeals 1;;9001;Theodora Karin Gaitas;;;NP;26;26;10806;99.34;10878
-MN;52;;7010;Judge - Court of Appeals 1;;9901;WRITE-IN;;;WI;26;26;72;0.66;10878
-MN;52;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;26;26;10792;99.33;10865
-MN;52;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN;;;WI;26;26;73;0.67;10865
-MN;52;;7016;Judge - Court of Appeals 7;;9001;Susan Segal;;;NP;26;26;10780;99.35;10851
-MN;52;;7016;Judge - Court of Appeals 7;;9901;WRITE-IN;;;WI;26;26;71;0.65;10851
-MN;52;;7017;Judge - Court of Appeals 8;;9001;Denise D Reilly;;;NP;26;26;10752;99.32;10826
-MN;52;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;26;26;74;0.68;10826
-MN;52;;7019;Judge - Court of Appeals 10;;9001;Jennifer L. Frisch;;;NP;26;26;10757;99.36;10826
-MN;52;;7019;Judge - Court of Appeals 10;;9901;WRITE-IN;;;WI;26;26;69;0.64;10826
-MN;52;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;26;26;10740;99.30;10816
-MN;52;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN;;;WI;26;26;76;0.70;10816
-MN;52;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;26;26;10749;99.38;10816
-MN;52;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;26;26;67;0.62;10816
-MN;52;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;26;26;10735;99.35;10805
-MN;52;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;26;26;70;0.65;10805
+MN;52;;0435;Soil and Water Supervisor District 5;6103;9001;John H Kral;;;NP;26;26;12018;99.50;12078
+MN;52;;0435;Soil and Water Supervisor District 5;6103;9901;WRITE-IN;;;WI;26;26;60;0.50;12078
+MN;52;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;26;26;10919;99.34;10992
+MN;52;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;26;26;73;0.66;10992
+MN;52;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;26;26;10864;99.36;10934
+MN;52;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;26;26;70;0.64;10934
+MN;52;;7010;Judge - Court of Appeals 1;;9001;Theodora Karin Gaitas;;;NP;26;26;10805;99.34;10877
+MN;52;;7010;Judge - Court of Appeals 1;;9901;WRITE-IN;;;WI;26;26;72;0.66;10877
+MN;52;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;26;26;10791;99.33;10864
+MN;52;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN;;;WI;26;26;73;0.67;10864
+MN;52;;7016;Judge - Court of Appeals 7;;9001;Susan Segal;;;NP;26;26;10779;99.35;10850
+MN;52;;7016;Judge - Court of Appeals 7;;9901;WRITE-IN;;;WI;26;26;71;0.65;10850
+MN;52;;7017;Judge - Court of Appeals 8;;9001;Denise D Reilly;;;NP;26;26;10751;99.32;10825
+MN;52;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;26;26;74;0.68;10825
+MN;52;;7019;Judge - Court of Appeals 10;;9001;Jennifer L. Frisch;;;NP;26;26;10756;99.36;10825
+MN;52;;7019;Judge - Court of Appeals 10;;9901;WRITE-IN;;;WI;26;26;69;0.64;10825
+MN;52;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;26;26;10739;99.30;10815
+MN;52;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN;;;WI;26;26;76;0.70;10815
+MN;52;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;26;26;10748;99.38;10815
+MN;52;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;26;26;67;0.62;10815
+MN;52;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;26;26;10734;99.35;10804
+MN;52;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;26;26;70;0.65;10804
 MN;52;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;26;26;10797;99.36;10867
 MN;52;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;26;26;70;0.64;10867
 MN;52;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;26;26;10734;99.32;10808
 MN;52;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN;;;WI;26;26;74;0.68;10808
-MN;52;;8600;Judge - 5th District Court 1;05;9001;Gregory Anderson;;;NP;26;26;10808;99.37;10876
-MN;52;;8600;Judge - 5th District Court 1;05;9901;WRITE-IN;;;WI;26;26;68;0.63;10876
-MN;52;;8602;Judge - 5th District Court 3;05;9001;Allison L. Krehbiel;;;NP;26;26;10831;99.14;10925
-MN;52;;8602;Judge - 5th District Court 3;05;9901;WRITE-IN;;;WI;26;26;94;0.86;10925
-MN;52;;8603;Judge - 5th District Court 4;05;9001;Sherry Haley;;;NP;26;26;10744;99.34;10815
-MN;52;;8603;Judge - 5th District Court 4;05;9901;WRITE-IN;;;WI;26;26;71;0.66;10815
-MN;52;;8605;Judge - 5th District Court 6;05;9001;Michelle Dietrich;;;NP;26;26;10753;99.36;10822
-MN;52;;8605;Judge - 5th District Court 6;05;9901;WRITE-IN;;;WI;26;26;69;0.64;10822
-MN;52;;8615;Judge - 5th District Court 16;05;9001;Darci J. Bentz;;;NP;26;26;10727;99.34;10798
-MN;52;;8615;Judge - 5th District Court 16;05;9901;WRITE-IN;;;WI;26;26;71;0.66;10798
+MN;52;;8600;Judge - 5th District Court 1;05;9001;Gregory Anderson;;;NP;26;26;10807;99.37;10875
+MN;52;;8600;Judge - 5th District Court 1;05;9901;WRITE-IN;;;WI;26;26;68;0.63;10875
+MN;52;;8602;Judge - 5th District Court 3;05;9001;Allison L. Krehbiel;;;NP;26;26;10830;99.14;10924
+MN;52;;8602;Judge - 5th District Court 3;05;9901;WRITE-IN;;;WI;26;26;94;0.86;10924
+MN;52;;8603;Judge - 5th District Court 4;05;9001;Sherry Haley;;;NP;26;26;10743;99.34;10814
+MN;52;;8603;Judge - 5th District Court 4;05;9901;WRITE-IN;;;WI;26;26;71;0.66;10814
+MN;52;;8605;Judge - 5th District Court 6;05;9001;Michelle Dietrich;;;NP;26;26;10752;99.36;10821
+MN;52;;8605;Judge - 5th District Court 6;05;9901;WRITE-IN;;;WI;26;26;69;0.64;10821
+MN;52;;8615;Judge - 5th District Court 16;05;9001;Darci J. Bentz;;;NP;26;26;10726;99.34;10797
+MN;52;;8615;Judge - 5th District Court 16;05;9901;WRITE-IN;;;WI;26;26;71;0.66;10797
 MN;53;;0104;U.S. Representative District 1;1;0101;Brian Abrahamson;;;GLC;40;40;136;2.26;6016
 MN;53;;0104;U.S. Representative District 1;1;0201;Richard B. Reisdorf;;;LMN;40;40;142;2.36;6016
 MN;53;;0104;U.S. Representative District 1;1;0301;Brad Finstad;;;R;40;40;3981;66.17;6016
@@ -7193,8 +7193,8 @@ MN;75;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;24;24;287
 MN;75;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;24;24;14;0.49;2886
 MN;75;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;24;24;2907;99.76;2914
 MN;75;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;24;24;7;0.24;2914
-MN;75;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;24;24;2864;99.65;2874
-MN;75;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;24;24;10;0.35;2874
+MN;75;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;24;24;2861;99.65;2871
+MN;75;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;24;24;10;0.35;2871
 MN;75;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;24;24;2895;99.69;2904
 MN;75;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN;;;WI;24;24;9;0.31;2904
 MN;75;;9002;Judge - 8th District Court 3;08;9001;Keith Helgeson;;;NP;24;24;2868;99.38;2886
