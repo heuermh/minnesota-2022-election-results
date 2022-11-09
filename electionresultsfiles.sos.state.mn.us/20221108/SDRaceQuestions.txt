@@ -303,26 +303,26 @@ MN;;;5000;School Board Member (ISD #138) (Elect 3);0138;9004;Shane O'Connor;;;NP
 MN;;;5000;School Board Member (ISD #138) (Elect 3);0138;9901;WRITE-IN;;;WI;0;13;0;0.00;0
 MN;;;5001;Special Election for School Board Member (ISD #138);0138;9001;Shelly Johnson;;;NP;0;13;0;0.00;0
 MN;;;5001;Special Election for School Board Member (ISD #138);0138;9901;WRITE-IN;;;WI;0;13;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #150);0150;9001;YES;;;NP;0;10;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #150);0150;9002;NO;;;NP;0;10;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #150);0150;9001;YES;;;NP;0;10;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #150);0150;9002;NO;;;NP;0;10;0;0.00;0
-MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9001;Jeff Lee;;;NP;0;10;0;0.00;0
-MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9002;Bobbi Siegel;;;NP;0;10;0;0.00;0
-MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9003;Cody Marshall;;;NP;0;10;0;0.00;0
-MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9901;WRITE-IN;;;WI;0;10;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9001;Kent J. Wolford;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9002;David Marquardt;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9003;Keith Vogt;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9004;Lisa Hahn;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9005;Marissa Ahlering;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9006;Scott Kostohryz;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9007;Lorilee Bergin;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9008;Clint Rossland;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9009;Kristine Thompson;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9010;Ken Lucier;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9011;Nikki Pollock;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9901;WRITE-IN;;;WI;0;28;0;0.00;0
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #150);0150;9001;YES;;;NP;4;10;221;42.83;516
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #150);0150;9002;NO;;;NP;4;10;295;57.17;516
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #150);0150;9001;YES;;;NP;4;10;178;34.70;513
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #150);0150;9002;NO;;;NP;4;10;335;65.30;513
+MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9001;Jeff Lee;;;NP;4;10;250;29.52;847
+MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9002;Bobbi Siegel;;;NP;4;10;229;27.04;847
+MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9003;Cody Marshall;;;NP;4;10;264;31.17;847
+MN;;;5000;School Board Member (ISD #150) (Elect 3);0150;9901;WRITE-IN;;;WI;4;10;104;12.28;847
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9001;Kent J. Wolford;;;NP;10;28;394;12.77;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9002;David Marquardt;;;NP;10;28;349;11.31;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9003;Keith Vogt;;;NP;10;28;422;13.67;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9004;Lisa Hahn;;;NP;10;28;293;9.49;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9005;Marissa Ahlering;;;NP;10;28;210;6.80;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9006;Scott Kostohryz;;;NP;10;28;222;7.19;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9007;Lorilee Bergin;;;NP;10;28;333;10.79;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9008;Clint Rossland;;;NP;10;28;156;5.06;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9009;Kristine Thompson;;;NP;10;28;211;6.84;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9010;Ken Lucier;;;NP;10;28;244;7.91;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9011;Nikki Pollock;;;NP;10;28;245;7.94;3086
+MN;;;5000;School Board Member (ISD #152) (Elect 3);0152;9901;WRITE-IN;;;WI;10;28;7;0.23;3086
 MN;;;5000;School Board Member (ISD #162) (Elect 3);0162;9001;Wendy Fultz;;;NP;0;18;0;0.00;0
 MN;;;5000;School Board Member (ISD #162) (Elect 3);0162;9002;Amanda Koop;;;NP;0;18;0;0.00;0
 MN;;;5000;School Board Member (ISD #162) (Elect 3);0162;9003;Andrew Bennett;;;NP;0;18;0;0.00;0
@@ -450,9 +450,9 @@ MN;;;5000;School Board Member (ISD #213) (Elect 3);0213;9005;Greg Faber;;;NP;0;1
 MN;;;5000;School Board Member (ISD #213) (Elect 3);0213;9901;WRITE-IN;;;WI;0;12;0;0.00;0
 MN;;;5001;Special Election for School Board Member (ISD #213);0213;9001;Becky Hensley;;;NP;0;12;0;0.00;0
 MN;;;5001;Special Election for School Board Member (ISD #213);0213;9901;WRITE-IN;;;WI;0;12;0;0.00;0
-MN;;;5000;School Board Member (ISD #227) (Elect 3);0227;9001;David P Sovinski;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #227) (Elect 3);0227;9002;Josh Thompson;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #227) (Elect 3);0227;9901;WRITE-IN;;;WI;0;15;0;0.00;0
+MN;;;5000;School Board Member (ISD #227) (Elect 3);0227;9001;David P Sovinski;;;NP;1;15;0;0.00;0
+MN;;;5000;School Board Member (ISD #227) (Elect 3);0227;9002;Josh Thompson;;;NP;1;15;0;0.00;0
+MN;;;5000;School Board Member (ISD #227) (Elect 3);0227;9901;WRITE-IN;;;WI;1;15;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #229) (Elect 3);0229;9001;Angela Taylor;;;NP;0;10;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #229) (Elect 3);0229;9002;Trent Olson;;;NP;0;10;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #229) (Elect 3);0229;9003;Steven Snyder;;;NP;0;10;0;0.00;0
@@ -463,11 +463,11 @@ MN;;;5000;School Board Member at Large (ISD #238) (Elect 3);0238;9001;Traci McKe
 MN;;;5000;School Board Member at Large (ISD #238) (Elect 3);0238;9002;Diane Wilder;;;NP;0;8;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #238) (Elect 3);0238;9003;Dustin Tollefsrud;;;NP;0;8;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #238) (Elect 3);0238;9901;WRITE-IN;;;WI;0;8;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9001;Nancy Snyder;;;NP;1;16;7;50.00;14
-MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9002;Carl Schollmeier;;;NP;1;16;1;7.14;14
-MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9003;Kris Leisen;;;NP;1;16;4;28.57;14
-MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9004;Jeff Michel;;;NP;1;16;2;14.29;14
-MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9901;WRITE-IN;;;WI;1;16;0;0.00;14
+MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9001;Nancy Snyder;;;NP;2;16;7;50.00;14
+MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9002;Carl Schollmeier;;;NP;2;16;1;7.14;14
+MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9003;Kris Leisen;;;NP;2;16;4;28.57;14
+MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9004;Jeff Michel;;;NP;2;16;2;14.29;14
+MN;;;5000;School Board Member at Large (ISD #239) (Elect 3);0239;9901;WRITE-IN;;;WI;2;16;0;0.00;14
 MN;;;5000;School Board Member (ISD #241) (Elect 4);0241;9001;Kim Nelson;;;NP;0;29;0;0.00;0
 MN;;;5000;School Board Member (ISD #241) (Elect 4);0241;9002;Christopher John Seedorf;;;NP;0;29;0;0.00;0
 MN;;;5000;School Board Member (ISD #241) (Elect 4);0241;9003;Ryan Quigley;;;NP;0;29;0;0.00;0
@@ -626,15 +626,15 @@ MN;;;5000;School Board Member (ISD #299) (Elect 4);0299;9004;Seth Louks;;;NP;0;1
 MN;;;5000;School Board Member (ISD #299) (Elect 4);0299;9005;Jon Kochie;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #299) (Elect 4);0299;9006;Melissa Marschall;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #299) (Elect 4);0299;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9001;Christine Meindel-Wagner;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9002;Sarah Byom;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9003;Bonnie Martin;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9004;Nicole Miller;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9005;Chris Humble;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9006;Wade Welper;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9007;Danielle Martell;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9008;Darcey Cody;;;NP;0;14;0;0.00;0
-MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9901;WRITE-IN;;;WI;0;14;0;0.00;0
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9001;Christine Meindel-Wagner;;;NP;1;14;3;2.75;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9002;Sarah Byom;;;NP;1;14;13;11.93;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9003;Bonnie Martin;;;NP;1;14;22;20.18;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9004;Nicole Miller;;;NP;1;14;13;11.93;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9005;Chris Humble;;;NP;1;14;5;4.59;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9006;Wade Welper;;;NP;1;14;16;14.68;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9007;Danielle Martell;;;NP;1;14;22;20.18;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9008;Darcey Cody;;;NP;1;14;15;13.76;109
+MN;;;5000;School Board Member (ISD #300) (Elect 3);0300;9901;WRITE-IN;;;WI;1;14;0;0.00;109
 MN;;;5000;School Board Member (ISD #306) (Elect 3);0306;9001;Courtney Weber;;;NP;0;10;0;0.00;0
 MN;;;5000;School Board Member (ISD #306) (Elect 3);0306;9002;Karl Beck;;;NP;0;10;0;0.00;0
 MN;;;5000;School Board Member (ISD #306) (Elect 3);0306;9003;Andrew Graham;;;NP;0;10;0;0.00;0
@@ -1053,11 +1053,11 @@ MN;;;5000;School Board Member (ISD #547) (Elect 4);0547;9003;Brad Ost;;;NP;0;12;
 MN;;;5000;School Board Member (ISD #547) (Elect 4);0547;9004;Judith A. Moeller;;;NP;0;12;0;0.00;0
 MN;;;5000;School Board Member (ISD #547) (Elect 4);0547;9005;Christy Hart;;;NP;0;12;0;0.00;0
 MN;;;5000;School Board Member (ISD #547) (Elect 4);0547;9901;WRITE-IN;;;WI;0;12;0;0.00;0
-MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9001;Billy Milbeck;;;NP;0;20;0;0.00;0
-MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9002;Brenda K Olson;;;NP;0;20;0;0.00;0
-MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9003;Staci (Tollerud) Allmaras;;;NP;0;20;0;0.00;0
-MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9004;Greg Larson;;;NP;0;20;0;0.00;0
-MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9901;WRITE-IN;;;WI;0;20;0;0.00;0
+MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9001;Billy Milbeck;;;NP;1;20;8;10.39;77
+MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9002;Brenda K Olson;;;NP;1;20;15;19.48;77
+MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9003;Staci (Tollerud) Allmaras;;;NP;1;20;19;24.68;77
+MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9004;Greg Larson;;;NP;1;20;8;10.39;77
+MN;;;5000;School Board Member (ISD #548) (Elect 3);0548;9901;WRITE-IN;;;WI;1;20;27;35.06;77
 MN;;;5000;School Board Member (ISD #549) (Elect 4);0549;9001;Michael Hamann;;;NP;0;22;0;0.00;0
 MN;;;5000;School Board Member (ISD #549) (Elect 4);0549;9002;John Rutten;;;NP;0;22;0;0.00;0
 MN;;;5000;School Board Member (ISD #549) (Elect 4);0549;9003;DJ Altstadt;;;NP;0;22;0;0.00;0
@@ -1180,38 +1180,38 @@ MN;;;5000;School Board Member (ISD #640) (Elect 4);0640;9002;Tom Carlson;;;NP;0;
 MN;;;5000;School Board Member (ISD #640) (Elect 4);0640;9003;Travis Welch;;;NP;0;17;0;0.00;0
 MN;;;5000;School Board Member (ISD #640) (Elect 4);0640;9004;Dave Eis;;;NP;0;17;0;0.00;0
 MN;;;5000;School Board Member (ISD #640) (Elect 4);0640;9901;WRITE-IN;;;WI;0;17;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #656);0656;9001;YES;;;NP;0;19;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #656);0656;9002;NO;;;NP;0;19;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #656);0656;9001;YES;;;NP;0;19;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #656);0656;9002;NO;;;NP;0;19;0;0.00;0
-MN;;;5033;SCHOOL DISTRICT QUESTION 3 (ISD #656);0656;9001;YES;;;NP;0;19;0;0.00;0
-MN;;;5033;SCHOOL DISTRICT QUESTION 3 (ISD #656);0656;9002;NO;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9001;Lynda Boudreau;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9002;Courtney Cavellier;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9003;Linda Moore;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9004;Lee Ann Lechtenberg;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9005;John Bellingham;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9006;Tom Hanson;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9007;Michael D. Cross;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9008;Chad Wolff;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9009;Damian Baum;;;NP;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9901;WRITE-IN;;;WI;0;19;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #659);0659;9001;YES;;;NP;0;25;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #659);0659;9002;NO;;;NP;0;25;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #659);0659;9001;YES;;;NP;0;25;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #659);0659;9002;NO;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9001;Jeff Quinnell;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9002;Robert Coleman;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9003;Tom Baraniak;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9004;Ben Miller;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9005;Ricky Antonio Livingston;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9006;Jenny Nelson;;;NP;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9901;WRITE-IN;;;WI;0;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9001;Eric Uittenbogaard;;;NP;5;7;225;20.18;1115
-MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9002;Travis Helgeson;;;NP;5;7;282;25.29;1115
-MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9003;Arlyn Gehrke;;;NP;5;7;314;28.16;1115
-MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9004;Ethan Rozeboom;;;NP;5;7;276;24.75;1115
-MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9901;WRITE-IN;;;WI;5;7;18;1.61;1115
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #656);0656;9001;YES;;;NP;14;19;5346;53.99;9902
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #656);0656;9002;NO;;;NP;14;19;4556;46.01;9902
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #656);0656;9001;YES;;;NP;14;19;4003;40.54;9874
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #656);0656;9002;NO;;;NP;14;19;5871;59.46;9874
+MN;;;5033;SCHOOL DISTRICT QUESTION 3 (ISD #656);0656;9001;YES;;;NP;14;19;3978;40.19;9899
+MN;;;5033;SCHOOL DISTRICT QUESTION 3 (ISD #656);0656;9002;NO;;;NP;14;19;5921;59.81;9899
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9001;Lynda Boudreau;;;NP;14;19;5316;17.65;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9002;Courtney Cavellier;;;NP;14;19;2821;9.37;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9003;Linda Moore;;;NP;14;19;4095;13.60;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9004;Lee Ann Lechtenberg;;;NP;14;19;3555;11.81;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9005;John Bellingham;;;NP;14;19;3907;12.97;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9006;Tom Hanson;;;NP;14;19;2180;7.24;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9007;Michael D. Cross;;;NP;14;19;2601;8.64;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9008;Chad Wolff;;;NP;14;19;4406;14.63;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9009;Damian Baum;;;NP;14;19;1115;3.70;30113
+MN;;;5000;School Board Member (ISD #656) (Elect 4);0656;9901;WRITE-IN;;;WI;14;19;117;0.39;30113
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #659);0659;9001;YES;;;NP;11;25;7432;72.54;10245
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #659);0659;9002;NO;;;NP;11;25;2813;27.46;10245
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #659);0659;9001;YES;;;NP;11;25;6336;61.95;10228
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #659);0659;9002;NO;;;NP;11;25;3892;38.05;10228
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9001;Jeff Quinnell;;;NP;11;25;4121;16.99;24250
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9002;Robert Coleman;;;NP;11;25;4218;17.39;24250
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9003;Tom Baraniak;;;NP;11;25;3223;13.29;24250
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9004;Ben Miller;;;NP;11;25;4684;19.32;24250
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9005;Ricky Antonio Livingston;;;NP;11;25;3420;14.10;24250
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9006;Jenny Nelson;;;NP;11;25;4478;18.47;24250
+MN;;;5000;School Board Member (ISD #659) (Elect 3);0659;9901;WRITE-IN;;;WI;11;25;106;0.44;24250
+MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9001;Eric Uittenbogaard;;;NP;7;7;561;21.68;2588
+MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9002;Travis Helgeson;;;NP;7;7;637;24.61;2588
+MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9003;Arlyn Gehrke;;;NP;7;7;696;26.89;2588
+MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9004;Ethan Rozeboom;;;NP;7;7;661;25.54;2588
+MN;;;5000;School Board Member (ISD #671) (Elect 4);0671;9901;WRITE-IN;;;WI;7;7;33;1.28;2588
 MN;;;5000;School Board Member (ISD #676) (Elect 3);0676;9001;Jamie Isane;;;NP;0;12;0;0.00;0
 MN;;;5000;School Board Member (ISD #676) (Elect 3);0676;9002;Dana Didrikson;;;NP;0;12;0;0.00;0
 MN;;;5000;School Board Member (ISD #676) (Elect 3);0676;9003;Jeramy Swenson;;;NP;0;12;0;0.00;0
@@ -1322,17 +1322,17 @@ MN;;;5000;School Board Member (ISD #720) (Elect 4);0720;9006;Zachary Pierson;;;N
 MN;;;5000;School Board Member (ISD #720) (Elect 4);0720;9007;Caroline Valdez;;;NP;0;24;0;0.00;0
 MN;;;5000;School Board Member (ISD #720) (Elect 4);0720;9008;David Melby;;;NP;0;24;0;0.00;0
 MN;;;5000;School Board Member (ISD #720) (Elect 4);0720;9901;WRITE-IN;;;WI;0;24;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #721);0721;9001;YES;;;NP;0;15;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #721);0721;9002;NO;;;NP;0;15;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #721);0721;9001;YES;;;NP;0;15;0;0.00;0
-MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #721);0721;9002;NO;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9001;Jean Schmidt;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9002;Mark Bartusek;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9003;Daniel Call;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9004;Karen Steinhoff;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9005;Paul Frykman;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9006;Tammara Pexa;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9901;WRITE-IN;;;WI;0;15;0;0.00;0
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #721);0721;9001;YES;;;NP;3;15;263;27.11;970
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #721);0721;9002;NO;;;NP;3;15;707;72.89;970
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #721);0721;9001;YES;;;NP;3;15;264;27.30;967
+MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #721);0721;9002;NO;;;NP;3;15;703;72.70;967
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9001;Jean Schmidt;;;NP;3;15;343;15.96;2149
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9002;Mark Bartusek;;;NP;3;15;473;22.01;2149
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9003;Daniel Call;;;NP;3;15;406;18.89;2149
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9004;Karen Steinhoff;;;NP;3;15;368;17.12;2149
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9005;Paul Frykman;;;NP;3;15;215;10.00;2149
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9006;Tammara Pexa;;;NP;3;15;329;15.31;2149
+MN;;;5000;School Board Member (ISD #721) (Elect 3);0721;9901;WRITE-IN;;;WI;3;15;15;0.70;2149
 MN;;;5000;School Board Member (ISD #726) (Elect 3);0726;9001;Pete Weismann;;;NP;0;6;0;0.00;0
 MN;;;5000;School Board Member (ISD #726) (Elect 3);0726;9002;Keri Rickard;;;NP;0;6;0;0.00;0
 MN;;;5000;School Board Member (ISD #726) (Elect 3);0726;9003;Sarah Colford;;;NP;0;6;0;0.00;0
@@ -1382,13 +1382,13 @@ MN;;;5000;School Board Member (ISD #741) (Elect 4);0741;9003;Ronald R. Spanier;;
 MN;;;5000;School Board Member (ISD #741) (Elect 4);0741;9004;Jacob Holck;;;NP;0;17;0;0.00;0
 MN;;;5000;School Board Member (ISD #741) (Elect 4);0741;9005;Jerald Quarfot;;;NP;0;17;0;0.00;0
 MN;;;5000;School Board Member (ISD #741) (Elect 4);0741;9901;WRITE-IN;;;WI;0;17;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9001;Mike Bueckers;;;NP;0;62;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9002;Nicole Rierson;;;NP;0;62;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9003;Heather Weems;;;NP;0;62;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9004;Zachary Dorholt;;;NP;0;62;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9006;Theresa Carlstedt;;;NP;0;62;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9007;Natalie Ringsmuth;;;NP;0;62;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9901;WRITE-IN;;;WI;0;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9001;Mike Bueckers;;;NP;1;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9002;Nicole Rierson;;;NP;1;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9003;Heather Weems;;;NP;1;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9004;Zachary Dorholt;;;NP;1;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9006;Theresa Carlstedt;;;NP;1;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9007;Natalie Ringsmuth;;;NP;1;62;0;0.00;0
+MN;;;5000;School Board Member at Large (ISD #742) (Elect 3);0742;9901;WRITE-IN;;;WI;1;62;0;0.00;0
 MN;;;5000;School Board Member (ISD #743) (Elect 4);0743;9001;Ann Hess;;;NP;0;13;0;0.00;0
 MN;;;5000;School Board Member (ISD #743) (Elect 4);0743;9002;Joe Borgerding;;;NP;0;13;0;0.00;0
 MN;;;5000;School Board Member (ISD #743) (Elect 4);0743;9003;Joshua Rieland;;;NP;0;13;0;0.00;0
@@ -1433,18 +1433,18 @@ MN;;;5000;School Board Member (ISD #761) (Elect 4);0761;9009;Jan Guse;;;NP;0;22;
 MN;;;5000;School Board Member (ISD #761) (Elect 4);0761;9010;Michael Herman;;;NP;0;22;0;0.00;0
 MN;;;5000;School Board Member (ISD #761) (Elect 4);0761;9011;Colin Whalen;;;NP;0;22;0;0.00;0
 MN;;;5000;School Board Member (ISD #761) (Elect 4);0761;9901;WRITE-IN;;;WI;0;22;0;0.00;0
-MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9001;Allison Janke;;;NP;0;9;0;0.00;0
-MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9002;Jenny Jones;;;NP;0;9;0;0.00;0
-MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9003;Whitney Winkels;;;NP;0;9;0;0.00;0
-MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9901;WRITE-IN;;;WI;0;9;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #768);0768;9001;YES;;;NP;0;8;0;0.00;0
-MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #768);0768;9002;NO;;;NP;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9001;Brett Duncan;;;NP;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9002;John Boon;;;NP;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9003;Ashlee Francois;;;NP;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9004;Kevin Joos;;;NP;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9005;Bridget Joos;;;NP;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9901;WRITE-IN;;;WI;0;8;0;0.00;0
+MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9001;Allison Janke;;;NP;3;9;120;36.92;325
+MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9002;Jenny Jones;;;NP;3;9;107;32.92;325
+MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9003;Whitney Winkels;;;NP;3;9;95;29.23;325
+MN;;;5000;School Board Member (ISD #763) (Elect 3);0763;9901;WRITE-IN;;;WI;3;9;3;0.92;325
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #768);0768;9001;YES;;;NP;1;8;26;78.79;33
+MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #768);0768;9002;NO;;;NP;1;8;7;21.21;33
+MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9001;Brett Duncan;;;NP;1;8;25;25.77;97
+MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9002;John Boon;;;NP;1;8;23;23.71;97
+MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9003;Ashlee Francois;;;NP;1;8;8;8.25;97
+MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9004;Kevin Joos;;;NP;1;8;21;21.65;97
+MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9005;Bridget Joos;;;NP;1;8;20;20.62;97
+MN;;;5000;School Board Member (ISD #768) (Elect 3);0768;9901;WRITE-IN;;;WI;1;8;0;0.00;97
 MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #771);0771;9001;YES;;;NP;0;15;0;0.00;0
 MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #771);0771;9002;NO;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #771) (Elect 3);0771;9001;Heidi Brethorst;;;NP;0;15;0;0.00;0
@@ -1455,12 +1455,12 @@ MN;;;5000;School Board Member (ISD #775) (Elect 3);0775;9001;Todd Rudningen;;;NP
 MN;;;5000;School Board Member (ISD #775) (Elect 3);0775;9002;Carla Olson;;;NP;0;17;0;0.00;0
 MN;;;5000;School Board Member (ISD #775) (Elect 3);0775;9003;Harmon Wilts;;;NP;0;17;0;0.00;0
 MN;;;5000;School Board Member (ISD #775) (Elect 3);0775;9901;WRITE-IN;;;WI;0;17;0;0.00;0
-MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9001;Ron A. Hanson "Spahny";;;NP;0;23;0;0.00;0
-MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9002;Paul Carruth;;;NP;0;23;0;0.00;0
-MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9003;Brian Samuelson;;;NP;0;23;0;0.00;0
-MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9004;Melissa Wrobleski;;;NP;0;23;0;0.00;0
-MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9005;James L Berens;;;NP;0;23;0;0.00;0
-MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9901;WRITE-IN;;;WI;0;23;0;0.00;0
+MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9001;Ron A. Hanson "Spahny";;;NP;2;23;25;14.29;175
+MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9002;Paul Carruth;;;NP;2;23;59;33.71;175
+MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9003;Brian Samuelson;;;NP;2;23;41;23.43;175
+MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9004;Melissa Wrobleski;;;NP;2;23;18;10.29;175
+MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9005;James L Berens;;;NP;2;23;32;18.29;175
+MN;;;5000;School Board Member (ISD #777) (Elect 3);0777;9901;WRITE-IN;;;WI;2;23;0;0.00;175
 MN;;;5000;School Board Member (ISD #786) (Elect 4);0786;9001;Keith Bauch;;;NP;0;14;0;0.00;0
 MN;;;5000;School Board Member (ISD #786) (Elect 4);0786;9002;Kim Gavin;;;NP;0;14;0;0.00;0
 MN;;;5000;School Board Member (ISD #786) (Elect 4);0786;9003;Sharon Thiel;;;NP;0;14;0;0.00;0
@@ -1516,15 +1516,15 @@ MN;;;5000;School Board Member (ISD #821) (Elect 3);0821;9002;Katie Howard;;;NP;0
 MN;;;5000;School Board Member (ISD #821) (Elect 3);0821;9003;Dan Gaughan;;;NP;0;13;0;0.00;0
 MN;;;5000;School Board Member (ISD #821) (Elect 3);0821;9004;Andrea Haverinen;;;NP;0;13;0;0.00;0
 MN;;;5000;School Board Member (ISD #821) (Elect 3);0821;9901;WRITE-IN;;;WI;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9001;Scott C. Deml;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9002;Jonathan J. Michels;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9004;Charles Priebe;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9005;Dave Dunn;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9006;Alyssa Bowers;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9007;Andrew J. Isker;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9008;Theron Avery Kruger;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9009;Robert Dickerson;;;NP;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9901;WRITE-IN;;;WI;0;15;0;0.00;0
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9001;Scott C. Deml;;;NP;1;15;4;14.29;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9002;Jonathan J. Michels;;;NP;1;15;1;3.57;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9004;Charles Priebe;;;NP;1;15;6;21.43;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9005;Dave Dunn;;;NP;1;15;6;21.43;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9006;Alyssa Bowers;;;NP;1;15;3;10.71;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9007;Andrew J. Isker;;;NP;1;15;1;3.57;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9008;Theron Avery Kruger;;;NP;1;15;5;17.86;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9009;Robert Dickerson;;;NP;1;15;2;7.14;28
+MN;;;5000;School Board Member (ISD #829) (Elect 4);0829;9901;WRITE-IN;;;WI;1;15;0;0.00;28
 MN;;;5000;School Board Member at Large (ISD #831) (Elect 3);0831;9001;Jill Christenson;;;NP;0;23;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #831) (Elect 3);0831;9002;Luke Hagglund;;;NP;0;23;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #831) (Elect 3);0831;9003;Todd Proulx;;;NP;0;23;0;0.00;0
@@ -1575,29 +1575,29 @@ MN;;;5000;School Board Member at Large (ISD #852) (Elect 3);0852;9002;Shana Klin
 MN;;;5000;School Board Member at Large (ISD #852) (Elect 3);0852;9003;Eric Punt;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #852) (Elect 3);0852;9004;Ben Loll;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member at Large (ISD #852) (Elect 3);0852;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9001;Maria Baer;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9002;Jeffrey Nelson;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9003;Holly Burt;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9004;David J. Baer;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9005;Daniel Kreidermacher;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9006;Sara Daley;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9901;WRITE-IN;;;WI;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9001;Karen Hanson;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9002;Peggy Carlson;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9003;Roger Leistikow;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9004;Travis W. Gransee;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9005;Eric Manley;;;NP;0;13;0;0.00;0
-MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9901;WRITE-IN;;;WI;0;13;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #858);0858;9001;John Brogan;;;NP;0;13;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #858);0858;9002;Bruce Dorman;;;NP;0;13;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #858);0858;9901;WRITE-IN;;;WI;0;13;0;0.00;0
-MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9001;Torry Moore;;;NP;1;38;30;13.45;223
-MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9002;Nancy Denzer;;;NP;1;38;95;42.60;223
-MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9003;Maurella L. Cunningham;;;NP;1;38;51;22.87;223
-MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9004;Karl W Sonneman;;;NP;1;38;44;19.73;223
-MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9901;WRITE-IN;;;WI;1;38;3;1.35;223
-MN;;;5012;School Board Member District 2 (ISD #861);0861;9001;Michael Hanratty;;;NP;0;4;0;0.00;0
-MN;;;5012;School Board Member District 2 (ISD #861);0861;9901;WRITE-IN;;;WI;0;4;0;0.00;0
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9001;Maria Baer;;;NP;1;13;16;10.06;159
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9002;Jeffrey Nelson;;;NP;1;13;23;14.47;159
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9003;Holly Burt;;;NP;1;13;26;16.35;159
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9004;David J. Baer;;;NP;1;13;18;11.32;159
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9005;Daniel Kreidermacher;;;NP;1;13;34;21.38;159
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9006;Sara Daley;;;NP;1;13;42;26.42;159
+MN;;;5000;School Board Member (ISD #857) (Elect 3);0857;9901;WRITE-IN;;;WI;1;13;0;0.00;159
+MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9001;Karen Hanson;;;NP;1;13;110;20.45;538
+MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9002;Peggy Carlson;;;NP;1;13;122;22.68;538
+MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9003;Roger Leistikow;;;NP;1;13;124;23.05;538
+MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9004;Travis W. Gransee;;;NP;1;13;92;17.10;538
+MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9005;Eric Manley;;;NP;1;13;83;15.43;538
+MN;;;5000;School Board Member (ISD #858) (Elect 4);0858;9901;WRITE-IN;;;WI;1;13;7;1.30;538
+MN;;;5001;Special Election for School Board Member (ISD #858);0858;9001;John Brogan;;;NP;1;13;127;64.14;198
+MN;;;5001;Special Election for School Board Member (ISD #858);0858;9002;Bruce Dorman;;;NP;1;13;69;34.85;198
+MN;;;5001;Special Election for School Board Member (ISD #858);0858;9901;WRITE-IN;;;WI;1;13;2;1.01;198
+MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9001;Torry Moore;;;NP;5;38;257;11.28;2278
+MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9002;Nancy Denzer;;;NP;5;38;897;39.38;2278
+MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9003;Maurella L. Cunningham;;;NP;5;38;506;22.21;2278
+MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9004;Karl W Sonneman;;;NP;5;38;603;26.47;2278
+MN;;;5000;School Board Member at Large (ISD #861) (Elect 2);0861;9901;WRITE-IN;;;WI;5;38;15;0.66;2278
+MN;;;5012;School Board Member District 2 (ISD #861);0861;9001;Michael Hanratty;;;NP;1;4;422;99.53;424
+MN;;;5012;School Board Member District 2 (ISD #861);0861;9901;WRITE-IN;;;WI;1;4;2;0.47;424
 MN;;;5010;School Board Member District 1 (ISD #861);0861;9001;Ted Hazelton;;;NP;0;5;0;0.00;0
 MN;;;5010;School Board Member District 1 (ISD #861);0861;9002;Pete Watkins;;;NP;0;5;0;0.00;0
 MN;;;5010;School Board Member District 1 (ISD #861);0861;9901;WRITE-IN;;;WI;0;5;0;0.00;0
@@ -1672,11 +1672,11 @@ MN;;;5000;School Board Member (ISD #912) (Elect 4);0912;9001;Jennifer Corrow;;;N
 MN;;;5000;School Board Member (ISD #912) (Elect 4);0912;9002;Sara Herr-Larsen;;;NP;0;19;0;0.00;0
 MN;;;5000;School Board Member (ISD #912) (Elect 4);0912;9003;Jere Day;;;NP;0;19;0;0.00;0
 MN;;;5000;School Board Member (ISD #912) (Elect 4);0912;9901;WRITE-IN;;;WI;0;19;0;0.00;0
-MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9001;Donna Jacob;;;NP;0;12;0;0.00;0
-MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9002;Jennie Wibe-Bjerke;;;NP;0;12;0;0.00;0
-MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9003;Laura Tweten;;;NP;0;12;0;0.00;0
-MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9004;Kathleen Evenson;;;NP;0;12;0;0.00;0
-MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9901;WRITE-IN;;;WI;0;12;0;0.00;0
+MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9001;Donna Jacob;;;NP;6;12;122;17.55;695
+MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9002;Jennie Wibe-Bjerke;;;NP;6;12;152;21.87;695
+MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9003;Laura Tweten;;;NP;6;12;149;21.44;695
+MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9004;Kathleen Evenson;;;NP;6;12;142;20.43;695
+MN;;;5000;School Board Member (ISD #914) (Elect 4);0914;9901;WRITE-IN;;;WI;6;12;130;18.71;695
 MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #2071);2071;9001;YES;;;NP;0;16;0;0.00;0
 MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #2071);2071;9002;NO;;;NP;0;16;0;0.00;0
 MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #2071);2071;9001;YES;;;NP;0;16;0;0.00;0
@@ -1721,11 +1721,11 @@ MN;;;5014;School Board Member District 3 (ISD #2142);2142;9001;Ron Marinaro;;;NP
 MN;;;5014;School Board Member District 3 (ISD #2142);2142;9901;WRITE-IN;;;WI;0;5;0;0.00;0
 MN;;;5018;School Board Member District 5 (ISD #2142);2142;9001;Lynn A Hilde;;;NP;0;5;0;0.00;0
 MN;;;5018;School Board Member District 5 (ISD #2142);2142;9901;WRITE-IN;;;WI;0;5;0;0.00;0
-MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9001;Jon Bakken;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9002;Troy Tolzman;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9003;Gary Michael;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9004;Brenda Heuss;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9001;Jon Bakken;;;NP;3;16;488;26.84;1818
+MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9002;Troy Tolzman;;;NP;3;16;471;25.91;1818
+MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9003;Gary Michael;;;NP;3;16;418;22.99;1818
+MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9004;Brenda Heuss;;;NP;3;16;414;22.77;1818
+MN;;;5000;School Board Member (ISD #2143) (Elect 4);2143;9901;WRITE-IN;;;WI;3;16;27;1.49;1818
 MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #2144);2144;9001;YES;;;NP;0;15;0;0.00;0
 MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #2144);2144;9002;NO;;;NP;0;15;0;0.00;0
 MN;;;5032;SCHOOL DISTRICT QUESTION 2 (ISD #2144);2144;9001;YES;;;NP;0;15;0;0.00;0
@@ -1738,16 +1738,16 @@ MN;;;5000;School Board Member (ISD #2144) (Elect 3);2144;9005;Jackie Harris-Rude
 MN;;;5000;School Board Member (ISD #2144) (Elect 3);2144;9006;Aaron Olson;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2144) (Elect 3);2144;9007;Torre Heiland;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2144) (Elect 3);2144;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9001;Miriah Cassidy;;;NP;0;30;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9002;Ted Reichmann;;;NP;0;30;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9003;Amanda Ogdahl;;;NP;0;30;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9004;Will Harvey;;;NP;0;30;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9005;Randall Sander;;;NP;0;30;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9006;Zachery Lagred;;;NP;0;30;0;0.00;0
-MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9901;WRITE-IN;;;WI;0;30;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #2149);2149;9001;Lisa Martin;;;NP;0;30;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #2149);2149;9002;Justin Zavadil;;;NP;0;30;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #2149);2149;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9001;Miriah Cassidy;;;NP;12;30;351;14.90;2355
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9002;Ted Reichmann;;;NP;12;30;614;26.07;2355
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9003;Amanda Ogdahl;;;NP;12;30;456;19.36;2355
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9004;Will Harvey;;;NP;12;30;318;13.50;2355
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9005;Randall Sander;;;NP;12;30;146;6.20;2355
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9006;Zachery Lagred;;;NP;12;30;460;19.53;2355
+MN;;;5000;School Board Member (ISD #2149) (Elect 3);2149;9901;WRITE-IN;;;WI;12;30;10;0.42;2355
+MN;;;5001;Special Election for School Board Member (ISD #2149);2149;9001;Lisa Martin;;;NP;12;30;279;30.90;903
+MN;;;5001;Special Election for School Board Member (ISD #2149);2149;9002;Justin Zavadil;;;NP;12;30;618;68.44;903
+MN;;;5001;Special Election for School Board Member (ISD #2149);2149;9901;WRITE-IN;;;WI;12;30;6;0.66;903
 MN;;;5000;School Board Member (ISD #2155) (Elect 3);2155;9001;Brandon Kern;;;NP;0;21;0;0.00;0
 MN;;;5000;School Board Member (ISD #2155) (Elect 3);2155;9002;Julie Bushinger;;;NP;0;21;0;0.00;0
 MN;;;5000;School Board Member (ISD #2155) (Elect 3);2155;9003;Melissa Seelhammer;;;NP;0;21;0;0.00;0
@@ -1759,10 +1759,10 @@ MN;;;5031;SCHOOL DISTRICT QUESTION 1 (ISD #2159);2159;9002;NO;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2159) (Elect 3);2159;9001;Samantha Best;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2159) (Elect 3);2159;9002;David Vacek;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2159) (Elect 3);2159;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9001;Laura Eidem;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9002;Micah Thureen;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9003;David Eilertson;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9001;Laura Eidem;;;NP;7;18;88;34.51;255
+MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9002;Micah Thureen;;;NP;7;18;59;23.14;255
+MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9003;David Eilertson;;;NP;7;18;51;20.00;255
+MN;;;5000;School Board Member (ISD #2164) (Elect 3);2164;9901;WRITE-IN;;;WI;7;18;57;22.35;255
 MN;;;5000;School Board Member (ISD #2167) (Elect 4);2167;9001;Joel Timm;;;NP;0;13;0;0.00;0
 MN;;;5000;School Board Member (ISD #2167) (Elect 4);2167;9002;Alan Grube;;;NP;0;13;0;0.00;0
 MN;;;5000;School Board Member (ISD #2167) (Elect 4);2167;9003;Korey Herrick;;;NP;0;13;0;0.00;0
@@ -1795,11 +1795,11 @@ MN;;;5000;School Board Member (ISD #2171) (Elect 3);2171;9001;Eric Ristad;;;NP;1
 MN;;;5000;School Board Member (ISD #2171) (Elect 3);2171;9002;Mark Johnson;;;NP;1;22;0;0.00;0
 MN;;;5000;School Board Member (ISD #2171) (Elect 3);2171;9003;Amanda Pinnock;;;NP;1;22;0;0.00;0
 MN;;;5000;School Board Member (ISD #2171) (Elect 3);2171;9901;WRITE-IN;;;WI;1;22;0;0.00;0
-MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9001;James Jarvis;;;NP;0;17;0;0.00;0
-MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9002;Debb Paquin;;;NP;0;17;0;0.00;0
-MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9003;Tonya Craig;;;NP;0;17;0;0.00;0
-MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9004;Marilyn Syverson;;;NP;0;17;0;0.00;0
-MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9901;WRITE-IN;;;WI;0;17;0;0.00;0
+MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9001;James Jarvis;;;NP;2;17;42;20.79;202
+MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9002;Debb Paquin;;;NP;2;17;53;26.24;202
+MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9003;Tonya Craig;;;NP;2;17;53;26.24;202
+MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9004;Marilyn Syverson;;;NP;2;17;51;25.25;202
+MN;;;5000;School Board Member (ISD #2172) (Elect 4);2172;9901;WRITE-IN;;;WI;2;17;3;1.49;202
 MN;;;5000;School Board Member (ISD #2174) (Elect 4);2174;9001;Ryan Trumble;;;NP;0;28;0;0.00;0
 MN;;;5000;School Board Member (ISD #2174) (Elect 4);2174;9002;Leslie Bouchonville;;;NP;0;28;0;0.00;0
 MN;;;5000;School Board Member (ISD #2174) (Elect 4);2174;9003;Wanda Carlson;;;NP;0;28;0;0.00;0
@@ -1818,26 +1818,26 @@ MN;;;5016;School Board Member District 4 (ISD #2180);2180;9001;Mark Kasella;;;NP
 MN;;;5016;School Board Member District 4 (ISD #2180);2180;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;5018;School Board Member District 5 (ISD #2180);2180;9001;Debi Brandt;;;NP;1;2;0;0.00;0
 MN;;;5018;School Board Member District 5 (ISD #2180);2180;9901;WRITE-IN;;;WI;1;2;0;0.00;0
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9001;Austin Kurtz;;;NP;15;22;151;4.38;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9002;Jacob Hartz;;;NP;15;22;274;7.94;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9003;Maggie Siebenahler;;;NP;15;22;232;6.73;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9004;Zach Nolz;;;NP;15;22;304;8.81;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9005;Michael DeBates;;;NP;15;22;266;7.71;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9006;Eric A. Hartman;;;NP;15;22;288;8.35;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9007;Matt Goembel;;;NP;15;22;124;3.60;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9008;Brett Hood;;;NP;15;22;198;5.74;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9009;Scott Wessels;;;NP;15;22;135;3.91;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9010;Heather Johnson;;;NP;15;22;238;6.90;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9011;Josh Gangestad;;;NP;15;22;294;8.52;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9012;Jason M. Schear;;;NP;15;22;87;2.52;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9013;Randy Sasker;;;NP;15;22;481;13.95;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9014;Amber Lais;;;NP;15;22;144;4.18;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9015;Amber Nath;;;NP;15;22;231;6.70;3449
-MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9901;WRITE-IN;;;WI;15;22;2;0.06;3449
-MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9001;Maggie Vanderburg;;;NP;15;22;256;27.83;920
-MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9002;Matthew VanGrootheest;;;NP;15;22;298;32.39;920
-MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9003;Ryan DeBates;;;NP;15;22;366;39.78;920
-MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9901;WRITE-IN;;;WI;15;22;0;0.00;920
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9001;Austin Kurtz;;;NP;19;22;462;4.50;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9002;Jacob Hartz;;;NP;19;22;640;6.23;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9003;Maggie Siebenahler;;;NP;19;22;723;7.04;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9004;Zach Nolz;;;NP;19;22;1159;11.28;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9005;Michael DeBates;;;NP;19;22;902;8.78;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9006;Eric A. Hartman;;;NP;19;22;894;8.70;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9007;Matt Goembel;;;NP;19;22;363;3.53;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9008;Brett Hood;;;NP;19;22;451;4.39;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9009;Scott Wessels;;;NP;19;22;432;4.21;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9010;Heather Johnson;;;NP;19;22;859;8.36;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9011;Josh Gangestad;;;NP;19;22;775;7.55;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9012;Jason M. Schear;;;NP;19;22;398;3.87;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9013;Randy Sasker;;;NP;19;22;1004;9.78;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9014;Amber Lais;;;NP;19;22;482;4.69;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9015;Amber Nath;;;NP;19;22;721;7.02;10271
+MN;;;5000;School Board Member (ISD #2184) (Elect 4);2184;9901;WRITE-IN;;;WI;19;22;6;0.06;10271
+MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9001;Maggie Vanderburg;;;NP;19;22;745;27.28;2731
+MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9002;Matthew VanGrootheest;;;NP;19;22;701;25.67;2731
+MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9003;Ryan DeBates;;;NP;19;22;1278;46.80;2731
+MN;;;5001;Special Election for School Board Member (ISD #2184);2184;9901;WRITE-IN;;;WI;19;22;7;0.26;2731
 MN;;;5000;School Board Member (ISD #2190) (Elect 3);2190;9001;Jeremy LeBlanc;;;NP;0;30;0;0.00;0
 MN;;;5000;School Board Member (ISD #2190) (Elect 3);2190;9002;Ron Winter;;;NP;0;30;0;0.00;0
 MN;;;5000;School Board Member (ISD #2190) (Elect 3);2190;9901;WRITE-IN;;;WI;0;30;0;0.00;0
@@ -1863,13 +1863,13 @@ MN;;;5000;School Board Member (ISD #2311) (Elect 3);2311;9901;WRITE-IN;;;WI;0;20
 MN;;;5001;Special Election for School Board Member (ISD #2311) (Elect 2);2311;9001;Scott Abel;;;NP;0;20;0;0.00;0
 MN;;;5001;Special Election for School Board Member (ISD #2311) (Elect 2);2311;9002;Kayla Walberg;;;NP;0;20;0;0.00;0
 MN;;;5001;Special Election for School Board Member (ISD #2311) (Elect 2);2311;9901;WRITE-IN;;;WI;0;20;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9001;Sara Strunk;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9002;Michelle Nessman;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9003;Persephone England;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9004;Dale Rau;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9005;Jared Olson;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9006;Anthony Green;;;NP;0;28;0;0.00;0
-MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9901;WRITE-IN;;;WI;0;28;0;0.00;0
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9001;Sara Strunk;;;NP;1;28;4;22.22;18
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9002;Michelle Nessman;;;NP;1;28;3;16.67;18
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9003;Persephone England;;;NP;1;28;3;16.67;18
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9004;Dale Rau;;;NP;1;28;3;16.67;18
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9005;Jared Olson;;;NP;1;28;1;5.56;18
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9006;Anthony Green;;;NP;1;28;4;22.22;18
+MN;;;5000;School Board Member (ISD #2342) (Elect 3);2342;9901;WRITE-IN;;;WI;1;28;0;0.00;18
 MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9001;Mark Koland;;;NP;1;25;0;0.00;0
 MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9002;Raeya Hanson;;;NP;1;25;0;0.00;0
 MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9003;Stephen M. Murray;;;NP;1;25;0;0.00;0
@@ -1879,11 +1879,11 @@ MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9006;Mike Johnston;;;NP
 MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9007;Brenda McCoy Nelson;;;NP;1;25;0;0.00;0
 MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9008;Jenna Caldwell;;;NP;1;25;0;0.00;0
 MN;;;5000;School Board Member (ISD #2358) (Elect 4);2358;9901;WRITE-IN;;;WI;1;25;0;0.00;0
-MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9001;Megan Jenniges;;;NP;1;21;0;0.00;0
-MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9002;Aaron Radermacher;;;NP;1;21;0;0.00;0
-MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9003;Ashley Rath;;;NP;1;21;0;0.00;0
-MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9004;Paul Gregory;;;NP;1;21;0;0.00;0
-MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9901;WRITE-IN;;;WI;1;21;0;0.00;0
+MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9001;Megan Jenniges;;;NP;5;21;207;27.64;749
+MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9002;Aaron Radermacher;;;NP;5;21;195;26.03;749
+MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9003;Ashley Rath;;;NP;5;21;174;23.23;749
+MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9004;Paul Gregory;;;NP;5;21;170;22.70;749
+MN;;;5000;School Board Member (ISD #2364) (Elect 4);2364;9901;WRITE-IN;;;WI;5;21;3;0.40;749
 MN;;;5010;School Board Member Gibbon District (ISD #2365);2365;9001;Casey J Prochniak;;;NP;0;20;0;0.00;0
 MN;;;5010;School Board Member Gibbon District (ISD #2365);2365;9002;Kenneth Briese;;;NP;0;20;0;0.00;0
 MN;;;5010;School Board Member Gibbon District (ISD #2365);2365;9901;WRITE-IN;;;WI;0;20;0;0.00;0
@@ -1967,10 +1967,10 @@ MN;;;5000;School Board Member (ISD #2754) (Elect 3);2754;9001;Jeffrey Sorenson;;
 MN;;;5000;School Board Member (ISD #2754) (Elect 3);2754;9002;Jennifer Rose;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2754) (Elect 3);2754;9003;Ashley (Ash) Heibel;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2754) (Elect 3);2754;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9001;Matt Johnson;;;NP;0;22;0;0.00;0
-MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9002;Renee Konz;;;NP;0;22;0;0.00;0
-MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9003;Michael Odello;;;NP;0;22;0;0.00;0
-MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9001;Matt Johnson;;;NP;2;22;119;35.42;336
+MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9002;Renee Konz;;;NP;2;22;118;35.12;336
+MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9003;Michael Odello;;;NP;2;22;99;29.46;336
+MN;;;5000;School Board Member (ISD #2769) (Elect 3);2769;9901;WRITE-IN;;;WI;2;22;0;0.00;336
 MN;;;5000;School Board Member (ISD #2805) (Elect 3);2805;9001;James Wendt;;;NP;0;12;0;0.00;0
 MN;;;5000;School Board Member (ISD #2805) (Elect 3);2805;9002;Aaron Stahosky;;;NP;0;12;0;0.00;0
 MN;;;5000;School Board Member (ISD #2805) (Elect 3);2805;9003;Jake Rude;;;NP;0;12;0;0.00;0
@@ -2034,13 +2034,13 @@ MN;;;5000;School Board Member (ISD #2888) (Elect 4);2888;9002;Scott Mahoney;;;NP
 MN;;;5000;School Board Member (ISD #2888) (Elect 4);2888;9003;Mike Adelman;;;NP;0;21;0;0.00;0
 MN;;;5000;School Board Member (ISD #2888) (Elect 4);2888;9004;Theresa Diekmann;;;NP;0;21;0;0.00;0
 MN;;;5000;School Board Member (ISD #2888) (Elect 4);2888;9901;WRITE-IN;;;WI;0;21;0;0.00;0
-MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9001;Susan DeBlieck;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9002;Brian Bestge;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9003;Paul Danda;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9004;Becky Mitchell;;;NP;0;16;0;0.00;0
-MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9901;WRITE-IN;;;WI;0;16;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #2889);2889;9001;Lynn Kaiser;;;NP;0;16;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #2889);2889;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9001;Susan DeBlieck;;;NP;1;16;0;0.00;4
+MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9002;Brian Bestge;;;NP;1;16;2;50.00;4
+MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9003;Paul Danda;;;NP;1;16;0;0.00;4
+MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9004;Becky Mitchell;;;NP;1;16;0;0.00;4
+MN;;;5000;School Board Member (ISD #2889) (Elect 4);2889;9901;WRITE-IN;;;WI;1;16;2;50.00;4
+MN;;;5001;Special Election for School Board Member (ISD #2889);2889;9001;Lynn Kaiser;;;NP;1;16;4;100.00;4
+MN;;;5001;Special Election for School Board Member (ISD #2889);2889;9901;WRITE-IN;;;WI;1;16;0;0.00;4
 MN;;;5000;School Board Member (ISD #2890) (Elect 3);2890;9001;Andrea L Bakker;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2890) (Elect 3);2890;9002;Michael Bakker;;;NP;0;15;0;0.00;0
 MN;;;5000;School Board Member (ISD #2890) (Elect 3);2890;9003;Darin Bratsch;;;NP;0;15;0;0.00;0
@@ -2090,12 +2090,12 @@ MN;;;5000;School Board Member (ISD #2904) (Elect 3);2904;9002;Jody Bauer;;;NP;7;
 MN;;;5000;School Board Member (ISD #2904) (Elect 3);2904;9003;Ryan Verlinde;;;NP;7;22;159;27.27;583
 MN;;;5000;School Board Member (ISD #2904) (Elect 3);2904;9004;Megan Gernentz;;;NP;7;22;142;24.36;583
 MN;;;5000;School Board Member (ISD #2904) (Elect 3);2904;9901;WRITE-IN;;;WI;7;22;6;1.03;583
-MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9001;Joshua Thomas Beulke;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9002;Cindy Flicek;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9003;Jessi Schau;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9004;Hilary Birdsell;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9005;Marsha Franek;;;NP;0;18;0;0.00;0
-MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9001;Joshua Thomas Beulke;;;NP;3;18;617;20.39;3026
+MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9002;Cindy Flicek;;;NP;3;18;647;21.38;3026
+MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9003;Jessi Schau;;;NP;3;18;558;18.44;3026
+MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9004;Hilary Birdsell;;;NP;3;18;532;17.58;3026
+MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9005;Marsha Franek;;;NP;3;18;630;20.82;3026
+MN;;;5000;School Board Member (ISD #2905) (Elect 4);2905;9901;WRITE-IN;;;WI;3;18;42;1.39;3026
 MN;;;5000;School Board Member (ISD #2906) (Elect 3);2906;9001;Sylvia Majeres;;;NP;0;18;0;0.00;0
 MN;;;5000;School Board Member (ISD #2906) (Elect 3);2906;9002;Matt Kolstoe;;;NP;0;18;0;0.00;0
 MN;;;5000;School Board Member (ISD #2906) (Elect 3);2906;9003;Pam Paradis;;;NP;0;18;0;0.00;0
@@ -2118,7 +2118,7 @@ MN;;;5012;School Board Member District 2 (ISD #2909) (Elect 2);2909;9002;Lisa We
 MN;;;5012;School Board Member District 2 (ISD #2909) (Elect 2);2909;9003;Nicole Culbert-Dahl;;;NP;0;10;0;0.00;0
 MN;;;5012;School Board Member District 2 (ISD #2909) (Elect 2);2909;9004;Murray Anderson;;;NP;0;10;0;0.00;0
 MN;;;5012;School Board Member District 2 (ISD #2909) (Elect 2);2909;9901;WRITE-IN;;;WI;0;10;0;0.00;0
-MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9001;Dena Bishop;;;NP;0;26;0;0.00;0
-MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9002;Faye DeLong;;;NP;0;26;0;0.00;0
-MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9003;Janna Engel;;;NP;0;26;0;0.00;0
-MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9901;WRITE-IN;;;WI;0;26;0;0.00;0
+MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9001;Dena Bishop;;;NP;3;26;8;22.22;36
+MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9002;Faye DeLong;;;NP;3;26;9;25.00;36
+MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9003;Janna Engel;;;NP;3;26;9;25.00;36
+MN;;;5000;School Board Member (ISD #2910) (Elect 3);2910;9901;WRITE-IN;;;WI;3;26;10;27.78;36
