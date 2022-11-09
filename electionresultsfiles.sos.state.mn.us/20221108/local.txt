@@ -421,13 +421,13 @@ MN;;;1010;Council Member (Backus) (Elect 2);03124;9004;Ann Birge;;;NP;1;1;42;28.
 MN;;;1010;Council Member (Backus) (Elect 2);03124;9901;WRITE-IN;;;WI;1;1;2;1.35;148
 MN;;;4013;Town Supervisor Seat 3 (Badger Township);03142;9001;Brady Lee;;;NP;1;1;21;95.45;22
 MN;;;4013;Town Supervisor Seat 3 (Badger Township);03142;9901;WRITE-IN;;;WI;1;1;1;4.55;22
-MN;;;1001;Mayor (Badger);03160;9001;Garrett Berg;;;NP;1;1;80;46.24;173
-MN;;;1001;Mayor (Badger);03160;9002;Merlin Nelson;;;NP;1;1;10;5.78;173
-MN;;;1001;Mayor (Badger);03160;9003;Dan Carpenter;;;NP;1;1;83;47.98;173
-MN;;;1001;Mayor (Badger);03160;9901;WRITE-IN;;;WI;1;1;0;0.00;173
-MN;;;1010;Council Member (Badger) (Elect 2);03160;9001;Gretchen Lee;;;NP;1;1;153;55.04;278
-MN;;;1010;Council Member (Badger) (Elect 2);03160;9002;Corey Christianson;;;NP;1;1;125;44.96;278
-MN;;;1010;Council Member (Badger) (Elect 2);03160;9901;WRITE-IN;;;WI;1;1;0;0.00;278
+MN;;;1001;Mayor (Badger);03160;9001;Garrett Berg;;;NP;1;1;80;44.94;178
+MN;;;1001;Mayor (Badger);03160;9002;Merlin Nelson;;;NP;1;1;10;5.62;178
+MN;;;1001;Mayor (Badger);03160;9003;Dan Carpenter;;;NP;1;1;83;46.63;178
+MN;;;1001;Mayor (Badger);03160;9901;WRITE-IN;;;WI;1;1;5;2.81;178
+MN;;;1010;Council Member (Badger) (Elect 2);03160;9001;Gretchen Lee;;;NP;1;1;153;52.58;291
+MN;;;1010;Council Member (Badger) (Elect 2);03160;9002;Corey Christianson;;;NP;1;1;125;42.96;291
+MN;;;1010;Council Member (Badger) (Elect 2);03160;9901;WRITE-IN;;;WI;1;1;13;4.47;291
 MN;;;4013;Town Supervisor Seat C (Badoura Township);03178;9001;David Andress;;;NP;1;1;53;98.15;54
 MN;;;4013;Town Supervisor Seat C (Badoura Township);03178;9901;WRITE-IN;;;WI;1;1;1;1.85;54
 MN;;;4021;Town Clerk (Badoura Township);03178;9001;Tim Scouton;;;NP;1;1;48;94.12;51
@@ -3513,11 +3513,11 @@ MN;;;1010;Council Member (Hawley) (Elect 2);27746;9002;Brad Eldred;;;NP;1;1;470;
 MN;;;1010;Council Member (Hawley) (Elect 2);27746;9003;Stacey W. Riedberger;;;NP;1;1;444;27.84;1595
 MN;;;1010;Council Member (Hawley) (Elect 2);27746;9004;Philip Sean Stahl;;;NP;1;1;324;20.31;1595
 MN;;;1010;Council Member (Hawley) (Elect 2);27746;9901;WRITE-IN;;;WI;1;1;12;0.75;1595
-MN;;;1001;Mayor (Hayfield);27872;9001;Rich Fjerstad;;;NP;1;1;476;98.96;481
-MN;;;1001;Mayor (Hayfield);27872;9901;WRITE-IN;;;WI;1;1;5;1.04;481
-MN;;;1010;Council Member (Hayfield) (Elect 2);27872;9001;Stuart Swygman;;;NP;1;1;378;51.22;738
-MN;;;1010;Council Member (Hayfield) (Elect 2);27872;9002;David Subbert;;;NP;1;1;340;46.07;738
-MN;;;1010;Council Member (Hayfield) (Elect 2);27872;9901;WRITE-IN;;;WI;1;1;20;2.71;738
+MN;;;1001;Mayor (Hayfield);27872;9001;Rich Fjerstad;;;NP;1;1;523;99.05;528
+MN;;;1001;Mayor (Hayfield);27872;9901;WRITE-IN;;;WI;1;1;5;0.95;528
+MN;;;1010;Council Member (Hayfield) (Elect 2);27872;9001;Stuart Swygman;;;NP;1;1;413;51.30;805
+MN;;;1010;Council Member (Hayfield) (Elect 2);27872;9002;David Subbert;;;NP;1;1;372;46.21;805
+MN;;;1010;Council Member (Hayfield) (Elect 2);27872;9901;WRITE-IN;;;WI;1;1;20;2.48;805
 MN;;;1001;Mayor (Hayward);27944;9001;Anthony Cox;;;NP;1;1;97;97.98;99
 MN;;;1001;Mayor (Hayward);27944;9901;WRITE-IN;;;WI;1;1;2;2.02;99
 MN;;;1010;Council Member (Hayward) (Elect 2);27944;9001;Gene Flaskerud;;;NP;1;1;77;45.83;168
@@ -5477,10 +5477,10 @@ MN;;;1001;Mayor (Morris);44242;9001;Kim Gullickson;;;NP;3;3;646;35.75;1807
 MN;;;1001;Mayor (Morris);44242;9002;Kevin Wohlers;;;NP;3;3;785;43.44;1807
 MN;;;1001;Mayor (Morris);44242;9003;Zachary Kroells;;;NP;3;3;360;19.92;1807
 MN;;;1001;Mayor (Morris);44242;9901;WRITE-IN;;;WI;3;3;16;0.89;1807
-MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9001;Brian Solvie;;;NP;3;3;1065;37.29;2856
-MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9002;Jeff M. Miller;;;NP;3;3;940;32.91;2856
-MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9003;Autumn Johnson;;;NP;3;3;830;29.06;2856
-MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9901;WRITE-IN;;;WI;3;3;21;0.74;2856
+MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9001;Brian Solvie;;;NP;3;3;1065;37.21;2862
+MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9002;Jeff M. Miller;;;NP;3;3;940;32.84;2862
+MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9003;Autumn Johnson;;;NP;3;3;830;29.00;2862
+MN;;;1010;Council Member at Large (Morris) (Elect 2);44242;9901;WRITE-IN;;;WI;3;3;27;0.94;2862
 MN;;;1001;Mayor (Morristown);44296;9001;Tony Lindahl;;;NP;1;1;280;82.11;341
 MN;;;1001;Mayor (Morristown);44296;9901;WRITE-IN;;;WI;1;1;61;17.89;341
 MN;;;1010;Council Member (Morristown) (Elect 2);44296;9001;Mike O'Rourke;;;NP;1;1;198;28.13;704
