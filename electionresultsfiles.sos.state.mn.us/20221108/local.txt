@@ -1804,9 +1804,9 @@ MN;;;1010;Council Member (Cottonwood) (Elect 2);13564;9002;Shawn Myers;;;NP;1;1;
 MN;;;1010;Council Member (Cottonwood) (Elect 2);13564;9901;WRITE-IN;;;WI;1;1;17;2.01;845
 MN;;;1001;Mayor (Courtland);13582;9001;Al Poehler;;;NP;1;1;325;91.81;354
 MN;;;1001;Mayor (Courtland);13582;9901;WRITE-IN;;;WI;1;1;29;8.19;354
-MN;;;1010;Council Member at Large (Courtland) (Elect 2);13582;9001;Paul Bode;;;NP;1;1;248;43.89;565
-MN;;;1010;Council Member at Large (Courtland) (Elect 2);13582;9002;Pamela Rodewald;;;NP;1;1;310;54.87;565
-MN;;;1010;Council Member at Large (Courtland) (Elect 2);13582;9901;WRITE-IN;;;WI;1;1;7;1.24;565
+MN;;;1010;Council Member at Large (Courtland) (Elect 2);13582;9001;Paul Bode;;;NP;1;1;248;43.97;564
+MN;;;1010;Council Member at Large (Courtland) (Elect 2);13582;9002;Pamela Rodewald;;;NP;1;1;309;54.79;564
+MN;;;1010;Council Member at Large (Courtland) (Elect 2);13582;9901;WRITE-IN;;;WI;1;1;7;1.24;564
 MN;;;1012;Special Election for Council Member at Large (Courtland);13582;9001;Justin Kraus;;;NP;1;1;348;100.00;348
 MN;;;1012;Special Election for Council Member at Large (Courtland);13582;9901;WRITE-IN;;;WI;1;1;0;0.00;348
 MN;;;4010;Town Supervisor Seat A (Courtland Township);13600;9001;Jason Schroeder;;;NP;1;1;280;99.29;282
@@ -8417,11 +8417,11 @@ MN;;;1010;Council Member (Wheaton) (Elect 2);69844;9002;Doug Wohlenhaus;;;NP;2;2
 MN;;;1010;Council Member (Wheaton) (Elect 2);69844;9901;WRITE-IN;;;WI;2;2;19;2.01;946
 MN;;;4010;Town Supervisor Seat A (White Township);69898;9001;Edward Kippley;;;NP;2;2;581;94.32;616
 MN;;;4010;Town Supervisor Seat A (White Township);69898;9901;WRITE-IN;;;WI;2;2;35;5.68;616
-MN;;;4010;Town Supervisor Seat A (White Bear Township);69916;9001;Steve Ruzek;;;NP;5;5;4210;98.76;4263
-MN;;;4010;Town Supervisor Seat A (White Bear Township);69916;9901;WRITE-IN;;;WI;5;5;53;1.24;4263
-MN;;;4012;Town Supervisor Seat B (White Bear Township);69916;9001;Ron Denn;;;NP;5;5;1313;29.96;4382
-MN;;;4012;Town Supervisor Seat B (White Bear Township);69916;9002;Scott McCune;;;NP;5;5;3020;68.92;4382
-MN;;;4012;Town Supervisor Seat B (White Bear Township);69916;9901;WRITE-IN;;;WI;5;5;49;1.12;4382
+MN;;;4010;Town Supervisor Seat A (White Bear Township);69916;9001;Steve Ruzek;;;NP;5;5;4210;98.59;4270
+MN;;;4010;Town Supervisor Seat A (White Bear Township);69916;9901;WRITE-IN;;;WI;5;5;60;1.41;4270
+MN;;;4012;Town Supervisor Seat B (White Bear Township);69916;9001;Ron Denn;;;NP;5;5;1313;29.90;4392
+MN;;;4012;Town Supervisor Seat B (White Bear Township);69916;9002;Scott McCune;;;NP;5;5;3020;68.76;4392
+MN;;;4012;Town Supervisor Seat B (White Bear Township);69916;9901;WRITE-IN;;;WI;5;5;59;1.34;4392
 MN;;;4012;Town Supervisor Seat B (Whiteford Township);70096;9001;Clarence Dahl;;;NP;1;1;22;100.00;22
 MN;;;4012;Town Supervisor Seat B (Whiteford Township);70096;9901;WRITE-IN;;;WI;1;1;0;0.00;22
 MN;;;4022;Town Treasurer (Whiteford Township);70096;9001;Glenda Chaplinski;;;NP;1;1;22;100.00;22

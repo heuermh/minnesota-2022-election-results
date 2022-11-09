@@ -299,8 +299,8 @@ MN;15;;0400;County Auditor/Treasurer;;9001;Allen L. Paulson;;;NP;29;29;3119;99.1
 MN;15;;0400;County Auditor/Treasurer;;9901;WRITE-IN;;;WI;29;29;26;0.83;3145
 MN;15;;0403;County Recorder;;9001;Brenda L Knable;;;NP;29;29;3116;99.39;3135
 MN;15;;0403;County Recorder;;9901;WRITE-IN;;;WI;29;29;19;0.61;3135
-MN;15;;0404;County Sheriff;;9001;Larry D. Johnson;;;NP;29;29;991;28.52;3475
-MN;15;;0404;County Sheriff;;9003;Darin Halverson;;;NP;29;29;2481;71.40;3475
+MN;15;;0404;County Sheriff;;9001;Larry D. Johnson;;;NP;29;29;951;27.37;3475
+MN;15;;0404;County Sheriff;;9003;Darin Halverson;;;NP;29;29;2521;72.55;3475
 MN;15;;0404;County Sheriff;;9901;WRITE-IN;;;WI;29;29;3;0.09;3475
 MN;15;;0405;County Attorney;;9001;Kathryn Lorsbach;;;NP;29;29;2948;99.16;2973
 MN;15;;0405;County Attorney;;9901;WRITE-IN;;;WI;29;29;25;0.84;2973
@@ -1023,8 +1023,8 @@ MN;52;;0404;County Sheriff;;9002;Marc Chadderdon;;;NP;26;26;5087;35.81;14206
 MN;52;;0404;County Sheriff;;9901;WRITE-IN;;;WI;26;26;55;0.39;14206
 MN;52;;0405;County Attorney;;9001;Michelle Zehnder Fischer;;;NP;26;26;12139;98.84;12281
 MN;52;;0405;County Attorney;;9901;WRITE-IN;;;WI;26;26;142;1.16;12281
-MN;52;;0432;Soil and Water Supervisor District 2;6103;9001;Eric Annexstad;;;NP;26;26;12136;99.37;12213
-MN;52;;0432;Soil and Water Supervisor District 2;6103;9901;WRITE-IN;;;WI;26;26;77;0.63;12213
+MN;52;;0432;Soil and Water Supervisor District 2;6103;9001;Eric Annexstad;;;NP;26;26;12135;99.37;12212
+MN;52;;0432;Soil and Water Supervisor District 2;6103;9901;WRITE-IN;;;WI;26;26;77;0.63;12212
 MN;52;;0435;Soil and Water Supervisor District 5;6103;9001;John H Kral;;;NP;26;26;12018;99.50;12078
 MN;52;;0435;Soil and Water Supervisor District 5;6103;9901;WRITE-IN;;;WI;26;26;60;0.50;12078
 MN;53;;0392;County Commissioner District 2;02;9001;Gene Metz;;;NP;13;13;1412;99.37;1421
@@ -1227,10 +1227,10 @@ MN;62;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;22;22;167;0.64;
 MN;62;;0396;County Commissioner District 6;06;9002;Ying Vang-Pao;;;NP;21;21;7780;48.85;15926
 MN;62;;0396;County Commissioner District 6;06;9003;Mai Chong Xiong;;;NP;21;21;7993;50.19;15926
 MN;62;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;21;21;153;0.96;15926
-MN;62;;0404;County Sheriff;;9001;Bob Fletcher;;;NP;162;162;136429;96.46;141439
-MN;62;;0404;County Sheriff;;9901;WRITE-IN;;;WI;162;162;5010;3.54;141439
-MN;62;;0405;County Attorney;;9001;John J. Choi;;;NP;162;162;137761;97.74;140947
-MN;62;;0405;County Attorney;;9901;WRITE-IN;;;WI;162;162;3186;2.26;140947
+MN;62;;0404;County Sheriff;;9001;Bob Fletcher;;;NP;162;162;136429;96.43;141473
+MN;62;;0404;County Sheriff;;9901;WRITE-IN;;;WI;162;162;5044;3.57;141473
+MN;62;;0405;County Attorney;;9001;John J. Choi;;;NP;162;162;137761;97.71;140996
+MN;62;;0405;County Attorney;;9901;WRITE-IN;;;WI;162;162;3235;2.29;140996
 MN;63;;0391;County Commissioner District 1;01;9001;Anthony  "Chuck" Flage;;;NP;5;5;305;99.03;308
 MN;63;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;5;5;3;0.97;308
 MN;63;;0393;County Commissioner District 3;03;9001;Delane John Dudycha;;;NP;4;4;211;63.36;333
