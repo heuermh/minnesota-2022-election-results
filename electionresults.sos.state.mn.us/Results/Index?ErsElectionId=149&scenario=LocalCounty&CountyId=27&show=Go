@@ -331,10 +331,10 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;0%&nbsp;&nbsp;0&nbsp;of&nbsp;397
+                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;0.5%&nbsp;&nbsp;2&nbsp;of&nbsp;397
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:08 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 791,682
@@ -346,13 +346,13 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;0%&nbsp;&nbsp;0&nbsp;of&nbsp;397
+                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;0.5%&nbsp;&nbsp;2&nbsp;of&nbsp;397
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:08 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -504,8 +504,8 @@
                             <div>
                                 <span class="boldFont">County Sheriff</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28532&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 0 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 0 of 397 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 2 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 2 of 397 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>
@@ -551,8 +551,8 @@
                             <div>
                                 <span class="boldFont">County Attorney</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28533&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 0 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 0 of 397 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 2 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 2 of 397 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>
@@ -762,8 +762,8 @@
                             <div>
                                 <span class="boldFont">County Park Commissioner District 5</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28538&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />57 precincts in contest. 0 of 57 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">57 precincts in contest. 0 of 57 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />57 precincts in contest. 2 of 57 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">57 precincts in contest. 2 of 57 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>

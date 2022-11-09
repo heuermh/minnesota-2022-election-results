@@ -329,7 +329,7 @@
             <table class="table table-condensed hidden-sm hidden-xs" role="presentation">
                     <tr>
                         <td>
-                            <span class="boldFont">Counties Reporting:</span> &nbsp; 0 &nbsp; of &nbsp; 87
+                            <span class="boldFont">Counties Reporting:</span> &nbsp; 6 &nbsp; of &nbsp; 87
                         </td>
                         <td colspan="2">
                             <span class="boldFont">Counties Complete:</span> &nbsp; 0
@@ -339,10 +339,10 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;0%&nbsp;&nbsp;0&nbsp;of&nbsp;4,103
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;0.19%&nbsp;&nbsp;8&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:08 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,333
@@ -352,7 +352,7 @@
             <table class="table table-condensed hidden-md hidden-lg" role="presentation">
                     <tr>
                         <td>
-                            <span class="boldFont">Counties Reporting:</span> &nbsp; 0 &nbsp; of &nbsp; 87
+                            <span class="boldFont">Counties Reporting:</span> &nbsp; 6 &nbsp; of &nbsp; 87
                         </td>
                     </tr>
                     <tr>
@@ -364,13 +364,13 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;0%&nbsp;&nbsp;0&nbsp;of&nbsp;4,103
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;0.19%&nbsp;&nbsp;8&nbsp;of&nbsp;4,103
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:08 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
