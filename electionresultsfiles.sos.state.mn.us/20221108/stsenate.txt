@@ -1,8 +1,8 @@
-MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;280;315;25541;97.32;26245
-MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;280;315;704;2.68;26245
-MN;;;0122;State Senator District 2;2;0301;Steve Green;;;R;167;189;18669;59.96;31134
-MN;;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;167;189;12436;39.94;31134
-MN;;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;167;189;29;0.09;31134
+MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;280;315;25541;97.33;26243
+MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;280;315;702;2.67;26243
+MN;;;0122;State Senator District 2;2;0301;Steve Green;;;R;167;189;18669;59.97;31133
+MN;;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;167;189;12435;39.94;31133
+MN;;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;167;189;29;0.09;31133
 MN;;;0123;State Senator District 3;3;0301;Andrea Zupancich;;;R;94;132;17919;48.10;37252
 MN;;;0123;State Senator District 3;3;0401;Grant Hauschild;;;DFL;94;132;19291;51.79;37252
 MN;;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;94;132;42;0.11;37252
@@ -37,18 +37,18 @@ MN;;;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;156;156;16;0.04;38493
 MN;;;0133;State Senator District 13;13;0301;Jeff Howe;;;R;49;49;27295;70.02;38979
 MN;;;0133;State Senator District 13;13;0401;Alissa Brickman;;;DFL;49;49;11648;29.88;38979
 MN;;;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;49;49;36;0.09;38979
-MN;;;0134;State Senator District 14;14;0301;Tama Theis;;;R;38;38;13969;47.58;29357
-MN;;;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;38;38;15351;52.29;29357
-MN;;;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;38;38;37;0.13;29357
+MN;;;0134;State Senator District 14;14;0301;Tama Theis;;;R;38;38;13969;47.58;29356
+MN;;;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;38;38;15350;52.29;29356
+MN;;;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;38;38;37;0.13;29356
 MN;;;0135;State Senator District 15;15;0301;Gary Dahms;;;R;173;173;25783;71.18;36223
 MN;;;0135;State Senator District 15;15;0401;Anita Gaul;;;DFL;173;173;10420;28.77;36223
 MN;;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;173;173;20;0.06;36223
 MN;;;0136;State Senator District 16;16;0301;Andrew Robert Lang;;;R;129;129;24608;69.67;35322
 MN;;;0136;State Senator District 16;16;0401;Fernando Alvarado;;;DFL;129;129;10692;30.27;35322
 MN;;;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;129;129;22;0.06;35322
-MN;;;0137;State Senator District 17;17;0301;Glenn Gruenhagen;;;R;72;75;26893;70.13;38348
-MN;;;0137;State Senator District 17;17;0401;Chad Tschimperle;;;DFL;72;75;11432;29.81;38348
-MN;;;0137;State Senator District 17;17;9901;WRITE-IN;;;WI;72;75;23;0.06;38348
+MN;;;0137;State Senator District 17;17;0301;Glenn Gruenhagen;;;R;73;75;27078;70.18;38582
+MN;;;0137;State Senator District 17;17;0401;Chad Tschimperle;;;DFL;73;75;11481;29.76;38582
+MN;;;0137;State Senator District 17;17;9901;WRITE-IN;;;WI;73;75;23;0.06;38582
 MN;;;0138;State Senator District 18;18;0301;Mark Wright;;;R;53;53;13946;42.11;33121
 MN;;;0138;State Senator District 18;18;0401;Nick Frentz;;;DFL;53;53;19136;57.78;33121
 MN;;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;53;53;39;0.12;33121
@@ -139,9 +139,9 @@ MN;;;0166;State Senator District 46;46;9901;WRITE-IN;;;WI;22;22;874;2.74;31901
 MN;;;0167;State Senator District 47;47;0301;Dwight Dorau;;;R;19;19;16111;41.24;39064
 MN;;;0167;State Senator District 47;47;0401;Nicole Mitchell;;;DFL;19;19;22936;58.71;39064
 MN;;;0167;State Senator District 47;47;9901;WRITE-IN;;;WI;19;19;17;0.04;39064
-MN;;;0168;State Senator District 48;48;0301;Julia Coleman;;;R;24;26;21488;54.60;39352
-MN;;;0168;State Senator District 48;48;0401;Dan Kessler;;;DFL;24;26;17846;45.35;39352
-MN;;;0168;State Senator District 48;48;9901;WRITE-IN;;;WI;24;26;18;0.05;39352
+MN;;;0168;State Senator District 48;48;0301;Julia Coleman;;;R;26;26;23306;54.34;42890
+MN;;;0168;State Senator District 48;48;0401;Dan Kessler;;;DFL;26;26;19564;45.61;42890
+MN;;;0168;State Senator District 48;48;9901;WRITE-IN;;;WI;26;26;20;0.05;42890
 MN;;;0169;State Senator District 49;49;0301;Marla Helseth;;;R;29;29;15998;37.67;42469
 MN;;;0169;State Senator District 49;49;0401;Steve Cwodzinski;;;DFL;29;29;26448;62.28;42469
 MN;;;0169;State Senator District 49;49;9901;WRITE-IN;;;WI;29;29;23;0.05;42469

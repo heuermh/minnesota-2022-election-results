@@ -44,9 +44,9 @@ MN;08;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;11;11;0;0.00;178
 MN;09;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;39;39;8193;51.47;15919
 MN;09;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;39;39;7709;48.43;15919
 MN;09;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;39;39;17;0.11;15919
-MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;36;38;28751;57.25;50218
-MN;10;;0109;U.S. Representative District 6;6;0401;Jeanne Hendricks;;;DFL;36;38;21417;42.65;50218
-MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;36;38;50;0.10;50218
+MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;38;38;30570;56.88;53745
+MN;10;;0109;U.S. Representative District 6;6;0401;Jeanne Hendricks;;;DFL;38;38;23120;43.02;53745
+MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;38;38;55;0.10;53745
 MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;34;71;4169;65.61;6354
 MN;11;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;34;71;2179;34.29;6354
 MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;34;71;6;0.09;6354
@@ -164,9 +164,9 @@ MN;37;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;29;29;3;0.10;312
 MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;2760;48.69;5668
 MN;38;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;19;19;2898;51.13;5668
 MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;10;0.18;5668
-MN;39;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;17;17;1337;73.62;1816
-MN;39;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;17;17;478;26.32;1816
-MN;39;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;17;17;1;0.06;1816
+MN;39;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;17;17;1337;73.66;1815
+MN;39;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;17;17;477;26.28;1815
+MN;39;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;17;17;1;0.06;1815
 MN;40;;0105;U.S. Representative District 2;2;0201;Paula M. Overby;;;LMN;26;26;567;4.31;13155
 MN;40;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;26;26;8287;63.00;13155
 MN;40;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;26;26;4295;32.65;13155
@@ -303,13 +303,13 @@ MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;53;53;46;0.07;67
 MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;35;35;28413;68.48;41489
 MN;71;;0109;U.S. Representative District 6;6;0401;Jeanne Hendricks;;;DFL;35;35;12931;31.17;41489
 MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;35;35;145;0.35;41489
-MN;72;;0110;U.S. Representative District 7;7;0201;Travis "Bull" Johnson;;;LMN;22;25;312;5.91;5281
-MN;72;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;22;25;3728;70.59;5281
-MN;72;;0110;U.S. Representative District 7;7;0401;Jill Abahsain;;;DFL;22;25;1238;23.44;5281
-MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;22;25;3;0.06;5281
-MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;46;46;22402;56.69;39515
-MN;73;;0109;U.S. Representative District 6;6;0401;Jeanne Hendricks;;;DFL;46;46;17038;43.12;39515
-MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;46;46;75;0.19;39515
+MN;72;;0110;U.S. Representative District 7;7;0201;Travis "Bull" Johnson;;;LMN;23;25;333;6.04;5514
+MN;72;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;23;25;3900;70.73;5514
+MN;72;;0110;U.S. Representative District 7;7;0401;Jill Abahsain;;;DFL;23;25;1278;23.18;5514
+MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;23;25;3;0.05;5514
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;46;46;22402;56.69;39514
+MN;73;;0109;U.S. Representative District 6;6;0401;Jeanne Hendricks;;;DFL;46;46;17037;43.12;39514
+MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;46;46;75;0.19;39514
 MN;73;;0110;U.S. Representative District 7;7;0201;Travis "Bull" Johnson;;;LMN;53;53;1068;4.17;25587
 MN;73;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;53;53;19258;75.26;25587
 MN;73;;0110;U.S. Representative District 7;7;0401;Jill Abahsain;;;DFL;53;53;5248;20.51;25587
