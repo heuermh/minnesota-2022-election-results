@@ -3637,9 +3637,9 @@ MN;;;4013;Town Supervisor Seat C (Hereim Township);28628;9001;Ryan Waage;;;NP;1;
 MN;;;4013;Town Supervisor Seat C (Hereim Township);28628;9901;WRITE-IN;;;WI;1;1;0;0.00;102
 MN;;;4022;Town Treasurer (Hereim Township);28628;9001;Troy Stauffenecker;;;NP;1;1;105;100.00;105
 MN;;;4022;Town Treasurer (Hereim Township);28628;9901;WRITE-IN;;;WI;1;1;0;0.00;105
-MN;;;1010;Council Member (Herman) (Elect 2);28646;9001;Thomas Blume;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Herman) (Elect 2);28646;9002;Tony Vipond;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Herman) (Elect 2);28646;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Herman) (Elect 2);28646;9001;Thomas Blume;;;NP;1;1;117;43.49;269
+MN;;;1010;Council Member (Herman) (Elect 2);28646;9002;Tony Vipond;;;NP;1;1;130;48.33;269
+MN;;;1010;Council Member (Herman) (Elect 2);28646;9901;WRITE-IN;;;WI;1;1;22;8.18;269
 MN;;;1010;Council Member (Hermantown) (Elect 2);28682;9001;Chad Roberg;;;NP;3;3;1653;24.68;6699
 MN;;;1010;Council Member (Hermantown) (Elect 2);28682;9002;Brian LeBlanc;;;NP;3;3;2234;33.35;6699
 MN;;;1010;Council Member (Hermantown) (Elect 2);28682;9003;Andy Hjelle;;;NP;3;3;1805;26.94;6699
@@ -6108,17 +6108,17 @@ MN;;;4012;Town Supervisor Seat 2 (Otter Tail Peninsula Township);49250;9001;Fran
 MN;;;4012;Town Supervisor Seat 2 (Otter Tail Peninsula Township);49250;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Otter Tail Peninsula Township);49250;9001;Cynthia Kessem;;;NP;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Otter Tail Peninsula Township);49250;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Owatonna);49300;9001;Peng Marie Olson;;;NP;9;10;3891;43.35;8976
-MN;;;1010;Council Member at Large (Owatonna);49300;9002;Dan Boeke;;;NP;9;10;5056;56.33;8976
-MN;;;1010;Council Member at Large (Owatonna);49300;9901;WRITE-IN;;;WI;9;10;29;0.32;8976
+MN;;;1010;Council Member at Large (Owatonna);49300;9001;Peng Marie Olson;;;NP;10;10;4418;43.40;10179
+MN;;;1010;Council Member at Large (Owatonna);49300;9002;Dan Boeke;;;NP;10;10;5728;56.27;10179
+MN;;;1010;Council Member at Large (Owatonna);49300;9901;WRITE-IN;;;WI;10;10;33;0.32;10179
 MN;;;1020;Council Member Ward 1 (Owatonna);49300;9001;Seth Madole;;;NP;2;2;989;44.37;2229
 MN;;;1020;Council Member Ward 1 (Owatonna);49300;9002;Nathan Dotson;;;NP;2;2;1232;55.27;2229
 MN;;;1020;Council Member Ward 1 (Owatonna);49300;9901;WRITE-IN;;;WI;2;2;8;0.36;2229
 MN;;;1024;Council Member Ward 3 (Owatonna);49300;9001;David C Burbank;;;NP;2;2;1201;99.34;1209
 MN;;;1024;Council Member Ward 3 (Owatonna);49300;9901;WRITE-IN;;;WI;2;2;8;0.66;1209
-MN;;;1028;Council Member Ward 5 (Owatonna);49300;9001;Molly Kerr;;;NP;1;2;441;46.72;944
-MN;;;1028;Council Member Ward 5 (Owatonna);49300;9002;Brent Svenby;;;NP;1;2;501;53.07;944
-MN;;;1028;Council Member Ward 5 (Owatonna);49300;9901;WRITE-IN;;;WI;1;2;2;0.21;944
+MN;;;1028;Council Member Ward 5 (Owatonna);49300;9001;Molly Kerr;;;NP;2;2;1009;47.48;2125
+MN;;;1028;Council Member Ward 5 (Owatonna);49300;9002;Brent Svenby;;;NP;2;2;1110;52.24;2125
+MN;;;1028;Council Member Ward 5 (Owatonna);49300;9901;WRITE-IN;;;WI;2;2;6;0.28;2125
 MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9001;Doyle A. Svedberg;;;NP;1;1;57;53.77;106
 MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9003;Micheal Philip Christensen;;;NP;1;1;49;46.23;106
 MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9901;WRITE-IN;;;WI;1;1;0;0.00;106
