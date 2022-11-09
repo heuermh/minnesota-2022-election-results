@@ -2184,8 +2184,8 @@ MN;;;1001;Mayor (Dexter);15886;9001;Justin Forthun;;;NP;1;1;114;95.80;119
 MN;;;1001;Mayor (Dexter);15886;9901;WRITE-IN;;;WI;1;1;5;4.20;119
 MN;;;1010;Council Member (Dexter) (Elect 2);15886;9001;Christian Padilla;;;NP;1;1;112;81.16;138
 MN;;;1010;Council Member (Dexter) (Elect 2);15886;9901;WRITE-IN;;;WI;1;1;26;18.84;138
-MN;;;4012;Town Supervisor Seat B (Dieter Township);15958;9001;Gregory Allen Braaten;;;NP;1;1;69;100.00;69
-MN;;;4012;Town Supervisor Seat B (Dieter Township);15958;9901;WRITE-IN;;;WI;1;1;0;0.00;69
+MN;;;4012;Town Supervisor Seat B (Dieter Township);15958;9001;Gregory Allen Braaten;;;NP;1;1;69;94.52;73
+MN;;;4012;Town Supervisor Seat B (Dieter Township);15958;9901;WRITE-IN;;;WI;1;1;4;5.48;73
 MN;;;4013;Town Supervisor Seat C (Dieter Township);15958;9001;Justin Roland Stoe;;;NP;1;1;73;100.00;73
 MN;;;4013;Town Supervisor Seat C (Dieter Township);15958;9901;WRITE-IN;;;WI;1;1;0;0.00;73
 MN;;;4022;Town Treasurer (Dieter Township);15958;9001;James Philip Johnson;;;NP;1;1;73;100.00;73
@@ -5615,7 +5615,7 @@ MN;;;4013;Town Supervisor Seat C (Ness Township);45232;9901;WRITE-IN;;;WI;1;1;13
 MN;;;4023;Town Clerk - Treasurer (Ness Township);45232;9901;WRITE-IN;;;WI;1;1;13;100.00;13
 MN;;;4010;Town Supervisor Seat A (Nessel Township);45250;9001;Branden Mell;;;NP;1;1;696;96.94;718
 MN;;;4010;Town Supervisor Seat A (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;22;3.06;718
-MN;;;4012;Town Supervisor Seat B (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;12;100.00;12
+MN;;;4012;Town Supervisor Seat B (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;187;100.00;187
 MN;;;4013;Town Supervisor Seat C (Nessel Township);45250;9001;Stan Iskierka;;;NP;1;1;650;95.73;679
 MN;;;4013;Town Supervisor Seat C (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;29;4.27;679
 MN;;;1001;Mayor (Nevis);45340;9002;Jeanne Thompson;;;NP;1;1;144;96.00;150
@@ -7153,7 +7153,7 @@ MN;;;1001;Mayor (Shafer);59314;9901;WRITE-IN;;;WI;1;1;19;6.96;273
 MN;;;1010;Council Member (Shafer) (Elect 2);59314;9001;Patty Mattson;;;NP;1;1;208;44.54;467
 MN;;;1010;Council Member (Shafer) (Elect 2);59314;9002;Nick Brehm;;;NP;1;1;244;52.25;467
 MN;;;1010;Council Member (Shafer) (Elect 2);59314;9901;WRITE-IN;;;WI;1;1;15;3.21;467
-MN;;;1012;Special Election for Council Member (Shafer);59314;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;;;1012;Special Election for Council Member (Shafer);59314;9901;WRITE-IN;;;WI;1;1;39;100.00;39
 MN;;;1001;Mayor (Shakopee);59350;9001;Bill Mars;;;NP;16;16;7119;49.09;14502
 MN;;;1001;Mayor (Shakopee);59350;9002;Matt Lehman;;;NP;16;16;7321;50.48;14502
 MN;;;1001;Mayor (Shakopee);59350;9901;WRITE-IN;;;WI;16;16;62;0.43;14502
@@ -7473,7 +7473,7 @@ MN;;;1010;Council Member (Squaw Lake) (Elect 2);62284;9901;WRITE-IN;;;WI;1;1;24;
 MN;;;1001;Mayor (Stacy);62320;9001;Mark Utecht;;;NP;1;1;317;58.81;539
 MN;;;1001;Mayor (Stacy);62320;9002;Matthew Laqua;;;NP;1;1;215;39.89;539
 MN;;;1001;Mayor (Stacy);62320;9901;WRITE-IN;;;WI;1;1;7;1.30;539
-MN;;;1010;Council Member (Stacy) (Elect 2);62320;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;;;1010;Council Member (Stacy) (Elect 2);62320;9901;WRITE-IN;;;WI;1;1;92;100.00;92
 MN;;;4012;Town Supervisor Seat B (Stafford Township);62338;9001;David V. Dahlgren;;;NP;1;1;125;97.66;128
 MN;;;4012;Town Supervisor Seat B (Stafford Township);62338;9901;WRITE-IN;;;WI;1;1;3;2.34;128
 MN;;;4013;Town Supervisor Seat C (Stafford Township);62338;9001;Tony Wensloff;;;NP;1;1;133;100.00;133
