@@ -1916,11 +1916,11 @@ MN;20;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;22;22;9;0.10;9449
 MN;20;;0332;Secretary of State;;0301;Kim Crockett;;;R;22;22;5976;64.58;9254
 MN;20;;0332;Secretary of State;;0401;Steve Simon;;;DFL;22;22;3269;35.33;9254
 MN;20;;0332;Secretary of State;;9901;WRITE-IN;;;WI;22;22;9;0.10;9254
-MN;20;;0333;State Auditor;;0101;Will Finn;;;GLC;22;22;157;1.69;9265
-MN;20;;0333;State Auditor;;0201;Tim Davis;;;LMN;22;22;235;2.54;9265
-MN;20;;0333;State Auditor;;0301;Ryan Wilson;;;R;22;22;5985;64.60;9265
-MN;20;;0333;State Auditor;;0401;Julie Blaha;;;DFL;22;22;2879;31.07;9265
-MN;20;;0333;State Auditor;;9901;WRITE-IN;;;WI;22;22;9;0.10;9265
+MN;20;;0333;State Auditor;;0101;Will Finn;;;GLC;22;22;157;1.70;9256
+MN;20;;0333;State Auditor;;0201;Tim Davis;;;LMN;22;22;235;2.54;9256
+MN;20;;0333;State Auditor;;0301;Ryan Wilson;;;R;22;22;5977;64.57;9256
+MN;20;;0333;State Auditor;;0401;Julie Blaha;;;DFL;22;22;2878;31.09;9256
+MN;20;;0333;State Auditor;;9901;WRITE-IN;;;WI;22;22;9;0.10;9256
 MN;20;;0335;Attorney General;;0301;Jim Schultz;;;R;22;22;6204;66.60;9315
 MN;20;;0335;Attorney General;;0401;Keith Ellison;;;DFL;22;22;3106;33.34;9315
 MN;20;;0335;Attorney General;;9901;WRITE-IN;;;WI;22;22;5;0.05;9315
@@ -1934,10 +1934,10 @@ MN;20;;0404;County Sheriff;;9001;Scott Rose;;;NP;22;22;7909;98.46;8033
 MN;20;;0404;County Sheriff;;9901;WRITE-IN;;;WI;22;22;124;1.54;8033
 MN;20;;0405;County Attorney;;9001;Paul J. Kiltinen;;;NP;22;22;7576;99.32;7628
 MN;20;;0405;County Attorney;;9901;WRITE-IN;;;WI;22;22;52;0.68;7628
-MN;20;;0433;Soil and Water Supervisor District 3;7039;9001;Larry Scherger;;;NP;22;22;7478;99.51;7515
-MN;20;;0433;Soil and Water Supervisor District 3;7039;9901;WRITE-IN;;;WI;22;22;37;0.49;7515
-MN;20;;0434;Soil and Water Supervisor District 4;7039;9001;David Livingston;;;NP;22;22;7410;99.48;7449
-MN;20;;0434;Soil and Water Supervisor District 4;7039;9901;WRITE-IN;;;WI;22;22;39;0.52;7449
+MN;20;;0433;Soil and Water Supervisor District 3;7039;9001;Larry Scherger;;;NP;22;22;7480;99.51;7517
+MN;20;;0433;Soil and Water Supervisor District 3;7039;9901;WRITE-IN;;;WI;22;22;37;0.49;7517
+MN;20;;0434;Soil and Water Supervisor District 4;7039;9001;David Livingston;;;NP;22;22;7408;99.48;7447
+MN;20;;0434;Soil and Water Supervisor District 4;7039;9901;WRITE-IN;;;WI;22;22;39;0.52;7447
 MN;20;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;22;22;6267;99.43;6303
 MN;20;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;22;22;36;0.57;6303
 MN;20;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;22;22;6196;99.34;6237
@@ -2780,15 +2780,15 @@ MN;27;;8559;Judge - 4th District Court 60;04;9001;Bruce Manning;;;NP;397;397;224
 MN;27;;8559;Judge - 4th District Court 60;04;9901;WRITE-IN;;;WI;397;397;2350;1.04;226538
 MN;27;;8561;Judge - 4th District Court 62;04;9001;Julie Allyn;;;NP;397;397;224707;98.96;227076
 MN;27;;8561;Judge - 4th District Court 62;04;9901;WRITE-IN;;;WI;397;397;2369;1.04;227076
-MN;28;;0104;U.S. Representative District 1;1;0101;Brian Abrahamson;;;GLC;27;27;138;1.58;8736
-MN;28;;0104;U.S. Representative District 1;1;0201;Richard B. Reisdorf;;;LMN;27;27;189;2.16;8736
-MN;28;;0104;U.S. Representative District 1;1;0301;Brad Finstad;;;R;27;27;4930;56.43;8736
-MN;28;;0104;U.S. Representative District 1;1;0401;Jeff Ettinger;;;DFL;27;27;3477;39.80;8736
-MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;27;27;2;0.02;8736
-MN;28;;0146;State Senator District 26;26;0201;Eric M. Leitzen;;;LMN;27;27;264;3.02;8751
-MN;28;;0146;State Senator District 26;26;0301;Jeremy Miller;;;R;27;27;5315;60.74;8751
-MN;28;;0146;State Senator District 26;26;0401;Daniel Wilson;;;DFL;27;27;3170;36.22;8751
-MN;28;;0146;State Senator District 26;26;9901;WRITE-IN;;;WI;27;27;2;0.02;8751
+MN;28;;0104;U.S. Representative District 1;1;0101;Brian Abrahamson;;;GLC;27;27;138;1.58;8735
+MN;28;;0104;U.S. Representative District 1;1;0201;Richard B. Reisdorf;;;LMN;27;27;189;2.16;8735
+MN;28;;0104;U.S. Representative District 1;1;0301;Brad Finstad;;;R;27;27;4930;56.44;8735
+MN;28;;0104;U.S. Representative District 1;1;0401;Jeff Ettinger;;;DFL;27;27;3476;39.79;8735
+MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;27;27;2;0.02;8735
+MN;28;;0146;State Senator District 26;26;0201;Eric M. Leitzen;;;LMN;27;27;264;3.02;8750
+MN;28;;0146;State Senator District 26;26;0301;Jeremy Miller;;;R;27;27;5315;60.74;8750
+MN;28;;0146;State Senator District 26;26;0401;Daniel Wilson;;;DFL;27;27;3169;36.22;8750
+MN;28;;0146;State Senator District 26;26;9901;WRITE-IN;;;WI;27;27;2;0.02;8750
 MN;28;;0239;State Representative District 26B;26B;0301;Gregory M. Davids;;;R;27;27;6532;93.96;6952
 MN;28;;0239;State Representative District 26B;26B;9901;WRITE-IN;;;WI;27;27;420;6.04;6952
 MN;28;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;27;27;69;0.79;8746
@@ -2806,9 +2806,9 @@ MN;28;;0333;State Auditor;;0201;Tim Davis;;;LMN;27;27;284;3.28;8667
 MN;28;;0333;State Auditor;;0301;Ryan Wilson;;;R;27;27;4941;57.01;8667
 MN;28;;0333;State Auditor;;0401;Julie Blaha;;;DFL;27;27;3334;38.47;8667
 MN;28;;0333;State Auditor;;9901;WRITE-IN;;;WI;27;27;1;0.01;8667
-MN;28;;0335;Attorney General;;0301;Jim Schultz;;;R;27;27;5089;58.77;8659
-MN;28;;0335;Attorney General;;0401;Keith Ellison;;;DFL;27;27;3569;41.22;8659
-MN;28;;0335;Attorney General;;9901;WRITE-IN;;;WI;27;27;1;0.01;8659
+MN;28;;0335;Attorney General;;0301;Jim Schultz;;;R;27;27;5089;58.78;8658
+MN;28;;0335;Attorney General;;0401;Keith Ellison;;;DFL;27;27;3568;41.21;8658
+MN;28;;0335;Attorney General;;9901;WRITE-IN;;;WI;27;27;1;0.01;8658
 MN;28;;0392;County Commissioner District 2;02;9001;Eric Johnson;;;NP;7;7;1388;97.82;1419
 MN;28;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;7;7;31;2.18;1419
 MN;28;;0394;County Commissioner District 4;04;9001;John Anthony Fuchsel;;;NP;6;6;814;42.40;1920
