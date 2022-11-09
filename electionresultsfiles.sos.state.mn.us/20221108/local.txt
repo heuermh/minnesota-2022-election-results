@@ -5791,11 +5791,11 @@ MN;;;4013;Town Supervisor Seat 3 (Nora Township);46438;9001;Cheryl Netland;;;NP;
 MN;;;4013;Town Supervisor Seat 3 (Nora Township);46438;9901;WRITE-IN;;;WI;1;1;1;0.49;205
 MN;;;4023;Town Clerk - Treasurer (Nora Township);46438;9001;Karla Netland;;;NP;1;1;202;99.51;203
 MN;;;4023;Town Clerk - Treasurer (Nora Township);46438;9901;WRITE-IN;;;WI;1;1;1;0.49;203
-MN;;;1001;Mayor (Norcross);46492;9001;Brandon Lennox;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Norcross);46492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Norcross) (Elect 2);46492;9001;Tom Hurlbut;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Norcross) (Elect 2);46492;9002;Brandon Staples;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Norcross) (Elect 2);46492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Norcross);46492;9001;Brandon Lennox;;;NP;1;1;30;100.00;30
+MN;;;1001;Mayor (Norcross);46492;9901;WRITE-IN;;;WI;1;1;0;0.00;30
+MN;;;1010;Council Member (Norcross) (Elect 2);46492;9001;Tom Hurlbut;;;NP;1;1;25;43.86;57
+MN;;;1010;Council Member (Norcross) (Elect 2);46492;9002;Brandon Staples;;;NP;1;1;29;50.88;57
+MN;;;1010;Council Member (Norcross) (Elect 2);46492;9901;WRITE-IN;;;WI;1;1;3;5.26;57
 MN;;;4010;Town Supervisor Seat A (Nordland Township);46546;9001;Tom Sanbeck;;;NP;1;1;545;99.63;547
 MN;;;4010;Town Supervisor Seat A (Nordland Township);46546;9901;WRITE-IN;;;WI;1;1;2;0.37;547
 MN;;;4021;Town Clerk (Nordland Township);46546;9001;Mathew Nix;;;NP;1;1;549;99.10;554
@@ -6410,8 +6410,8 @@ MN;;;4013;Town Supervisor Seat 3 (Ponto Lake Township);51928;9001;Robert Litke;;
 MN;;;4013;Town Supervisor Seat 3 (Ponto Lake Township);51928;9901;WRITE-IN;;;WI;1;1;1;0.35;285
 MN;;;4021;Town Clerk (Ponto Lake Township);51928;9001;Jenna Prososki;;;NP;1;1;291;98.64;295
 MN;;;4021;Town Clerk (Ponto Lake Township);51928;9901;WRITE-IN;;;WI;1;1;4;1.36;295
-MN;;;4012;Town Supervisor Seat 2 (Poplar Township);51964;9001;Craig Bartels;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Poplar Township);51964;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat 2 (Poplar Township);51964;9001;Craig Bartels;;;NP;1;1;50;94.34;53
+MN;;;4012;Town Supervisor Seat 2 (Poplar Township);51964;9901;WRITE-IN;;;WI;1;1;3;5.66;53
 MN;;;4010;Town Supervisor Seat 1 (Popple Township);52018;9901;WRITE-IN;;;WI;1;1;31;100.00;31
 MN;;;4022;Town Treasurer (Popple Township);52018;9901;WRITE-IN;;;WI;1;1;34;100.00;34
 MN;;;4013;Town Supervisor Seat C (Poppleton Township);52072;9001;Steven Sjostrand;;;NP;1;1;58;98.31;59
