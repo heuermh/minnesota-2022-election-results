@@ -331,10 +331,10 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;85.6%&nbsp;&nbsp;3,512&nbsp;of&nbsp;4,103
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;88.79%&nbsp;&nbsp;3,643&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:08 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:18 AM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,627
@@ -346,13 +346,13 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;85.6%&nbsp;&nbsp;3,512&nbsp;of&nbsp;4,103
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;88.79%&nbsp;&nbsp;3,643&nbsp;of&nbsp;4,103
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:08 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:18 AM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -378,8 +378,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 1</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />315 precincts in contest. 144 of 315 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">315 precincts in contest. 144 of 315 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />315 precincts in contest. 209 of 315 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">315 precincts in contest. 209 of 315 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -398,16 +398,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Mark Johnson</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,858</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">97.38%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24,123</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">97.49%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="97" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">480</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.62%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">621</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.51%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="2" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -416,8 +416,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 2</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />189 precincts in contest. 135 of 189 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">189 precincts in contest. 135 of 189 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />189 precincts in contest. 141 of 189 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">189 precincts in contest. 141 of 189 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -436,24 +436,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Steve Green</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">14,790</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">57.78%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="57" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">16,333</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">58.36%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="58" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Leonard Alan Roy</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,784</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">42.13%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="42" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,625</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">41.54%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="41" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.09%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">28</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.10%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -462,8 +462,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 3</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />132 precincts in contest. 79 of 132 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">132 precincts in contest. 79 of 132 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />132 precincts in contest. 81 of 132 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">132 precincts in contest. 81 of 132 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -482,16 +482,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Andrea Zupancich</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">12,569</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">49.22%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">13,061</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">49.04%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="49" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Grant Hauschild</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">12,936</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">50.66%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">13,545</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">50.85%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="50" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
@@ -499,7 +499,7 @@
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">30</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.12%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.11%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -646,8 +646,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 7</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />131 precincts in contest. 88 of 131 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">131 precincts in contest. 88 of 131 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />131 precincts in contest. 90 of 131 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">131 precincts in contest. 90 of 131 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -666,24 +666,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Robert Farnsworth</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">15,968</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">52.77%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">16,380</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">52.81%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="52" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Ben DeNucci</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">13,968</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">46.16%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">14,313</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">46.14%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="46" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">323</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.07%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">325</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.05%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -784,8 +784,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 10</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />123 precincts in contest. 115 of 123 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">123 precincts in contest. 115 of 123 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />123 precincts in contest. 117 of 123 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">123 precincts in contest. 117 of 123 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -804,16 +804,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Nathan Wesenberg</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">25,916</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">72.93%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26,816</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">72.74%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="72" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Suzanne M. Cekalla</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,519</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26.79%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,948</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26.99%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="26" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
@@ -821,7 +821,7 @@
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">100</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.28%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.27%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -876,8 +876,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 12</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />156 precincts in contest. 148 of 156 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">156 precincts in contest. 148 of 156 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />156 precincts in contest. 151 of 156 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">156 precincts in contest. 151 of 156 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -896,24 +896,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Torrey Westrom</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">23,272</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">68.28%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24,323</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">68.06%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="68" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Kari Dorry</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,459</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">27.75%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="27" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,016</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">28.03%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="28" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">We The People</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WTP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Ashley Klingbeil</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,337</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">3.92%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,383</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">3.87%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="3" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
@@ -1068,8 +1068,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 16</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />129 precincts in contest. 109 of 129 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">129 precincts in contest. 109 of 129 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />129 precincts in contest. 116 of 129 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">129 precincts in contest. 116 of 129 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1088,24 +1088,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Andrew Robert Lang</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">20,670</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.98%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="69" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">21,663</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">70.19%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="70" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Fernando Alvarado</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">8,850</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">29.96%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,185</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">29.76%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="29" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">16</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.05%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.06%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -1114,8 +1114,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 17</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />75 precincts in contest. 65 of 75 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">75 precincts in contest. 65 of 75 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />75 precincts in contest. 68 of 75 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">75 precincts in contest. 68 of 75 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1134,23 +1134,23 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Glenn Gruenhagen</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">25,292</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.77%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26,219</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.92%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="69" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Chad Tschimperle</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,938</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">30.17%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,257</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">30.02%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="30" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">20</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">23</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.06%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1252,8 +1252,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 20</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />91 precincts in contest. 87 of 91 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">91 precincts in contest. 87 of 91 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />91 precincts in contest. 91 of 91 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">91 precincts in contest. 91 of 91 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1272,24 +1272,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Steve Drazkowski</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">23,594</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">61.94%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">25,129</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">61.67%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="61" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Bradley Robert Drenckhahn</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">14,431</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">37.88%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="37" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">15,546</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">38.15%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="38" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">68</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.18%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">70</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.17%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -1298,8 +1298,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 21</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />210 precincts in contest. 206 of 210 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">210 precincts in contest. 206 of 210 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />210 precincts in contest. 209 of 210 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">210 precincts in contest. 209 of 210 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1318,7 +1318,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Bill Weber</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,516</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,812</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">97.81%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="97" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1326,7 +1326,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">617</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">624</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.19%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="2" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1336,8 +1336,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 22</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />109 precincts in contest. 90 of 109 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">109 precincts in contest. 90 of 109 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />109 precincts in contest. 101 of 109 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">109 precincts in contest. 101 of 109 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1356,16 +1356,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Rich Draheim</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,786</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">96.76%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">28,821</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">96.83%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="96" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">930</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">3.24%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">944</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">3.17%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="3" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -1420,8 +1420,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 24</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />62 precincts in contest. 51 of 62 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">62 precincts in contest. 51 of 62 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />62 precincts in contest. 58 of 62 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">62 precincts in contest. 58 of 62 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1440,24 +1440,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Carla Nelson</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,950</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">59.35%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="59" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">20,106</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">58.13%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="58" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Aleta Borrud</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">12,273</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">40.58%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="40" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">14,460</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">41.81%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="41" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">20</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.07%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">21</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.06%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -1466,8 +1466,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 25</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />56 precincts in contest. 41 of 56 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">56 precincts in contest. 41 of 56 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />56 precincts in contest. 55 of 56 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">56 precincts in contest. 55 of 56 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1486,32 +1486,32 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Bill Rood</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">519</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.13%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">696</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.08%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="2" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Ken Navitsky</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,185</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">37.69%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="37" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">13,193</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.42%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="39" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Liz Boldon</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">14,662</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">60.16%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="60" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">19,566</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">58.47%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="58" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">6</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.02%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.03%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -1666,8 +1666,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 29</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />36 precincts in contest. 34 of 36 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">36 precincts in contest. 34 of 36 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />36 precincts in contest. 35 of 36 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">36 precincts in contest. 35 of 36 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -1686,16 +1686,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Bruce Anderson</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24,430</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">68.81%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24,475</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">68.83%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="68" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Chris Brazelton</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,051</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">31.13%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,061</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">31.11%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="31" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
@@ -3000,8 +3000,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 58</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />46 precincts in contest. 43 of 46 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">46 precincts in contest. 43 of 46 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />46 precincts in contest. 44 of 46 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">46 precincts in contest. 44 of 46 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -3020,16 +3020,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Bill Lieske</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">19,140</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">52.43%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">19,530</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">52.54%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="52" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Clarice Grabau</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,336</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">47.49%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,610</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">47.37%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="47" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
