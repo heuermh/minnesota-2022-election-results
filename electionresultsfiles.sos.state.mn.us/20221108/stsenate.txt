@@ -1,11 +1,11 @@
-MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;238;315;24863;97.44;25517
-MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;238;315;654;2.56;25517
-MN;;;0122;State Senator District 2;2;0301;Steve Green;;;R;159;189;18133;59.71;30368
-MN;;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;159;189;12206;40.19;30368
-MN;;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;159;189;29;0.10;30368
-MN;;;0123;State Senator District 3;3;0301;Andrea Zupancich;;;R;88;132;14941;48.95;30521
-MN;;;0123;State Senator District 3;3;0401;Grant Hauschild;;;DFL;88;132;15540;50.92;30521
-MN;;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;88;132;40;0.13;30521
+MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;252;315;25218;97.39;25894
+MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;252;315;676;2.61;25894
+MN;;;0122;State Senator District 2;2;0301;Steve Green;;;R;166;189;18656;59.99;31101
+MN;;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;166;189;12416;39.92;31101
+MN;;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;166;189;29;0.09;31101
+MN;;;0123;State Senator District 3;3;0301;Andrea Zupancich;;;R;89;132;14985;48.87;30664
+MN;;;0123;State Senator District 3;3;0401;Grant Hauschild;;;DFL;89;132;15639;51.00;30664
+MN;;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;89;132;40;0.13;30664
 MN;;;0124;State Senator District 4;4;0301;Dan Bohmer;;;R;68;68;14202;46.80;30345
 MN;;;0124;State Senator District 4;4;0401;Rob Kupec;;;DFL;68;68;15929;52.49;30345
 MN;;;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;68;68;214;0.71;30345
@@ -24,9 +24,9 @@ MN;;;0128;State Senator District 8;8;9901;WRITE-IN;;;WI;32;32;76;0.20;37075
 MN;;;0129;State Senator District 9;9;0301;Jordan Rasmusson;;;R;158;183;23473;63.47;36984
 MN;;;0129;State Senator District 9;9;0401;Cornel Walker;;;DFL;158;183;10425;28.19;36984
 MN;;;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;158;183;3086;8.34;36984
-MN;;;0130;State Senator District 10;10;0301;Nathan Wesenberg;;;R;119;123;27604;72.51;38067
-MN;;;0130;State Senator District 10;10;0401;Suzanne M. Cekalla;;;DFL;119;123;10363;27.22;38067
-MN;;;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;119;123;100;0.26;38067
+MN;;;0130;State Senator District 10;10;0301;Nathan Wesenberg;;;R;120;123;27830;72.45;38413
+MN;;;0130;State Senator District 10;10;0401;Suzanne M. Cekalla;;;DFL;120;123;10481;27.29;38413
+MN;;;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;120;123;102;0.27;38413
 MN;;;0131;State Senator District 11;11;0301;Jason Rarick;;;R;55;106;13443;57.02;23576
 MN;;;0131;State Senator District 11;11;0401;Michelle Boyechko;;;DFL;55;106;10096;42.82;23576
 MN;;;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;55;106;37;0.16;23576
@@ -40,12 +40,12 @@ MN;;;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;45;49;36;0.10;35830
 MN;;;0134;State Senator District 14;14;0301;Tama Theis;;;R;36;38;12914;46.62;27699
 MN;;;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;36;38;14749;53.25;27699
 MN;;;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;36;38;36;0.13;27699
-MN;;;0135;State Senator District 15;15;0301;Gary Dahms;;;R;173;173;25780;71.19;36215
-MN;;;0135;State Senator District 15;15;0401;Anita Gaul;;;DFL;173;173;10415;28.76;36215
-MN;;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;173;173;20;0.06;36215
-MN;;;0136;State Senator District 16;16;0301;Andrew Robert Lang;;;R;122;129;22334;70.43;31713
-MN;;;0136;State Senator District 16;16;0401;Fernando Alvarado;;;DFL;122;129;9362;29.52;31713
-MN;;;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;122;129;17;0.05;31713
+MN;;;0135;State Senator District 15;15;0301;Gary Dahms;;;R;173;173;25780;71.19;36214
+MN;;;0135;State Senator District 15;15;0401;Anita Gaul;;;DFL;173;173;10414;28.76;36214
+MN;;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;173;173;20;0.06;36214
+MN;;;0136;State Senator District 16;16;0301;Andrew Robert Lang;;;R;124;129;23027;70.25;32779
+MN;;;0136;State Senator District 16;16;0401;Fernando Alvarado;;;DFL;124;129;9735;29.70;32779
+MN;;;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;124;129;17;0.05;32779
 MN;;;0137;State Senator District 17;17;0301;Glenn Gruenhagen;;;R;68;75;26219;69.92;37499
 MN;;;0137;State Senator District 17;17;0401;Chad Tschimperle;;;DFL;68;75;11257;30.02;37499
 MN;;;0137;State Senator District 17;17;9901;WRITE-IN;;;WI;68;75;23;0.06;37499
