@@ -342,7 +342,11 @@
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/USHouseCty.txt">U.S. Representative by County</a>
                     <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/ushousepct.txt">U.S. Representative by Precinct</a>
+                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/Governor.txt">Governor Statewide</a>
+                    <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/governorpct.txt">Governor by Precinct</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/secofstate.txt">Secretary of State Statewide</a>
                     <br />
@@ -352,7 +356,11 @@
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/stsenate.txt">State Senator by District</a>
                     <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/StateSenateByPct.txt">State Senator by Precinct</a>
+                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/LegislativeByDistrict.txt">State Representative by District</a>
+                    <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/sthousepct.txt">State Representative by Precinct</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/judicial.txt">Supreme Court and Court of Appeals Races</a>
                     <br />
@@ -366,6 +374,8 @@
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/local.txt">Municipal and Hospital District Races and Questions</a>
                     <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/localPrct.txt">Municipal, Hospital, and School District Races and Questions by Precinct</a>
+                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/hospital.txt">Hospital District Races</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/sdrace.txt">School Board Races</a>
@@ -375,6 +385,10 @@
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/SDRaceQuestions.txt">School Board Races and Questions</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/allracesbycounty.txt">All Federal, State, and County Races by County</a>
+                    <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/allracesbyprecinct.txt">All Federal, State, and County Races by Precinct</a>
+                    <br />
+                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20221108/pctstats.txt">Precinct Reporting Statistics</a>
                     <br />
         </div>
         <br />
