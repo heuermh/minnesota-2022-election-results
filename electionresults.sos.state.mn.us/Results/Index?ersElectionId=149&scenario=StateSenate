@@ -331,10 +331,10 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;1.19%&nbsp;&nbsp;49&nbsp;of&nbsp;4,103
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;1.24%&nbsp;&nbsp;51&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:28 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:38 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,333
@@ -346,13 +346,13 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;1.19%&nbsp;&nbsp;49&nbsp;of&nbsp;4,103
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;1.24%&nbsp;&nbsp;51&nbsp;of&nbsp;4,103
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:28 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 8:38 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -462,8 +462,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 3</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />132 precincts in contest. 2 of 132 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">132 precincts in contest. 2 of 132 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />132 precincts in contest. 3 of 132 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">132 precincts in contest. 3 of 132 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>
@@ -482,17 +482,17 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Andrea Zupancich</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">33.33%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="33" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">92</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">38.98%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="38" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Grant Hauschild</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">4</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">66.67%</td>
-                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="66" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">144</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">61.02%</td>
+                                    <td class="col-md-2 hidden-sm hidden-xs"><img width="61" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
@@ -1160,8 +1160,8 @@
                         <caption class="caption-secondary">
                             <div>
                                 <span class="boldFont">State Senator District 18</span>&nbsp;&nbsp;&nbsp;
-                                    <span class="hidden-lg hidden-md"><br />53 precincts in contest. 1 of 53 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">53 precincts in contest. 1 of 53 precincts reported.</span>
+                                    <span class="hidden-lg hidden-md"><br />53 precincts in contest. 2 of 53 precincts reported.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">53 precincts in contest. 2 of 53 precincts reported.</span>
                                 </div>
                             </div>
                         </caption>

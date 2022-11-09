@@ -154,19 +154,19 @@ MN;;;5000;School Board Member (ISD #51) (Elect 3);0051;9901;WRITE-IN;;;WI;0;16;0
 MN;;;5000;School Board Member (ISD #75) (Elect 3);0075;9001;Connie Johns;;;NP;0;8;0;0.00;0
 MN;;;5000;School Board Member (ISD #75) (Elect 3);0075;9002;Jillian Cousins;;;NP;0;8;0;0.00;0
 MN;;;5000;School Board Member (ISD #75) (Elect 3);0075;9901;WRITE-IN;;;WI;0;8;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9001;Darren Kern;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9002;Kari Pratt;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9003;Jamie Aanenson;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9004;Brianne Vogt;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9005;Shannon Sinning;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9006;Jodi Sapp;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9007;Crystal Wells;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9008;Patrick Baker;;;NP;1;46;0;0.00;0
-MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9901;WRITE-IN;;;WI;1;46;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #77);0077;9001;Joel Hollerich;;;NP;1;46;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #77);0077;9002;Ernest W. Neilsen;;;NP;1;46;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #77);0077;9003;Kristin Schuck;;;NP;1;46;0;0.00;0
-MN;;;5001;Special Election for School Board Member (ISD #77);0077;9901;WRITE-IN;;;WI;1;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9001;Darren Kern;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9002;Kari Pratt;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9003;Jamie Aanenson;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9004;Brianne Vogt;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9005;Shannon Sinning;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9006;Jodi Sapp;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9007;Crystal Wells;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9008;Patrick Baker;;;NP;2;46;0;0.00;0
+MN;;;5000;School Board Member (ISD #77) (Elect 3);0077;9901;WRITE-IN;;;WI;2;46;0;0.00;0
+MN;;;5001;Special Election for School Board Member (ISD #77);0077;9001;Joel Hollerich;;;NP;2;46;0;0.00;0
+MN;;;5001;Special Election for School Board Member (ISD #77);0077;9002;Ernest W. Neilsen;;;NP;2;46;0;0.00;0
+MN;;;5001;Special Election for School Board Member (ISD #77);0077;9003;Kristin Schuck;;;NP;2;46;0;0.00;0
+MN;;;5001;Special Election for School Board Member (ISD #77);0077;9901;WRITE-IN;;;WI;2;46;0;0.00;0
 MN;;;5000;School Board Member (ISD #81) (Elect 3);0081;9001;Brandon Anderson;;;NP;0;11;0;0.00;0
 MN;;;5000;School Board Member (ISD #81) (Elect 3);0081;9002;Andrea Toll;;;NP;0;11;0;0.00;0
 MN;;;5000;School Board Member (ISD #81) (Elect 3);0081;9901;WRITE-IN;;;WI;0;11;0;0.00;0
@@ -752,8 +752,8 @@ MN;;;5000;School Board Member (ISD #378) (Elect 4);0378;9007;Ann Jenson;;;NP;0;1
 MN;;;5000;School Board Member (ISD #378) (Elect 4);0378;9901;WRITE-IN;;;WI;0;15;0;0.00;0
 MN;;;5010;School Board Member District 1 (ISD #381);0381;9001;Steven Allen VanHouse;;;NP;0;2;0;0.00;0
 MN;;;5010;School Board Member District 1 (ISD #381);0381;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;5012;School Board Member District 2 (ISD #381);0381;9001;Tracy Tiboni;;;NP;1;6;3;100.00;3
-MN;;;5012;School Board Member District 2 (ISD #381);0381;9901;WRITE-IN;;;WI;1;6;0;0.00;3
+MN;;;5012;School Board Member District 2 (ISD #381);0381;9001;Tracy Tiboni;;;NP;2;6;186;100.00;186
+MN;;;5012;School Board Member District 2 (ISD #381);0381;9901;WRITE-IN;;;WI;2;6;0;0.00;186
 MN;;;5018;School Board Member District 5 (ISD #381);0381;9001;Jeff Radle;;;NP;0;2;0;0.00;0
 MN;;;5018;School Board Member District 5 (ISD #381);0381;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;5022;School Board Member District 7 (ISD #381);0381;9001;Dean Korri;;;NP;0;2;0;0.00;0
