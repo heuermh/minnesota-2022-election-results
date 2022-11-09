@@ -1233,10 +1233,10 @@ MN;;;1010;Council Member (Callaway) (Elect 2);09280;9002;Julie Molacek;;;NP;1;1;
 MN;;;1010;Council Member (Callaway) (Elect 2);09280;9901;WRITE-IN;;;WI;1;1;1;1.54;65
 MN;;;1001;Mayor (Calumet);09316;9001;John Tuorila;;;NP;1;1;79;86.81;91
 MN;;;1001;Mayor (Calumet);09316;9901;WRITE-IN;;;WI;1;1;12;13.19;91
-MN;;;1010;Council Member (Calumet) (Elect 2);09316;9001;Amanda Hernesman;;;NP;1;1;53;53.54;99
-MN;;;1010;Council Member (Calumet) (Elect 2);09316;9002;Rodger Brown;;;NP;1;1;45;45.45;99
-MN;;;1010;Council Member (Calumet) (Elect 2);09316;9003;Daniel Strand;;;NP;1;1;0;0.00;99
-MN;;;1010;Council Member (Calumet) (Elect 2);09316;9901;WRITE-IN;;;WI;1;1;1;1.01;99
+MN;;;1010;Council Member (Calumet) (Elect 2);09316;9001;Amanda Hernesman;;;NP;1;1;53;33.54;158
+MN;;;1010;Council Member (Calumet) (Elect 2);09316;9002;Rodger Brown;;;NP;1;1;45;28.48;158
+MN;;;1010;Council Member (Calumet) (Elect 2);09316;9003;Daniel Strand;;;NP;1;1;59;37.34;158
+MN;;;1010;Council Member (Calumet) (Elect 2);09316;9901;WRITE-IN;;;WI;1;1;1;0.63;158
 MN;;;4013;Town Supervisor Seat 3 (Cambria Township);09352;9001;Thomas Strenge;;;NP;1;1;46;33.82;136
 MN;;;4013;Town Supervisor Seat 3 (Cambria Township);09352;9002;Howard Jones;;;NP;1;1;90;66.18;136
 MN;;;4013;Town Supervisor Seat 3 (Cambria Township);09352;9901;WRITE-IN;;;WI;1;1;0;0.00;136
@@ -2564,8 +2564,8 @@ MN;;;1010;Council Member (Emmons) (Elect 2);19340;9002;Neal W. Honsey;;;NP;1;1;1
 MN;;;1010;Council Member (Emmons) (Elect 2);19340;9901;WRITE-IN;;;WI;1;1;11;4.35;253
 MN;;;4012;Town Supervisor Seat B (Enstrom Township);19466;9001;Neil Santl;;;NP;1;1;138;100.00;138
 MN;;;4012;Town Supervisor Seat B (Enstrom Township);19466;9901;WRITE-IN;;;WI;1;1;0;0.00;138
-MN;;;4013;Town Supervisor Seat C (Enstrom Township);19466;9001;Daryle Dahl;;;NP;1;1;134;100.00;134
-MN;;;4013;Town Supervisor Seat C (Enstrom Township);19466;9901;WRITE-IN;;;WI;1;1;0;0.00;134
+MN;;;4013;Town Supervisor Seat C (Enstrom Township);19466;9001;Daryle Dahl;;;NP;1;1;134;98.53;136
+MN;;;4013;Town Supervisor Seat C (Enstrom Township);19466;9901;WRITE-IN;;;WI;1;1;2;1.47;136
 MN;;;4022;Town Treasurer (Enstrom Township);19466;9001;Julie Langton;;;NP;1;1;137;100.00;137
 MN;;;4022;Town Treasurer (Enstrom Township);19466;9901;WRITE-IN;;;WI;1;1;0;0.00;137
 MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9001;Lynn  A. Burman;;;NP;1;1;21;31.82;66
@@ -3075,10 +3075,10 @@ MN;;;1001;Mayor (Gilman);23804;9901;WRITE-IN;;;WI;1;1;10;13.33;75
 MN;;;1010;Council Member (Gilman) (Elect 2);23804;9001;Andy Schommer;;;NP;1;1;69;52.67;131
 MN;;;1010;Council Member (Gilman) (Elect 2);23804;9002;Chad Scapanski;;;NP;1;1;56;42.75;131
 MN;;;1010;Council Member (Gilman) (Elect 2);23804;9901;WRITE-IN;;;WI;1;1;6;4.58;131
-MN;;;4010;Town Supervisor Seat A (Glen Township);23930;9001;Charlie Christensen;;;NP;1;1;64;96.97;66
-MN;;;4010;Town Supervisor Seat A (Glen Township);23930;9901;WRITE-IN;;;WI;1;1;2;3.03;66
-MN;;;4012;Town Supervisor Seat B (Glen Township);23930;9001;Doug Coil;;;NP;1;1;70;98.59;71
-MN;;;4012;Town Supervisor Seat B (Glen Township);23930;9901;WRITE-IN;;;WI;1;1;1;1.41;71
+MN;;;4010;Town Supervisor Seat A (Glen Township);23930;9001;Charlie Christensen;;;NP;1;1;182;93.81;194
+MN;;;4010;Town Supervisor Seat A (Glen Township);23930;9901;WRITE-IN;;;WI;1;1;12;6.19;194
+MN;;;4012;Town Supervisor Seat B (Glen Township);23930;9001;Doug Coil;;;NP;1;1;208;96.74;215
+MN;;;4012;Town Supervisor Seat B (Glen Township);23930;9901;WRITE-IN;;;WI;1;1;7;3.26;215
 MN;;;1010;Council Member at Large (Glencoe);23948;9001;Luz Maria Duvall;;;NP;4;4;1019;50.25;2028
 MN;;;1010;Council Member at Large (Glencoe);23948;9002;Allen Robeck;;;NP;4;4;1003;49.46;2028
 MN;;;1010;Council Member at Large (Glencoe);23948;9901;WRITE-IN;;;WI;4;4;6;0.30;2028
@@ -3702,12 +3702,12 @@ MN;;;4013;Town Supervisor Seat C (Hill Township);29078;9001;Michael Olsonawski;;
 MN;;;4013;Town Supervisor Seat C (Hill Township);29078;9901;WRITE-IN;;;WI;1;1;0;0.00;7
 MN;;;4022;Town Treasurer (Hill Township);29078;9001;Margaret A. Dykhuis;;;NP;1;1;7;100.00;7
 MN;;;4022;Town Treasurer (Hill Township);29078;9901;WRITE-IN;;;WI;1;1;0;0.00;7
-MN;;;1001;Mayor (Hill City);29096;9001;David Lange;;;NP;1;1;35;76.09;46
-MN;;;1001;Mayor (Hill City);29096;9901;WRITE-IN;;;WI;1;1;11;23.91;46
-MN;;;1010;Council Member (Hill City) (Elect 2);29096;9001;Sean Lathrop;;;NP;1;1;38;82.61;46
-MN;;;1010;Council Member (Hill City) (Elect 2);29096;9901;WRITE-IN;;;WI;1;1;8;17.39;46
-MN;;;1012;Special Election for Council Member (Hill City);29096;9001;Scott Brenny;;;NP;1;1;40;88.89;45
-MN;;;1012;Special Election for Council Member (Hill City);29096;9901;WRITE-IN;;;WI;1;1;5;11.11;45
+MN;;;1001;Mayor (Hill City);29096;9001;David Lange;;;NP;1;1;100;67.11;149
+MN;;;1001;Mayor (Hill City);29096;9901;WRITE-IN;;;WI;1;1;49;32.89;149
+MN;;;1010;Council Member (Hill City) (Elect 2);29096;9001;Sean Lathrop;;;NP;1;1;131;81.88;160
+MN;;;1010;Council Member (Hill City) (Elect 2);29096;9901;WRITE-IN;;;WI;1;1;29;18.13;160
+MN;;;1012;Special Election for Council Member (Hill City);29096;9001;Scott Brenny;;;NP;1;1;127;92.70;137
+MN;;;1012;Special Election for Council Member (Hill City);29096;9901;WRITE-IN;;;WI;1;1;10;7.30;137
 MN;;;4010;Town Supervisor Seat A (Hill Lake Township);29114;9001;James Barry;;;NP;1;1;169;97.69;173
 MN;;;4010;Town Supervisor Seat A (Hill Lake Township);29114;9901;WRITE-IN;;;WI;1;1;4;2.31;173
 MN;;;4013;Special Election for Town Supervisor Seat C (Hill Lake Township);29114;9001;Craig A. McNeil;;;NP;1;1;166;93.26;178
@@ -3929,8 +3929,8 @@ MN;;;4010;Town Supervisor Seat 1 (Hyde Park Township);30680;9901;WRITE-IN;;;WI;1
 MN;;;4012;Town Supervisor Seat 2 (Hyde Park Township);30680;9001;Reed Duncan;;;NP;1;1;91;94.79;96
 MN;;;4012;Town Supervisor Seat 2 (Hyde Park Township);30680;9901;WRITE-IN;;;WI;1;1;5;5.21;96
 MN;;;4022;Town Treasurer (Hyde Park Township);30680;9901;WRITE-IN;;;WI;1;1;21;100.00;21
-MN;;;4010;Town Supervisor Seat A (Idun Township);30788;9001;Laura Dunphy;;;NP;1;1;29;96.67;30
-MN;;;4010;Town Supervisor Seat A (Idun Township);30788;9901;WRITE-IN;;;WI;1;1;1;3.33;30
+MN;;;4010;Town Supervisor Seat A (Idun Township);30788;9001;Laura Dunphy;;;NP;1;1;87;94.57;92
+MN;;;4010;Town Supervisor Seat A (Idun Township);30788;9901;WRITE-IN;;;WI;1;1;5;5.43;92
 MN;;;1001;Mayor (Ihlen);30806;9901;WRITE-IN;;;WI;1;1;12;100.00;12
 MN;;;1010;Council Member (Ihlen) (Elect 2);30806;9001;Jeffery Kunard;;;NP;1;1;22;84.62;26
 MN;;;1010;Council Member (Ihlen) (Elect 2);30806;9901;WRITE-IN;;;WI;1;1;4;15.38;26
@@ -5615,7 +5615,7 @@ MN;;;4013;Town Supervisor Seat C (Ness Township);45232;9901;WRITE-IN;;;WI;1;1;13
 MN;;;4023;Town Clerk - Treasurer (Ness Township);45232;9901;WRITE-IN;;;WI;1;1;13;100.00;13
 MN;;;4010;Town Supervisor Seat A (Nessel Township);45250;9001;Branden Mell;;;NP;1;1;696;96.94;718
 MN;;;4010;Town Supervisor Seat A (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;22;3.06;718
-MN;;;4012;Town Supervisor Seat B (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;12;100.00;12
 MN;;;4013;Town Supervisor Seat C (Nessel Township);45250;9001;Stan Iskierka;;;NP;1;1;650;95.73;679
 MN;;;4013;Town Supervisor Seat C (Nessel Township);45250;9901;WRITE-IN;;;WI;1;1;29;4.27;679
 MN;;;1001;Mayor (Nevis);45340;9002;Jeanne Thompson;;;NP;1;1;144;96.00;150
@@ -5796,10 +5796,10 @@ MN;;;1001;Mayor (Norcross);46492;9901;WRITE-IN;;;WI;1;1;0;0.00;30
 MN;;;1010;Council Member (Norcross) (Elect 2);46492;9001;Tom Hurlbut;;;NP;1;1;25;43.86;57
 MN;;;1010;Council Member (Norcross) (Elect 2);46492;9002;Brandon Staples;;;NP;1;1;29;50.88;57
 MN;;;1010;Council Member (Norcross) (Elect 2);46492;9901;WRITE-IN;;;WI;1;1;3;5.26;57
-MN;;;4010;Town Supervisor Seat A (Nordland Township);46546;9001;Tom Sanbeck;;;NP;1;1;545;99.63;547
-MN;;;4010;Town Supervisor Seat A (Nordland Township);46546;9901;WRITE-IN;;;WI;1;1;2;0.37;547
-MN;;;4021;Town Clerk (Nordland Township);46546;9001;Mathew Nix;;;NP;1;1;549;99.10;554
-MN;;;4021;Town Clerk (Nordland Township);46546;9901;WRITE-IN;;;WI;1;1;5;0.90;554
+MN;;;4010;Town Supervisor Seat A (Nordland Township);46546;9001;Tom Sanbeck;;;NP;1;1;546;99.64;548
+MN;;;4010;Town Supervisor Seat A (Nordland Township);46546;9901;WRITE-IN;;;WI;1;1;2;0.36;548
+MN;;;4021;Town Clerk (Nordland Township);46546;9001;Mathew Nix;;;NP;1;1;550;99.10;555
+MN;;;4021;Town Clerk (Nordland Township);46546;9901;WRITE-IN;;;WI;1;1;5;0.90;555
 MN;;;4010;Town Supervisor Seat 1 (Nordland Township);46564;9001;Allan Telste;;;NP;1;1;107;100.00;107
 MN;;;4010;Town Supervisor Seat 1 (Nordland Township);46564;9901;WRITE-IN;;;WI;1;1;0;0.00;107
 MN;;;4013;Town Supervisor Seat 3 (Nordland Township);46564;9001;Bruce Jeremiason;;;NP;1;1;107;100.00;107
@@ -7658,11 +7658,11 @@ MN;;;4013;Town Supervisor Seat C (Tamarac Township);64138;9001;Jon M. Petersen;;
 MN;;;4013;Town Supervisor Seat C (Tamarac Township);64138;9901;WRITE-IN;;;WI;1;1;0;0.00;42
 MN;;;4022;Town Treasurer (Tamarac Township);64138;9001;Katie Sczepanski;;;NP;1;1;42;100.00;42
 MN;;;4022;Town Treasurer (Tamarac Township);64138;9901;WRITE-IN;;;WI;1;1;0;0.00;42
-MN;;;1001;Mayor (Tamarack);64156;9001;J. John Cyrus;;;NP;1;1;5;71.43;7
-MN;;;1001;Mayor (Tamarack);64156;9901;WRITE-IN;;;WI;1;1;2;28.57;7
-MN;;;1010;Council Member (Tamarack) (Elect 2);64156;9001;Dawn Foerster;;;NP;1;1;3;27.27;11
-MN;;;1010;Council Member (Tamarack) (Elect 2);64156;9002;Verlyn Haugse;;;NP;1;1;6;54.55;11
-MN;;;1010;Council Member (Tamarack) (Elect 2);64156;9901;WRITE-IN;;;WI;1;1;2;18.18;11
+MN;;;1001;Mayor (Tamarack);64156;9001;J. John Cyrus;;;NP;1;1;15;78.95;19
+MN;;;1001;Mayor (Tamarack);64156;9901;WRITE-IN;;;WI;1;1;4;21.05;19
+MN;;;1010;Council Member (Tamarack) (Elect 2);64156;9001;Dawn Foerster;;;NP;1;1;14;40.00;35
+MN;;;1010;Council Member (Tamarack) (Elect 2);64156;9002;Verlyn Haugse;;;NP;1;1;19;54.29;35
+MN;;;1010;Council Member (Tamarack) (Elect 2);64156;9901;WRITE-IN;;;WI;1;1;2;5.71;35
 MN;;;1010;Council Member (Taopi) (Elect 2);64210;9001;Earl Kiefer;;;NP;1;1;15;48.39;31
 MN;;;1010;Council Member (Taopi) (Elect 2);64210;9002;Ted Kiefer;;;NP;1;1;15;48.39;31
 MN;;;1010;Council Member (Taopi) (Elect 2);64210;9901;WRITE-IN;;;WI;1;1;1;3.23;31
