@@ -504,10 +504,10 @@ MN;;;1001;Mayor (Battle Lake);03970;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Battle Lake) (Elect 2);03970;9001;Donald Maslow;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Battle Lake) (Elect 2);03970;9002;Marjorie Quammen;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Battle Lake) (Elect 2);03970;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Battle Plain Township);03988;9001;Eric Sas;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Battle Plain Township);03988;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Battle Plain Township);03988;9001;Aaron Sandbulte;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Battle Plain Township);03988;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Battle Plain Township);03988;9001;Eric Sas;;;NP;1;1;83;97.65;85
+MN;;;4010;Town Supervisor Seat A (Battle Plain Township);03988;9901;WRITE-IN;;;WI;1;1;2;2.35;85
+MN;;;4012;Town Supervisor Seat B (Battle Plain Township);03988;9001;Aaron Sandbulte;;;NP;1;1;76;95.00;80
+MN;;;4012;Town Supervisor Seat B (Battle Plain Township);03988;9901;WRITE-IN;;;WI;1;1;4;5.00;80
 MN;;;1001;Mayor (Baudette);04024;9001;Rick Rone;;;NP;0;3;0;0.00;0
 MN;;;1001;Mayor (Baudette);04024;9901;WRITE-IN;;;WI;0;3;0;0.00;0
 MN;;;1010;Council Member at Large (Baudette) (Elect 2);04024;9001;Brock A Stebakken;;;NP;0;3;0;0.00;0
@@ -583,13 +583,13 @@ MN;;;4012;Special Election for Town Supervisor Seat B (Beaver Bay Township);0447
 MN;;;4013;Town Supervisor Seat C (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;4021;Special Election for Town Clerk (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;4022;Town Treasurer (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1001;Mayor (Beaver Creek);04492;9001;Joshua Teune;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Beaver Creek);04492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9001;Heidi Freese;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9002;Joseph Conger;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9003;Madison Conger;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9004;Jacob Conger;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Beaver Creek);04492;9001;Joshua Teune;;;NP;1;1;130;97.74;133
+MN;;;1001;Mayor (Beaver Creek);04492;9901;WRITE-IN;;;WI;1;1;3;2.26;133
+MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9001;Heidi Freese;;;NP;1;1;89;36.93;241
+MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9002;Joseph Conger;;;NP;1;1;44;18.26;241
+MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9003;Madison Conger;;;NP;1;1;23;9.54;241
+MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9004;Jacob Conger;;;NP;1;1;78;32.37;241
+MN;;;1010;Council Member (Beaver Creek) (Elect 2);04492;9901;WRITE-IN;;;WI;1;1;7;2.90;241
 MN;;;4010;Town Supervisor Seat 1 (Becker Township);04600;9001;Mike Bjerga;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Becker Township);04600;9002;Mike Fitcher;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Becker Township);04600;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -1084,13 +1084,13 @@ MN;;;1010;Council Member (Brooks) (Elect 2);08038;9002;Jess Determan;;;NP;0;1;0;
 MN;;;1010;Council Member (Brooks) (Elect 2);08038;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1001;Mayor (Brookston);08056;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Brookston);08056;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Brooten);08092;9001;Thor B. Amundson;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Brooten);08092;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Brooten) (Elect 2);08092;9001;Tyler J White;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Brooten) (Elect 2);08092;9002;Mark Nepsund;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Brooten) (Elect 2);08092;9003;Scott Vogel;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Brooten) (Elect 2);08092;9004;Bob Gregory;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Brooten) (Elect 2);08092;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Brooten);08092;9001;Thor B. Amundson;;;NP;1;2;0;0.00;0
+MN;;;1001;Mayor (Brooten);08092;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1010;Council Member (Brooten) (Elect 2);08092;9001;Tyler J White;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Brooten) (Elect 2);08092;9002;Mark Nepsund;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Brooten) (Elect 2);08092;9003;Scott Vogel;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Brooten) (Elect 2);08092;9004;Bob Gregory;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Brooten) (Elect 2);08092;9901;WRITE-IN;;;WI;1;2;0;0.00;0
 MN;;;1001;Mayor (Browerville);08110;9001;Hannah Wieshalla;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Browerville);08110;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Browerville) (Elect 2);08110;9001;Joshua Goertz;;;NP;0;1;0;0.00;0
@@ -2162,12 +2162,12 @@ MN;;;1001;Mayor (Dent);15724;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Dent) (Elect 2);15724;9001;Daniel Nodsle;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Dent) (Elect 2);15724;9002;Dawn Boyne;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Dent) (Elect 2);15724;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Denver Township);15742;9001;Anthony C. Roos;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Denver Township);15742;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Denver Township);15742;9001;Donald Arends;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Denver Township);15742;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Denver Township);15742;9001;Lloyd Hemme;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Denver Township);15742;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Denver Township);15742;9001;Anthony C. Roos;;;NP;1;1;67;94.37;71
+MN;;;4010;Town Supervisor Seat A (Denver Township);15742;9901;WRITE-IN;;;WI;1;1;4;5.63;71
+MN;;;4012;Town Supervisor Seat B (Denver Township);15742;9001;Donald Arends;;;NP;1;1;69;100.00;69
+MN;;;4012;Town Supervisor Seat B (Denver Township);15742;9901;WRITE-IN;;;WI;1;1;0;0.00;69
+MN;;;4022;Town Treasurer (Denver Township);15742;9001;Lloyd Hemme;;;NP;1;1;68;100.00;68
+MN;;;4022;Town Treasurer (Denver Township);15742;9901;WRITE-IN;;;WI;1;1;0;0.00;68
 MN;;;1010;Council Member at Large (Detroit Lakes) (Elect 2);15832;9001;Natalie Bly;;;NP;0;3;0;0.00;0
 MN;;;1010;Council Member at Large (Detroit Lakes) (Elect 2);15832;9002;Jaimie J. Deraney;;;NP;0;3;0;0.00;0
 MN;;;1010;Council Member at Large (Detroit Lakes) (Elect 2);15832;9003;Celeste Koppe;;;NP;0;3;0;0.00;0
@@ -3439,11 +3439,11 @@ MN;;;1010;Council Member (Harding) (Elect 2);27098;9002;Tami Young;;;NP;0;1;0;0.
 MN;;;1010;Council Member (Harding) (Elect 2);27098;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1061;City Treasurer (Harding);27098;9001;Karen Hayes;;;NP;0;1;0;0.00;0
 MN;;;1061;City Treasurer (Harding);27098;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Hardwick);27116;9001;Thomas J Haas;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Hardwick);27116;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Hardwick) (Elect 2);27116;9001;Don Bryan;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hardwick) (Elect 2);27116;9002;Gordon Hansen;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hardwick) (Elect 2);27116;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Hardwick);27116;9001;Thomas J Haas;;;NP;1;1;54;94.74;57
+MN;;;1001;Mayor (Hardwick);27116;9901;WRITE-IN;;;WI;1;1;3;5.26;57
+MN;;;1010;Council Member (Hardwick) (Elect 2);27116;9001;Don Bryan;;;NP;1;1;49;51.58;95
+MN;;;1010;Council Member (Hardwick) (Elect 2);27116;9002;Gordon Hansen;;;NP;1;1;41;43.16;95
+MN;;;1010;Council Member (Hardwick) (Elect 2);27116;9901;WRITE-IN;;;WI;1;1;5;5.26;95
 MN;;;1001;Mayor (Harmony);27188;9001;Sue A. Olinger;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Harmony);27188;9002;Steve Donney;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Harmony);27188;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -4047,16 +4047,16 @@ MN;;;1010;Council Member (Janesville);31706;9001;Ivan Maas;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Janesville);31706;9002;Daniel Frenk;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Janesville);31706;9003;Melissa Kopachek;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Janesville);31706;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Jasper);31760;9001;Mike Baustian;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Jasper);31760;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9001;Brian Sievert;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9002;Christopher Johnson;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9003;Deborah Plahn;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9004;Christopher Alan Hoogland;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9005;Tim Houg;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9006;Jeffrey Leslie;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9007;Cynthia Jamison;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Jasper) (Elect 3);31760;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Jasper);31760;9001;Mike Baustian;;;NP;1;2;13;100.00;13
+MN;;;1001;Mayor (Jasper);31760;9901;WRITE-IN;;;WI;1;2;0;0.00;13
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9001;Brian Sievert;;;NP;1;2;12;28.57;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9002;Christopher Johnson;;;NP;1;2;1;2.38;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9003;Deborah Plahn;;;NP;1;2;7;16.67;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9004;Christopher Alan Hoogland;;;NP;1;2;1;2.38;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9005;Tim Houg;;;NP;1;2;10;23.81;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9006;Jeffrey Leslie;;;NP;1;2;9;21.43;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9007;Cynthia Jamison;;;NP;1;2;2;4.76;42
+MN;;;1010;Council Member (Jasper) (Elect 3);31760;9901;WRITE-IN;;;WI;1;2;0;0.00;42
 MN;;;1001;Mayor (Jeffers);31796;9001;Shannon McClanahan;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Jeffers);31796;9002;Brad Prins;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Jeffers);31796;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -4180,11 +4180,11 @@ MN;;;1001;Mayor (Kennedy);32732;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Kennedy) (Elect 2);32732;9001;Ross Hanson;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Kennedy) (Elect 2);32732;9002;(Enrique) Henry Escareno;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Kennedy) (Elect 2);32732;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Kenneth);32750;9001;Keith Hoven;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Kenneth);32750;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Kenneth) (Elect 2);32750;9001;Sheri Vyskocil;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Kenneth) (Elect 2);32750;9002;Laurie Gangestad;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Kenneth) (Elect 2);32750;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Kenneth);32750;9001;Keith Hoven;;;NP;1;1;18;90.00;20
+MN;;;1001;Mayor (Kenneth);32750;9901;WRITE-IN;;;WI;1;1;2;10.00;20
+MN;;;1010;Council Member (Kenneth) (Elect 2);32750;9001;Sheri Vyskocil;;;NP;1;1;12;36.36;33
+MN;;;1010;Council Member (Kenneth) (Elect 2);32750;9002;Laurie Gangestad;;;NP;1;1;16;48.48;33
+MN;;;1010;Council Member (Kenneth) (Elect 2);32750;9901;WRITE-IN;;;WI;1;1;5;15.15;33
 MN;;;1001;Mayor (Kensington);32768;9001;Jim Schecker;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Kensington);32768;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Kensington) (Elect 2);32768;9001;Brock L. Green;;;NP;0;1;0;0.00;0
@@ -4956,11 +4956,11 @@ MN;;;1010;Council Member (Madison Lake) (Elect 2);39320;9001;Rashelle Perry;;;NP
 MN;;;1010;Council Member (Madison Lake) (Elect 2);39320;9002;Patricia Burt;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Madison Lake) (Elect 2);39320;9003;Ryan Sanders;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Madison Lake) (Elect 2);39320;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Magnolia);39338;9001;Dennis William Madison;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Magnolia);39338;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Magnolia) (Elect 2);39338;9001;Joel Smith;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Magnolia) (Elect 2);39338;9002;Jeffery T. DeGroot;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Magnolia) (Elect 2);39338;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Magnolia);39338;9001;Dennis William Madison;;;NP;1;1;37;92.50;40
+MN;;;1001;Mayor (Magnolia);39338;9901;WRITE-IN;;;WI;1;1;3;7.50;40
+MN;;;1010;Council Member (Magnolia) (Elect 2);39338;9001;Joel Smith;;;NP;1;1;40;52.63;76
+MN;;;1010;Council Member (Magnolia) (Elect 2);39338;9002;Jeffery T. DeGroot;;;NP;1;1;35;46.05;76
+MN;;;1010;Council Member (Magnolia) (Elect 2);39338;9901;WRITE-IN;;;WI;1;1;1;1.32;76
 MN;;;1001;Mayor (Mahnomen);39392;9001;Julie Hanson;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Mahnomen);39392;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member at Large (Mahnomen) (Elect 2);39392;9001;LuAnn Durant;;;NP;0;1;0;0.00;0
