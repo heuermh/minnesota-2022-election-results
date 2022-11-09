@@ -334,7 +334,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:08 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:18 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,626
@@ -352,7 +352,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:08 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:18 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -3473,7 +3473,7 @@
                     Greater MN: <a href="tel:1-877-600-8683" title="Call Us">1-877-600-VOTE (8683)</a><br>
                     MN Relay Service: <a href="tel:711" title="Call Us">711</a>
                 </p>
-                <p class="item-contact"><i class="mn-icon icon-clock"></i><span>Hours: The State Office Building is open to the public Monday – Friday 8 a.m. to 4:30 p.m. </span></p>
+                <p class="item-contact"><i class="mn-icon icon-clock"></i><span> Hours: 8 a.m. to 4:30 p.m. </span></p>
                 
                 <p class="item-contact"><i class="mn-icon icon-envelop"></i><span>Email:<a href="mailto:secretary.state@state.mn.us"> secretary.state@state.mn.us</a></span></p>
                 <p class="item-contact">
