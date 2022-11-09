@@ -331,10 +331,10 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;99.5%&nbsp;&nbsp;395&nbsp;of&nbsp;397
+                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;100%&nbsp;&nbsp;397&nbsp;of&nbsp;397
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 10:38 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 10:48 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 791,682
@@ -346,13 +346,13 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;99.5%&nbsp;&nbsp;395&nbsp;of&nbsp;397
+                            <span class="boldFont">Precincts Reporting in County:</span>&nbsp;100%&nbsp;&nbsp;397&nbsp;of&nbsp;397
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 10:38 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/08/22 10:48 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -399,7 +399,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Irene Fernando</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">44,716</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">44,720</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">98.46%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="98" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -418,8 +418,8 @@
                             <div>
                                 <span class="boldFont">County Commissioner District 3</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28530&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />57 precincts in contest. 56 of 57 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">57 precincts in contest. 56 of 57 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />57 precincts in contest. 57 of 57 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">57 precincts in contest. 57 of 57 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>
@@ -438,23 +438,23 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Ashley Boldin</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,813</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">29.43%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">18,337</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">29.60%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="29" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Marion Greene</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">42,294</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.87%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">43,173</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.70%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="69" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">422</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">433</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.70%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -485,7 +485,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Angela Conley</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">42,273</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">42,287</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">98.54%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="98" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -504,8 +504,8 @@
                             <div>
                                 <span class="boldFont">County Sheriff</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28532&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 395 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 395 of 397 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 397 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 397 of 397 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>
@@ -524,23 +524,23 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Joseph Banks</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">156,773</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">35.40%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">157,663</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">35.37%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="35" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Dawanna Witt</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">283,277</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">63.96%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">285,233</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">63.99%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="63" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2,838</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2,858</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.64%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -551,8 +551,8 @@
                             <div>
                                 <span class="boldFont">County Attorney</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28533&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 395 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 395 of 397 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />397 precincts in contest. 397 of 397 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">397 precincts in contest. 397 of 397 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>
@@ -571,7 +571,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Mary Moriarty</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">252,656</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">254,368</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">57.59%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="57" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -579,16 +579,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Martha Holton Dimick</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">183,526</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">41.83%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">184,711</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">41.82%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="41" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2,566</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.58%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2,588</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.59%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -676,8 +676,8 @@
                             <div>
                                 <span class="boldFont">County Park Commissioner District 3</span>&nbsp;&nbsp;&nbsp;
                                     <span class="hidden-lg hidden-md"><br /></span>                                     <a class="hrefNormal" href="/Results/Index?ersElectionId=149&amp;scenario=ResultsByPrecinctCrosstab&amp;OfficeInElectionId=28536&amp;QuestionId=0">Results By Precinct</a>
-                                    <span class="hidden-lg hidden-md"><br />40 precincts in contest. 38 of 40 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
-                                        <span class="hidden-xs hidden-sm" style="text-align: right;">40 precincts in contest. 38 of 40 precincts reported in County.</span>
+                                    <span class="hidden-lg hidden-md"><br />40 precincts in contest. 40 of 40 precincts reported in County.</span>                                 <div class="hidden-xs hidden-sm" style="float: right">
+                                        <span class="hidden-xs hidden-sm" style="text-align: right;">40 precincts in contest. 40 of 40 precincts reported in County.</span>
                                 </div>
                             </div>
                         </caption>
@@ -696,16 +696,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Nonpartisan</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">NP</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Erin Kolb</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">37,168</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">98.62%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">39,436</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">98.63%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="98" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">519</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.38%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">548</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.37%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
