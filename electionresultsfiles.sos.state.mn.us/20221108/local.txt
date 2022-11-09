@@ -334,8 +334,8 @@ MN;;;4015;Town Supervisor Seat E (Athens Township);02602;9002;Amy Peterson;;;NP;
 MN;;;4015;Town Supervisor Seat E (Athens Township);02602;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Athens Township);02602;9001;Diane Carpenter;;;NP;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Athens Township);02602;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Atkinson Township) (Elect 2);02656;9001;Terry L. Dearborn;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Atkinson Township) (Elect 2);02656;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4001;Town Supervisor at Large (Atkinson Township) (Elect 2);02656;9001;Terry L. Dearborn;;;NP;1;1;173;86.07;201
+MN;;;4001;Town Supervisor at Large (Atkinson Township) (Elect 2);02656;9901;WRITE-IN;;;WI;1;1;28;13.93;201
 MN;;;1001;Mayor (Atwater);02692;9001;Stephanie Haats;;;NP;1;1;112;26.35;425
 MN;;;1001;Mayor (Atwater);02692;9003;Mark S. Olson;;;NP;1;1;311;73.18;425
 MN;;;1001;Mayor (Atwater);02692;9901;WRITE-IN;;;WI;1;1;2;0.47;425
@@ -385,12 +385,12 @@ MN;;;1024;Council Member Ward 3 (Austin);02908;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;1070;Utility Board Commissioner (Austin) (Elect 2);02908;9001;Jeanne F Sheehan;;;NP;0;6;0;0.00;0
 MN;;;1070;Utility Board Commissioner (Austin) (Elect 2);02908;9002;Steve Greenman;;;NP;0;6;0;0.00;0
 MN;;;1070;Utility Board Commissioner (Austin) (Elect 2);02908;9901;WRITE-IN;;;WI;0;6;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Automba Township);03016;9001;Mark Seelen;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Automba Township);03016;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Automba Township);03016;9001;Deane Rengo;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Automba Township);03016;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Automba Township);03016;9001;Denise Reed;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Automba Township);03016;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Automba Township);03016;9001;Mark Seelen;;;NP;1;1;66;98.51;67
+MN;;;4010;Town Supervisor Seat A (Automba Township);03016;9901;WRITE-IN;;;WI;1;1;1;1.49;67
+MN;;;4013;Town Supervisor Seat C (Automba Township);03016;9001;Deane Rengo;;;NP;1;1;61;95.31;64
+MN;;;4013;Town Supervisor Seat C (Automba Township);03016;9901;WRITE-IN;;;WI;1;1;3;4.69;64
+MN;;;4022;Town Treasurer (Automba Township);03016;9001;Denise Reed;;;NP;1;1;64;96.97;66
+MN;;;4022;Town Treasurer (Automba Township);03016;9901;WRITE-IN;;;WI;1;1;2;3.03;66
 MN;;;1001;Mayor (Avoca);03052;9001;Barb Kirchner;;;NP;1;1;45;100.00;45
 MN;;;1001;Mayor (Avoca);03052;9901;WRITE-IN;;;WI;1;1;0;0.00;45
 MN;;;1010;Council Member (Avoca) (Elect 2);03052;9001;John Larsen;;;NP;1;1;42;48.84;86
@@ -459,10 +459,10 @@ MN;;;4013;Town Supervisor Seat C (Balsam Township);03412;9001;Kim Risen;;;NP;0;1
 MN;;;4013;Town Supervisor Seat C (Balsam Township);03412;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Balsam Township);03412;9001;Therese M. Klosterman;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Balsam Township);03412;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Barber Township);03520;9001;Larry Paul;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Barber Township);03520;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Barber Township);03520;9001;Yvonne Cory;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Barber Township);03520;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4013;Town Supervisor Seat C (Barber Township);03520;9001;Larry Paul;;;NP;1;1;115;99.14;116
+MN;;;4013;Town Supervisor Seat C (Barber Township);03520;9901;WRITE-IN;;;WI;1;1;1;0.86;116
+MN;;;4021;Town Clerk (Barber Township);03520;9001;Yvonne Cory;;;NP;1;1;114;100.00;114
+MN;;;4021;Town Clerk (Barber Township);03520;9901;WRITE-IN;;;WI;1;1;0;0.00;114
 MN;;;4010;Town Supervisor Seat 1 (Barclay Township);03538;9001;William J. Tollefson;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Barclay Township);03538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Barclay Township);03538;9001;Litta (Le) Sears;;;NP;0;1;0;0.00;0
@@ -471,16 +471,16 @@ MN;;;4022;Special Election for Town Treasurer (Barclay Township);03538;9001;Meli
 MN;;;4022;Special Election for Town Treasurer (Barclay Township);03538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1131;CITY QUESTION 1 (Barnesville);03574;9001;YES;;;NP;3;3;827;92.20;897
 MN;;;1131;CITY QUESTION 1 (Barnesville);03574;9002;NO;;;NP;3;3;70;7.80;897
-MN;;;1001;Mayor (Barnum);03628;9001;Dale Riihiluoma;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Barnum);03628;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Barnum) (Elect 2);03628;9001;Lori Berglund;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Barnum) (Elect 2);03628;9002;Justin Dinger;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Barnum) (Elect 2);03628;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Barnum Township) (Elect 2);03646;9001;Keith Rasmussen;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Barnum Township) (Elect 2);03646;9002;David Duesler;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Barnum Township) (Elect 2);03646;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Barnum Township);03646;9001;Kate Rasmussen;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Barnum Township);03646;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Barnum);03628;9001;Dale Riihiluoma;;;NP;1;1;160;96.39;166
+MN;;;1001;Mayor (Barnum);03628;9901;WRITE-IN;;;WI;1;1;6;3.61;166
+MN;;;1010;Council Member (Barnum) (Elect 2);03628;9001;Lori Berglund;;;NP;1;1;131;51.57;254
+MN;;;1010;Council Member (Barnum) (Elect 2);03628;9002;Justin Dinger;;;NP;1;1;116;45.67;254
+MN;;;1010;Council Member (Barnum) (Elect 2);03628;9901;WRITE-IN;;;WI;1;1;7;2.76;254
+MN;;;4001;Town Supervisor at Large (Barnum Township) (Elect 2);03646;9001;Keith Rasmussen;;;NP;1;1;395;50.58;781
+MN;;;4001;Town Supervisor at Large (Barnum Township) (Elect 2);03646;9002;David Duesler;;;NP;1;1;380;48.66;781
+MN;;;4001;Town Supervisor at Large (Barnum Township) (Elect 2);03646;9901;WRITE-IN;;;WI;1;1;6;0.77;781
+MN;;;4022;Town Treasurer (Barnum Township);03646;9001;Kate Rasmussen;;;NP;1;1;517;99.04;522
+MN;;;4022;Town Treasurer (Barnum Township);03646;9901;WRITE-IN;;;WI;1;1;5;0.96;522
 MN;;;1001;Mayor (Barrett);03682;9001;Michelle Jenson;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Barrett);03682;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Barrett) (Elect 2);03682;9001;Katie Hauglie;;;NP;0;1;0;0.00;0
@@ -694,19 +694,19 @@ MN;;;4012;Town Supervisor Seat B (Bernadotte Township);05410;9001;Richard Scheur
 MN;;;4012;Town Supervisor Seat B (Bernadotte Township);05410;9901;WRITE-IN;;;WI;1;1;1;0.85;117
 MN;;;4022;Town Treasurer (Bernadotte Township);05410;9001;Steven Sjostrom;;;NP;1;1;113;99.12;114
 MN;;;4022;Town Treasurer (Bernadotte Township);05410;9901;WRITE-IN;;;WI;1;1;1;0.88;114
-MN;;;1001;Mayor (Bertha);05482;9001;Steven L. Greenwaldt;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Bertha);05482;9002;Debra K. Nelson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Bertha);05482;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Bertha) (Elect 2);05482;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Bertha);05482;9001;Shari Moller;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Bertha);05482;9002;Tyler Hoffman;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Bertha);05482;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Beseman Township);05518;9001;Budwin Lehti;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Beseman Township);05518;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Beseman Township);05518;9001;Robert Charles Erickson;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Beseman Township);05518;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Beseman Township);05518;9001;Mark Dahlman;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Beseman Township);05518;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Bertha);05482;9001;Steven L. Greenwaldt;;;NP;1;1;64;40.76;157
+MN;;;1001;Mayor (Bertha);05482;9002;Debra K. Nelson;;;NP;1;1;88;56.05;157
+MN;;;1001;Mayor (Bertha);05482;9901;WRITE-IN;;;WI;1;1;5;3.18;157
+MN;;;1010;Council Member (Bertha) (Elect 2);05482;9901;WRITE-IN;;;WI;1;1;77;100.00;77
+MN;;;1012;Special Election for Council Member (Bertha);05482;9001;Shari Moller;;;NP;1;1;92;63.45;145
+MN;;;1012;Special Election for Council Member (Bertha);05482;9002;Tyler Hoffman;;;NP;1;1;52;35.86;145
+MN;;;1012;Special Election for Council Member (Bertha);05482;9901;WRITE-IN;;;WI;1;1;1;0.69;145
+MN;;;4010;Town Supervisor Seat A (Beseman Township);05518;9001;Budwin Lehti;;;NP;1;1;46;100.00;46
+MN;;;4010;Town Supervisor Seat A (Beseman Township);05518;9901;WRITE-IN;;;WI;1;1;0;0.00;46
+MN;;;4013;Town Supervisor Seat C (Beseman Township);05518;9001;Robert Charles Erickson;;;NP;1;1;48;100.00;48
+MN;;;4013;Town Supervisor Seat C (Beseman Township);05518;9901;WRITE-IN;;;WI;1;1;0;0.00;48
+MN;;;4022;Town Treasurer (Beseman Township);05518;9001;Mark Dahlman;;;NP;1;1;47;100.00;47
+MN;;;4022;Town Treasurer (Beseman Township);05518;9901;WRITE-IN;;;WI;1;1;0;0.00;47
 MN;;;1001;Mayor (Bethel);05554;9001;Todd Miller;;;NP;1;1;163;97.60;167
 MN;;;1001;Mayor (Bethel);05554;9901;WRITE-IN;;;WI;1;1;4;2.40;167
 MN;;;1010;Council Member at Large (Bethel) (Elect 2);05554;9001;Ryan Seguin;;;NP;1;1;134;50.00;268
@@ -715,17 +715,17 @@ MN;;;1010;Council Member at Large (Bethel) (Elect 2);05554;9901;WRITE-IN;;;WI;1;
 MN;;;4012;Town Supervisor Seat 2 (Beulah Township);05572;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Beulah Township);05572;9001;Jason Roos;;;NP;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Beulah Township);05572;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Big Bend Township);05608;9001;Timothy Kanten;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Big Bend Township);05608;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Big Bend Township);05608;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Big Bend Township);05608;9001;David Moe;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Big Bend Township);05608;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Big Bend Township);05608;9001;Ryan Erp;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Big Bend Township);05608;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4031;TOWNSHIP QUESTION 1 (Big Bend Twp);05608;9001;YES;;;NP;0;1;0;0.00;0
-MN;;;4031;TOWNSHIP QUESTION 1 (Big Bend Twp);05608;9002;NO;;;NP;0;1;0;0.00;0
-MN;;;4032;TOWNSHIP QUESTION 2 (Big Bend Twp);05608;9001;YES;;;NP;0;1;0;0.00;0
-MN;;;4032;TOWNSHIP QUESTION 2 (Big Bend Twp);05608;9002;NO;;;NP;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat 2 (Big Bend Township);05608;9001;Timothy Kanten;;;NP;1;1;115;98.29;117
+MN;;;4012;Town Supervisor Seat 2 (Big Bend Township);05608;9901;WRITE-IN;;;WI;1;1;2;1.71;117
+MN;;;4013;Town Supervisor Seat 3 (Big Bend Township);05608;9901;WRITE-IN;;;WI;1;1;31;100.00;31
+MN;;;4021;Town Clerk (Big Bend Township);05608;9001;David Moe;;;NP;1;1;117;99.15;118
+MN;;;4021;Town Clerk (Big Bend Township);05608;9901;WRITE-IN;;;WI;1;1;1;0.85;118
+MN;;;4022;Town Treasurer (Big Bend Township);05608;9001;Ryan Erp;;;NP;1;1;118;100.00;118
+MN;;;4022;Town Treasurer (Big Bend Township);05608;9901;WRITE-IN;;;WI;1;1;0;0.00;118
+MN;;;4031;TOWNSHIP QUESTION 1 (Big Bend Twp);05608;9001;YES;;;NP;1;1;96;80.67;119
+MN;;;4031;TOWNSHIP QUESTION 1 (Big Bend Twp);05608;9002;NO;;;NP;1;1;23;19.33;119
+MN;;;4032;TOWNSHIP QUESTION 2 (Big Bend Twp);05608;9001;YES;;;NP;1;1;93;79.49;117
+MN;;;4032;TOWNSHIP QUESTION 2 (Big Bend Twp);05608;9002;NO;;;NP;1;1;24;20.51;117
 MN;;;1001;Mayor (Bigelow);05644;9001;Bryan Brandt;;;NP;1;1;44;91.67;48
 MN;;;1001;Mayor (Bigelow);05644;9901;WRITE-IN;;;WI;1;1;4;8.33;48
 MN;;;1010;Council Member (Bigelow) (Elect 2);05644;9001;Andrew Boneschans;;;NP;1;1;28;27.72;101
@@ -822,11 +822,11 @@ MN;;;1001;Mayor (Blackduck);06256;9901;WRITE-IN;;;WI;1;1;8;4.49;178
 MN;;;1010;Council Member (Blackduck) (Elect 2);06256;9001;Ronald Fredrickson;;;NP;1;1;131;50.58;259
 MN;;;1010;Council Member (Blackduck) (Elect 2);06256;9002;Laurie Hamilton;;;NP;1;1;127;49.03;259
 MN;;;1010;Council Member (Blackduck) (Elect 2);06256;9901;WRITE-IN;;;WI;1;1;1;0.39;259
-MN;;;4001;Town Supervisor at Large (Blackhoof Township) (Elect 2);06328;9001;Dale Davis;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Blackhoof Township) (Elect 2);06328;9002;Michael Salzer;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Blackhoof Township) (Elect 2);06328;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Blackhoof Township);06328;9001;Rhoda Fitzsimmons;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Blackhoof Township);06328;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4001;Town Supervisor at Large (Blackhoof Township) (Elect 2);06328;9001;Dale Davis;;;NP;1;1;326;49.39;660
+MN;;;4001;Town Supervisor at Large (Blackhoof Township) (Elect 2);06328;9002;Michael Salzer;;;NP;1;1;319;48.33;660
+MN;;;4001;Town Supervisor at Large (Blackhoof Township) (Elect 2);06328;9901;WRITE-IN;;;WI;1;1;15;2.27;660
+MN;;;4022;Town Treasurer (Blackhoof Township);06328;9001;Rhoda Fitzsimmons;;;NP;1;1;417;98.82;422
+MN;;;4022;Town Treasurer (Blackhoof Township);06328;9901;WRITE-IN;;;WI;1;1;5;1.18;422
 MN;;;4010;Town Supervisor Seat A (Black River Township);06364;9001;Dana Dallmann;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Black River Township);06364;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Black River Township);06364;9001;Michelle Naplin;;;NP;0;1;0;0.00;0
@@ -894,17 +894,17 @@ MN;;;1010;Council Member (Bluffton);06778;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1011;Council Member (Bluffton) (Elect 2);06778;9001;Mary Lou Carlson;;;NP;0;1;0;0.00;0
 MN;;;1011;Council Member (Bluffton) (Elect 2);06778;9002;Brian Nesland;;;NP;0;1;0;0.00;0
 MN;;;1011;Council Member (Bluffton) (Elect 2);06778;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Bock);06814;9001;Adam Booth;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Bock);06814;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Bock) (Elect 2);06814;9001;Sandra Booth;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Bock) (Elect 2);06814;9002;Tiffany Kunst;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Bock) (Elect 2);06814;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Boon Lake Township);06976;9001;Randy Kruse;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Boon Lake Township);06976;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Boon Lake Township);06976;9001;Leon Radtke;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Boon Lake Township);06976;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Boon Lake Township);06976;9001;Lisa Radtke;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Boon Lake Township);06976;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Bock);06814;9001;Adam Booth;;;NP;1;1;20;86.96;23
+MN;;;1001;Mayor (Bock);06814;9901;WRITE-IN;;;WI;1;1;3;13.04;23
+MN;;;1010;Council Member (Bock) (Elect 2);06814;9001;Sandra Booth;;;NP;1;1;20;47.62;42
+MN;;;1010;Council Member (Bock) (Elect 2);06814;9002;Tiffany Kunst;;;NP;1;1;22;52.38;42
+MN;;;1010;Council Member (Bock) (Elect 2);06814;9901;WRITE-IN;;;WI;1;1;0;0.00;42
+MN;;;4012;Town Supervisor Seat B (Boon Lake Township);06976;9001;Randy Kruse;;;NP;1;1;193;100.00;193
+MN;;;4012;Town Supervisor Seat B (Boon Lake Township);06976;9901;WRITE-IN;;;WI;1;1;0;0.00;193
+MN;;;4013;Town Supervisor Seat C (Boon Lake Township);06976;9001;Leon Radtke;;;NP;1;1;186;100.00;186
+MN;;;4013;Town Supervisor Seat C (Boon Lake Township);06976;9901;WRITE-IN;;;WI;1;1;0;0.00;186
+MN;;;4022;Town Treasurer (Boon Lake Township);06976;9001;Lisa Radtke;;;NP;1;1;186;100.00;186
+MN;;;4022;Town Treasurer (Boon Lake Township);06976;9901;WRITE-IN;;;WI;1;1;0;0.00;186
 MN;;;1001;Mayor (Borup);07030;9001;William Hennen;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Borup);07030;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Borup);07030;9001;Justin Wilhelm;;;NP;0;1;0;0.00;0
@@ -961,15 +961,15 @@ MN;;;4010;Town Supervisor Seat 1 (Boy River Township);07192;9001;Deborah Huotari
 MN;;;4010;Town Supervisor Seat 1 (Boy River Township);07192;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;;;4012;Town Supervisor Seat 2 (Boy River Township);07192;9001;Leroy Bader;;;NP;1;1;1;100.00;1
 MN;;;4012;Town Supervisor Seat 2 (Boy River Township);07192;9901;WRITE-IN;;;WI;1;1;0;0.00;1
-MN;;;4012;Town Supervisor Seat B (Bradbury Township);07210;9001;Dan Mott;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Bradbury Township);07210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Bradbury Township);07210;9001;Blake Johnson;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Bradbury Township);07210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Bradbury Township);07210;9001;Carrie Johnson;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Bradbury Township);07210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Bradbury Township);07210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4031;TOWNSHIP QUESTION 1 (Bradbury Twp);07210;9001;YES;;;NP;0;1;0;0.00;0
-MN;;;4031;TOWNSHIP QUESTION 1 (Bradbury Twp);07210;9002;NO;;;NP;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Bradbury Township);07210;9001;Dan Mott;;;NP;1;1;68;98.55;69
+MN;;;4012;Town Supervisor Seat B (Bradbury Township);07210;9901;WRITE-IN;;;WI;1;1;1;1.45;69
+MN;;;4013;Town Supervisor Seat C (Bradbury Township);07210;9001;Blake Johnson;;;NP;1;1;66;100.00;66
+MN;;;4013;Town Supervisor Seat C (Bradbury Township);07210;9901;WRITE-IN;;;WI;1;1;0;0.00;66
+MN;;;4021;Town Clerk (Bradbury Township);07210;9001;Carrie Johnson;;;NP;1;1;67;100.00;67
+MN;;;4021;Town Clerk (Bradbury Township);07210;9901;WRITE-IN;;;WI;1;1;0;0.00;67
+MN;;;4022;Town Treasurer (Bradbury Township);07210;9901;WRITE-IN;;;WI;1;1;12;100.00;12
+MN;;;4031;TOWNSHIP QUESTION 1 (Bradbury Twp);07210;9001;YES;;;NP;1;1;0;0.00;0
+MN;;;4031;TOWNSHIP QUESTION 1 (Bradbury Twp);07210;9002;NO;;;NP;1;1;0;0.00;0
 MN;;;1001;Mayor (Braham);07282;9001;Nate George;;;NP;2;2;397;64.14;619
 MN;;;1001;Mayor (Braham);07282;9002;Patricia "Tish" Carlson;;;NP;2;2;222;35.86;619
 MN;;;1001;Mayor (Braham);07282;9901;WRITE-IN;;;WI;2;2;0;0.00;619
@@ -981,19 +981,19 @@ MN;;;1010;Council Member (Braham) (Elect 2);07282;9005;Peter DuVernay;;;NP;2;2;1
 MN;;;1010;Council Member (Braham) (Elect 2);07282;9901;WRITE-IN;;;WI;2;2;3;0.29;1030
 MN;;;1012;Special Election for Council Member (Braham);07282;9001;Jeremy Kunshier;;;NP;2;2;465;97.08;479
 MN;;;1012;Special Election for Council Member (Braham);07282;9901;WRITE-IN;;;WI;2;2;14;2.92;479
-MN;;;1001;Mayor (Brainerd);07300;9001;Dave Badeaux;;;NP;5;9;1824;98.38;1854
-MN;;;1001;Mayor (Brainerd);07300;9901;WRITE-IN;;;WI;5;9;30;1.62;1854
-MN;;;1010;Council Member at Large (Brainerd);07300;9001;Justin Grecula;;;NP;5;9;849;42.97;1976
-MN;;;1010;Council Member at Large (Brainerd);07300;9002;Jeff Czeczok;;;NP;5;9;1113;56.33;1976
-MN;;;1010;Council Member at Large (Brainerd);07300;9901;WRITE-IN;;;WI;5;9;14;0.71;1976
+MN;;;1001;Mayor (Brainerd);07300;9001;Dave Badeaux;;;NP;7;9;2825;98.12;2879
+MN;;;1001;Mayor (Brainerd);07300;9901;WRITE-IN;;;WI;7;9;54;1.88;2879
+MN;;;1010;Council Member at Large (Brainerd);07300;9001;Justin Grecula;;;NP;7;9;1373;44.64;3076
+MN;;;1010;Council Member at Large (Brainerd);07300;9002;Jeff Czeczok;;;NP;7;9;1685;54.78;3076
+MN;;;1010;Council Member at Large (Brainerd);07300;9901;WRITE-IN;;;WI;7;9;18;0.59;3076
 MN;;;1021;Special Election for Council Member Ward 1 (Brainerd);07300;9001;Kara Terry;;;NP;2;2;561;55.88;1004
 MN;;;1021;Special Election for Council Member Ward 1 (Brainerd);07300;9002;Leonard D. Skillings;;;NP;2;2;437;43.53;1004
 MN;;;1021;Special Election for Council Member Ward 1 (Brainerd);07300;9901;WRITE-IN;;;WI;2;2;6;0.60;1004
-MN;;;1022;Council Member Ward 2 (Brainerd);07300;9001;Kelly Bevans;;;NP;0;2;0;0.00;0
-MN;;;1022;Council Member Ward 2 (Brainerd);07300;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1026;Council Member Ward 4 (Brainerd);07300;9002;Gabe Johnson;;;NP;0;2;0;0.00;0
-MN;;;1026;Council Member Ward 4 (Brainerd);07300;9003;Emily LeClaire;;;NP;0;2;0;0.00;0
-MN;;;1026;Council Member Ward 4 (Brainerd);07300;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1022;Council Member Ward 2 (Brainerd);07300;9001;Kelly Bevans;;;NP;1;2;505;99.02;510
+MN;;;1022;Council Member Ward 2 (Brainerd);07300;9901;WRITE-IN;;;WI;1;2;5;0.98;510
+MN;;;1026;Council Member Ward 4 (Brainerd);07300;9002;Gabe Johnson;;;NP;1;2;261;52.20;500
+MN;;;1026;Council Member Ward 4 (Brainerd);07300;9003;Emily LeClaire;;;NP;1;2;238;47.60;500
+MN;;;1026;Council Member Ward 4 (Brainerd);07300;9901;WRITE-IN;;;WI;1;2;1;0.20;500
 MN;;;1001;Mayor (Brandon);07336;9001;Roger Campbell;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Brandon);07336;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Brandon) (Elect 2);07336;9001;Jesse Beaumia;;;NP;0;1;0;0.00;0
@@ -1022,8 +1022,8 @@ MN;;;1010;Council Member (Breezy Point) (Elect 2);07516;9004;Tom Lillehei;;;NP;0
 MN;;;1010;Council Member (Breezy Point) (Elect 2);07516;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Breezy Point);07516;9001;Steve Jensen;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Breezy Point);07516;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Brevator Township);07606;9001;Carey Ferrell;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Brevator Township);07606;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Brevator Township);07606;9001;Carey Ferrell;;;NP;1;1;345;98.29;351
+MN;;;4010;Town Supervisor Seat A (Brevator Township);07606;9901;WRITE-IN;;;WI;1;1;6;1.71;351
 MN;;;1001;Mayor (Brewster);07660;9001;Randy Schmitz;;;NP;1;1;128;72.32;177
 MN;;;1001;Mayor (Brewster);07660;9002;Jay Peterson;;;NP;1;1;47;26.55;177
 MN;;;1001;Mayor (Brewster);07660;9901;WRITE-IN;;;WI;1;1;2;1.13;177
@@ -1091,12 +1091,12 @@ MN;;;1010;Council Member (Brooten) (Elect 2);08092;9002;Mark Nepsund;;;NP;1;2;0;
 MN;;;1010;Council Member (Brooten) (Elect 2);08092;9003;Scott Vogel;;;NP;1;2;0;0.00;0
 MN;;;1010;Council Member (Brooten) (Elect 2);08092;9004;Bob Gregory;;;NP;1;2;0;0.00;0
 MN;;;1010;Council Member (Brooten) (Elect 2);08092;9901;WRITE-IN;;;WI;1;2;0;0.00;0
-MN;;;1001;Mayor (Browerville);08110;9001;Hannah Wieshalla;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Browerville);08110;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Browerville) (Elect 2);08110;9001;Joshua Goertz;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Browerville) (Elect 2);08110;9002;Christopher Minor;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Browerville) (Elect 2);08110;9003;Sue Wiersgalla;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Browerville) (Elect 2);08110;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Browerville);08110;9001;Hannah Wieshalla;;;NP;1;1;210;93.75;224
+MN;;;1001;Mayor (Browerville);08110;9901;WRITE-IN;;;WI;1;1;14;6.25;224
+MN;;;1010;Council Member (Browerville) (Elect 2);08110;9001;Joshua Goertz;;;NP;1;1;109;26.33;414
+MN;;;1010;Council Member (Browerville) (Elect 2);08110;9002;Christopher Minor;;;NP;1;1;163;39.37;414
+MN;;;1010;Council Member (Browerville) (Elect 2);08110;9003;Sue Wiersgalla;;;NP;1;1;136;32.85;414
+MN;;;1010;Council Member (Browerville) (Elect 2);08110;9901;WRITE-IN;;;WI;1;1;6;1.45;414
 MN;;;1001;Mayor (Brownsdale);08164;9001;Jeff Foster;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Brownsdale);08164;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Brownsdale) (Elect 2);08164;9001;Debra Schuette;;;NP;0;1;0;0.00;0
@@ -1147,12 +1147,12 @@ MN;;;1010;Council Member (Buffalo) (Elect 2);08452;9003;Bradley E Dahl;;;NP;3;3;
 MN;;;1010;Council Member (Buffalo) (Elect 2);08452;9004;Linda M. Kittock;;;NP;3;3;1651;16.85;9797
 MN;;;1010;Council Member (Buffalo) (Elect 2);08452;9005;Tessa Jones;;;NP;3;3;1249;12.75;9797
 MN;;;1010;Council Member (Buffalo) (Elect 2);08452;9901;WRITE-IN;;;WI;3;3;59;0.60;9797
-MN;;;1001;Mayor (Buffalo Lake);08488;9001;Matthew Rath;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Buffalo Lake);08488;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9001;Jay Squibb;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9002;Ryan Beich;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9003;Samuel Pettit;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Buffalo Lake);08488;9001;Matthew Rath;;;NP;1;1;214;97.27;220
+MN;;;1001;Mayor (Buffalo Lake);08488;9901;WRITE-IN;;;WI;1;1;6;2.73;220
+MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9001;Jay Squibb;;;NP;1;1;112;29.09;385
+MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9002;Ryan Beich;;;NP;1;1;142;36.88;385
+MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9003;Samuel Pettit;;;NP;1;1;125;32.47;385
+MN;;;1010;Council Member (Buffalo Lake) (Elect 2);08488;9901;WRITE-IN;;;WI;1;1;6;1.56;385
 MN;;;1001;Mayor (Buhl);08524;9001;Brandin D. Carter;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Buhl);08524;9002;John Klarich;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Buhl);08524;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -1267,9 +1267,9 @@ MN;;;4013;Town Supervisor Seat 3 (Camp Release Township);09550;9001;Alan Enevold
 MN;;;4013;Town Supervisor Seat 3 (Camp Release Township);09550;9901;WRITE-IN;;;WI;1;1;1;0.77;130
 MN;;;4022;Town Treasurer (Camp Release Township);09550;9001;Kristi Enevoldsen;;;NP;1;1;129;99.23;130
 MN;;;4022;Town Treasurer (Camp Release Township);09550;9901;WRITE-IN;;;WI;1;1;1;0.77;130
-MN;;;1010;Council Member (Canby) (Elect 2);09604;9001;Josh Bruning;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Canby) (Elect 2);09604;9002;Marisa Kack;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Canby) (Elect 2);09604;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Canby) (Elect 2);09604;9001;Josh Bruning;;;NP;1;1;512;50.54;1013
+MN;;;1010;Council Member (Canby) (Elect 2);09604;9002;Marisa Kack;;;NP;1;1;472;46.59;1013
+MN;;;1010;Council Member (Canby) (Elect 2);09604;9901;WRITE-IN;;;WI;1;1;29;2.86;1013
 MN;;;4012;Town Supervisor Seat B (Cannon Township);09676;9001;Glenn R. Anderson;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Cannon Township);09676;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Cannon Township);09676;9001;Randy Coffield;;;NP;0;1;0;0.00;0
@@ -1327,12 +1327,12 @@ MN;;;4010;Town Supervisor Seat A (Carlston Township);10000;9901;WRITE-IN;;;WI;0;
 MN;;;4021;Town Clerk (Carlston Township);10000;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Carlston Twp);10000;9001;YES;;;NP;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Carlston Twp);10000;9002;NO;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Carlton);10018;9001;Mike Soderstrom;;;NP;1;2;0;0.00;0
-MN;;;1001;Mayor (Carlton);10018;9901;WRITE-IN;;;WI;1;2;0;0.00;0
-MN;;;1010;Council Member (Carlton) (Elect 2);10018;9001;David Sobczak;;;NP;1;2;0;0.00;0
-MN;;;1010;Council Member (Carlton) (Elect 2);10018;9002;Denise Coleman Lyng;;;NP;1;2;0;0.00;0
-MN;;;1010;Council Member (Carlton) (Elect 2);10018;9003;Brent Bodie;;;NP;1;2;0;0.00;0
-MN;;;1010;Council Member (Carlton) (Elect 2);10018;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1001;Mayor (Carlton);10018;9001;Mike Soderstrom;;;NP;2;2;356;96.74;368
+MN;;;1001;Mayor (Carlton);10018;9901;WRITE-IN;;;WI;2;2;12;3.26;368
+MN;;;1010;Council Member (Carlton) (Elect 2);10018;9001;David Sobczak;;;NP;2;2;206;34.92;590
+MN;;;1010;Council Member (Carlton) (Elect 2);10018;9002;Denise Coleman Lyng;;;NP;2;2;153;25.93;590
+MN;;;1010;Council Member (Carlton) (Elect 2);10018;9003;Brent Bodie;;;NP;2;2;229;38.81;590
+MN;;;1010;Council Member (Carlton) (Elect 2);10018;9901;WRITE-IN;;;WI;2;2;2;0.34;590
 MN;;;4012;Town Supervisor Seat B (Carpenter Township);10072;9001;Donald W Nelson;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Carpenter Township);10072;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Carpenter Township);10072;9001;Larry Salmela;;;NP;0;1;0;0.00;0
@@ -1375,11 +1375,11 @@ MN;;;1010;Council Member (Cedar Mills) (Elect 2);10468;9002;Robert Mortensen;;;N
 MN;;;1010;Council Member (Cedar Mills) (Elect 2);10468;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Cedar Mills);10468;9001;David Bebow;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Cedar Mills);10468;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Center City);10576;9001;Jill Behnke;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Center City);10576;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Center City) (Elect 2);10576;9001;Garrett Boulineau;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Center City) (Elect 2);10576;9002;Lloyd Vetter;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Center City) (Elect 2);10576;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Center City);10576;9001;Jill Behnke;;;NP;1;1;260;95.94;271
+MN;;;1001;Mayor (Center City);10576;9901;WRITE-IN;;;WI;1;1;11;4.06;271
+MN;;;1010;Council Member (Center City) (Elect 2);10576;9001;Garrett Boulineau;;;NP;1;1;187;48.32;387
+MN;;;1010;Council Member (Center City) (Elect 2);10576;9002;Lloyd Vetter;;;NP;1;1;193;49.87;387
+MN;;;1010;Council Member (Center City) (Elect 2);10576;9901;WRITE-IN;;;WI;1;1;7;1.81;387
 MN;;;1001;Mayor (Centerville);10648;9001;D. Love;;;NP;1;1;1381;96.24;1435
 MN;;;1001;Mayor (Centerville);10648;9901;WRITE-IN;;;WI;1;1;54;3.76;1435
 MN;;;1010;Council Member at Large (Centerville) (Elect 2);10648;9001;Michelle Lakso;;;NP;1;1;981;50.28;1951
@@ -1601,20 +1601,20 @@ MN;;;4012;Town Supervisor Seat B (Clontarf Township);12142;9001;Scott Tostenson;
 MN;;;4012;Town Supervisor Seat B (Clontarf Township);12142;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Clontarf Township);12142;9001;John Reardon;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Clontarf Township);12142;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Cloquet);12160;9001;David Bjerkness;;;NP;0;6;0;0.00;0
-MN;;;1001;Mayor (Cloquet);12160;9002;Roger Maki;;;NP;0;6;0;0.00;0
-MN;;;1001;Mayor (Cloquet);12160;9901;WRITE-IN;;;WI;0;6;0;0.00;0
-MN;;;1020;Council Member Ward 1 (Cloquet);12160;9001;Erik J Blesener;;;NP;0;1;0;0.00;0
-MN;;;1020;Council Member Ward 1 (Cloquet);12160;9002;Warren "Bun" Carlson;;;NP;0;1;0;0.00;0
-MN;;;1020;Council Member Ward 1 (Cloquet);12160;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1022;Council Member Ward 2 (Cloquet);12160;9001;Sheila Lamb;;;NP;0;1;0;0.00;0
-MN;;;1022;Council Member Ward 2 (Cloquet);12160;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1024;Council Member Ward 3 (Cloquet);12160;9001;Chris Swanson;;;NP;0;1;0;0.00;0
-MN;;;1024;Council Member Ward 3 (Cloquet);12160;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1131;CITY QUESTION 1 (Cloquet);12160;9001;YES;;;NP;0;6;0;0.00;0
-MN;;;1131;CITY QUESTION 1 (Cloquet);12160;9002;NO;;;NP;0;6;0;0.00;0
-MN;;;1132;CITY QUESTION 2 (Cloquet);12160;9001;YES;;;NP;0;6;0;0.00;0
-MN;;;1132;CITY QUESTION 2 (Cloquet);12160;9002;NO;;;NP;0;6;0;0.00;0
+MN;;;1001;Mayor (Cloquet);12160;9001;David Bjerkness;;;NP;6;6;2194;48.56;4518
+MN;;;1001;Mayor (Cloquet);12160;9002;Roger Maki;;;NP;6;6;2312;51.17;4518
+MN;;;1001;Mayor (Cloquet);12160;9901;WRITE-IN;;;WI;6;6;12;0.27;4518
+MN;;;1020;Council Member Ward 1 (Cloquet);12160;9001;Erik J Blesener;;;NP;1;1;479;46.28;1035
+MN;;;1020;Council Member Ward 1 (Cloquet);12160;9002;Warren "Bun" Carlson;;;NP;1;1;551;53.24;1035
+MN;;;1020;Council Member Ward 1 (Cloquet);12160;9901;WRITE-IN;;;WI;1;1;5;0.48;1035
+MN;;;1022;Council Member Ward 2 (Cloquet);12160;9001;Sheila Lamb;;;NP;1;1;647;98.48;657
+MN;;;1022;Council Member Ward 2 (Cloquet);12160;9901;WRITE-IN;;;WI;1;1;10;1.52;657
+MN;;;1024;Council Member Ward 3 (Cloquet);12160;9001;Chris Swanson;;;NP;1;1;602;84.79;710
+MN;;;1024;Council Member Ward 3 (Cloquet);12160;9901;WRITE-IN;;;WI;1;1;108;15.21;710
+MN;;;1131;CITY QUESTION 1 (Cloquet);12160;9001;YES;;;NP;6;6;2806;59.84;4689
+MN;;;1131;CITY QUESTION 1 (Cloquet);12160;9002;NO;;;NP;6;6;1883;40.16;4689
+MN;;;1132;CITY QUESTION 2 (Cloquet);12160;9001;YES;;;NP;6;6;2368;50.54;4685
+MN;;;1132;CITY QUESTION 2 (Cloquet);12160;9002;NO;;;NP;6;6;2317;49.46;4685
 MN;;;4010;Town Supervisor Seat A (Clover Township);12232;9001;David Thoelke;;;NP;1;1;61;78.21;78
 MN;;;4010;Town Supervisor Seat A (Clover Township);12232;9901;WRITE-IN;;;WI;1;1;17;21.79;78
 MN;;;4013;Town Supervisor Seat C (Clover Township);12232;9001;Teresa Ohm;;;NP;1;1;77;97.47;79
@@ -1821,10 +1821,10 @@ MN;;;4013;Town Supervisor Seat C (Crane Lake Township);13656;9001;Jim Janssen;;;
 MN;;;4013;Town Supervisor Seat C (Crane Lake Township);13656;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Crane Lake Township);13656;9001;Traci Bak;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Crane Lake Township);13656;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Crate Township);13672;9001;Stanley Harms;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Crate Township);13672;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Crate Township);13672;9001;Steven Hilbrands;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Crate Township);13672;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4013;Town Supervisor Seat 3 (Crate Township);13672;9001;Stanley Harms;;;NP;1;1;34;53.13;64
+MN;;;4013;Town Supervisor Seat 3 (Crate Township);13672;9901;WRITE-IN;;;WI;1;1;30;46.88;64
+MN;;;4022;Town Treasurer (Crate Township);13672;9001;Steven Hilbrands;;;NP;1;1;87;100.00;87
+MN;;;4022;Town Treasurer (Crate Township);13672;9901;WRITE-IN;;;WI;1;1;0;0.00;87
 MN;;;1001;Mayor (Credit River);13708;9001;Christopher Kostik;;;NP;2;2;2143;96.06;2231
 MN;;;1001;Mayor (Credit River);13708;9901;WRITE-IN;;;WI;2;2;88;3.94;2231
 MN;;;1010;Council Member (Credit River) (Elect 2);13708;9001;Paul W. Doelz;;;NP;2;2;426;10.33;4125
@@ -1836,11 +1836,11 @@ MN;;;1010;Council Member (Credit River) (Elect 2);13708;9006;Greg Worthen;;;NP;2
 MN;;;1010;Council Member (Credit River) (Elect 2);13708;9901;WRITE-IN;;;WI;2;2;26;0.63;4125
 MN;;;4010;Town Supervisor Seat 1 (Croke Township);13762;9001;Philip Brink;;;NP;1;1;43;95.56;45
 MN;;;4010;Town Supervisor Seat 1 (Croke Township);13762;9901;WRITE-IN;;;WI;1;1;2;4.44;45
-MN;;;1001;Mayor (Cromwell);13780;9001;Sharon Zelazny;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Cromwell);13780;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Cromwell) (Elect 2);13780;9001;Alex French;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Cromwell) (Elect 2);13780;9002;Raymond M. Lally;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Cromwell) (Elect 2);13780;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Cromwell);13780;9001;Sharon Zelazny;;;NP;1;1;71;89.87;79
+MN;;;1001;Mayor (Cromwell);13780;9901;WRITE-IN;;;WI;1;1;8;10.13;79
+MN;;;1010;Council Member (Cromwell) (Elect 2);13780;9001;Alex French;;;NP;1;1;72;57.14;126
+MN;;;1010;Council Member (Cromwell) (Elect 2);13780;9002;Raymond M. Lally;;;NP;1;1;51;40.48;126
+MN;;;1010;Council Member (Cromwell) (Elect 2);13780;9901;WRITE-IN;;;WI;1;1;3;2.38;126
 MN;;;4010;Town Supervisor Seat 1 (Crooked Lake Township);13834;9001;David Thompson;;;NP;1;1;161;57.50;280
 MN;;;4010;Town Supervisor Seat 1 (Crooked Lake Township);13834;9002;Patrick Bennington;;;NP;1;1;119;42.50;280
 MN;;;4010;Town Supervisor Seat 1 (Crooked Lake Township);13834;9901;WRITE-IN;;;WI;1;1;0;0.00;280
@@ -1935,12 +1935,12 @@ MN;;;4012;Town Supervisor Seat B (Cushing Township);14356;9002;Amy Pugh;;;NP;0;1
 MN;;;4012;Town Supervisor Seat B (Cushing Township);14356;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Cushing Township);14356;9001;Kirsten Drew;;;NP;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Cushing Township);14356;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Cuyuna);14428;9001;Lloyd Brix;;;NP;1;1;5;100.00;5
-MN;;;1001;Mayor (Cuyuna);14428;9901;WRITE-IN;;;WI;1;1;0;0.00;5
-MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9001;Sarah Stangl;;;NP;1;1;1;33.33;3
-MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9002;Barbara O'Brien;;;NP;1;1;1;33.33;3
-MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9003;Michael Workman;;;NP;1;1;1;33.33;3
-MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9901;WRITE-IN;;;WI;1;1;0;0.00;3
+MN;;;1001;Mayor (Cuyuna);14428;9001;Lloyd Brix;;;NP;1;1;104;95.41;109
+MN;;;1001;Mayor (Cuyuna);14428;9901;WRITE-IN;;;WI;1;1;5;4.59;109
+MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9001;Sarah Stangl;;;NP;1;1;58;29.29;198
+MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9002;Barbara O'Brien;;;NP;1;1;62;31.31;198
+MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9003;Michael Workman;;;NP;1;1;74;37.37;198
+MN;;;1010;Council Member (Cuyuna) (Elect 2);14428;9901;WRITE-IN;;;WI;1;1;4;2.02;198
 MN;;;1001;Mayor (Cyrus);14446;9001;Tyler Berg;;;NP;1;1;76;92.68;82
 MN;;;1001;Mayor (Cyrus);14446;9901;WRITE-IN;;;WI;1;1;6;7.32;82
 MN;;;1010;Council Member (Cyrus) (Elect 2);14446;9001;Jeff Finke;;;NP;1;1;71;47.02;151
@@ -2081,14 +2081,14 @@ MN;;;4012;Town Supervisor Seat B (Deer River Township);15328;9001;Harry Rasley;;
 MN;;;4012;Town Supervisor Seat B (Deer River Township);15328;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;4022;Town Treasurer (Deer River Township);15328;9001;Cindy Shevich;;;NP;0;2;0;0.00;0
 MN;;;4022;Town Treasurer (Deer River Township);15328;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1001;Mayor (Deerwood);15346;9001;Joshua Crain;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Deerwood);15346;9002;John V. Taylor;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Deerwood);15346;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Deerwood) (Elect 2);15346;9001;Jeremy Millsop;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Deerwood) (Elect 2);15346;9002;Joshua H. Voller;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Deerwood) (Elect 2);15346;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Deerwood);15346;9001;Bridgett Quist;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Deerwood);15346;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Deerwood);15346;9001;Joshua Crain;;;NP;1;1;57;32.02;178
+MN;;;1001;Mayor (Deerwood);15346;9002;John V. Taylor;;;NP;1;1;118;66.29;178
+MN;;;1001;Mayor (Deerwood);15346;9901;WRITE-IN;;;WI;1;1;3;1.69;178
+MN;;;1010;Council Member (Deerwood) (Elect 2);15346;9001;Jeremy Millsop;;;NP;1;1;141;58.26;242
+MN;;;1010;Council Member (Deerwood) (Elect 2);15346;9002;Joshua H. Voller;;;NP;1;1;98;40.50;242
+MN;;;1010;Council Member (Deerwood) (Elect 2);15346;9901;WRITE-IN;;;WI;1;1;3;1.24;242
+MN;;;1012;Special Election for Council Member (Deerwood);15346;9001;Bridgett Quist;;;NP;1;1;136;97.84;139
+MN;;;1012;Special Election for Council Member (Deerwood);15346;9901;WRITE-IN;;;WI;1;1;3;2.16;139
 MN;;;4012;Town Supervisor Seat 2 (Deerwood Township);15364;9001;Joshua Thompson;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat 2 (Deerwood Township);15364;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat 3 (Deerwood Township);15364;9001;David Gray;;;NP;0;1;0;0.00;0
@@ -2153,10 +2153,10 @@ MN;;;4014;Town Supervisor Seat 4 (Denmark Township);15688;9001;Julie Windschitl;
 MN;;;4014;Town Supervisor Seat 4 (Denmark Township);15688;9901;WRITE-IN;;;WI;2;2;20;2.87;696
 MN;;;4015;Town Supervisor Seat 5 (Denmark Township);15688;9001;Mike Femling;;;NP;2;2;685;97.16;705
 MN;;;4015;Town Supervisor Seat 5 (Denmark Township);15688;9901;WRITE-IN;;;WI;2;2;20;2.84;705
-MN;;;1001;Mayor (Dennison);15706;9001;Jeffrey W. Flaten;;;NP;1;2;4;100.00;4
-MN;;;1001;Mayor (Dennison);15706;9901;WRITE-IN;;;WI;1;2;0;0.00;4
-MN;;;1010;Council Member (Dennison) (Elect 2);15706;9001;Diane Ruddle;;;NP;1;2;7;100.00;7
-MN;;;1010;Council Member (Dennison) (Elect 2);15706;9901;WRITE-IN;;;WI;1;2;0;0.00;7
+MN;;;1001;Mayor (Dennison);15706;9001;Jeffrey W. Flaten;;;NP;2;2;72;86.75;83
+MN;;;1001;Mayor (Dennison);15706;9901;WRITE-IN;;;WI;2;2;11;13.25;83
+MN;;;1010;Council Member (Dennison) (Elect 2);15706;9001;Diane Ruddle;;;NP;2;2;82;73.21;112
+MN;;;1010;Council Member (Dennison) (Elect 2);15706;9901;WRITE-IN;;;WI;2;2;30;26.79;112
 MN;;;1001;Mayor (Dent);15724;9001;Perry Coleman;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Dent);15724;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Dent) (Elect 2);15724;9001;Daniel Nodsle;;;NP;0;1;0;0.00;0
@@ -2203,12 +2203,12 @@ MN;;;1001;Mayor (Dodge Center);15994;9901;WRITE-IN;;;WI;2;2;19;2.34;812
 MN;;;1010;Council Member (Dodge Center) (Elect 2);15994;9001;Paul Blaisdell;;;NP;2;2;689;50.18;1373
 MN;;;1010;Council Member (Dodge Center) (Elect 2);15994;9002;Gary Trelstad;;;NP;2;2;664;48.36;1373
 MN;;;1010;Council Member (Dodge Center) (Elect 2);15994;9901;WRITE-IN;;;WI;2;2;20;1.46;1373
-MN;;;4010;Town Supervisor Seat 1 (Dollymount Township);16012;9001;Steven M. Fridgen;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat 1 (Dollymount Township);16012;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Dollymount Township);16012;9001;Dean Frisch;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Dollymount Township);16012;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Dollymount Township);16012;9001;Steve Rinke;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Dollymount Township);16012;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat 1 (Dollymount Township);16012;9001;Steven M. Fridgen;;;NP;1;1;26;89.66;29
+MN;;;4010;Town Supervisor Seat 1 (Dollymount Township);16012;9901;WRITE-IN;;;WI;1;1;3;10.34;29
+MN;;;4012;Town Supervisor Seat 2 (Dollymount Township);16012;9001;Dean Frisch;;;NP;1;1;23;85.19;27
+MN;;;4012;Town Supervisor Seat 2 (Dollymount Township);16012;9901;WRITE-IN;;;WI;1;1;4;14.81;27
+MN;;;4021;Town Clerk (Dollymount Township);16012;9001;Steve Rinke;;;NP;1;1;24;88.89;27
+MN;;;4021;Town Clerk (Dollymount Township);16012;9901;WRITE-IN;;;WI;1;1;3;11.11;27
 MN;;;1010;Council Member (Donaldson) (Elect 2);16030;9001;Katie Gonzalez;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Donaldson) (Elect 2);16030;9002;Ethan Thompson;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Donaldson) (Elect 2);16030;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -2258,8 +2258,8 @@ MN;;;4013;Town Supervisor Seat C (Dublin Township);16444;9001;Dustin Walsh;;;NP;
 MN;;;4013;Town Supervisor Seat C (Dublin Township);16444;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4023;Town Clerk - Treasurer (Dublin Township);16444;9001;Paula Grace;;;NP;0;1;0;0.00;0
 MN;;;4023;Town Clerk - Treasurer (Dublin Township);16444;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1131;CITY QUESTION 1 (Duluth);17000;9001;YES;;;NP;0;33;0;0.00;0
-MN;;;1131;CITY QUESTION 1 (Duluth);17000;9002;NO;;;NP;0;33;0;0.00;0
+MN;;;1131;CITY QUESTION 1 (Duluth);17000;9001;YES;;;NP;8;33;4265;51.05;8354
+MN;;;1131;CITY QUESTION 1 (Duluth);17000;9002;NO;;;NP;8;33;4089;48.95;8354
 MN;;;1010;Council Member at Large (Dumont) (Elect 2);17090;9001;Chad Schmidt;;;NP;1;1;42;51.22;82
 MN;;;1010;Council Member at Large (Dumont) (Elect 2);17090;9002;Steve Grimes;;;NP;1;1;38;46.34;82
 MN;;;1010;Council Member at Large (Dumont) (Elect 2);17090;9901;WRITE-IN;;;WI;1;1;2;2.44;82
@@ -2292,10 +2292,10 @@ MN;;;1010;Council Member (Eagan) (Elect 2);17288;9002;Margaret Jae Cody;;;NP;0;1
 MN;;;1010;Council Member (Eagan) (Elect 2);17288;9003;Paul Bakken;;;NP;0;18;0;0.00;0
 MN;;;1010;Council Member (Eagan) (Elect 2);17288;9004;Gary Hansen;;;NP;0;18;0;0.00;0
 MN;;;1010;Council Member (Eagan) (Elect 2);17288;9901;WRITE-IN;;;WI;0;18;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Eagle Township);17332;9001;Robert H. Switzer;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Eagle Township);17332;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Eagle Township);17332;9001;Debra A. Switzer;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Eagle Township);17332;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Eagle Township);17332;9001;Robert H. Switzer;;;NP;1;1;271;98.19;276
+MN;;;4010;Town Supervisor Seat A (Eagle Township);17332;9901;WRITE-IN;;;WI;1;1;5;1.81;276
+MN;;;4021;Town Clerk (Eagle Township);17332;9001;Debra A. Switzer;;;NP;1;1;273;98.56;277
+MN;;;4021;Town Clerk (Eagle Township);17332;9901;WRITE-IN;;;WI;1;1;4;1.44;277
 MN;;;1001;Mayor (Eagle Bend);17342;9001;Scott Johnson;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Eagle Bend);17342;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Eagle Bend) (Elect 2);17342;9001;Jason Nelson;;;NP;0;1;0;0.00;0
@@ -2311,16 +2311,16 @@ MN;;;4010;Town Supervisor Seat A (Eagle Point Township);17414;9001;John Dahlman;
 MN;;;4010;Town Supervisor Seat A (Eagle Point Township);17414;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Eagle Point Township);17414;9001;Brian C. Anderson;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Eagle Point Township);17414;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Eagles Nest Township);17440;9001;Richard P. Floyd;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Special Election for Town Supervisor Seat B (Eagles Nest Township);17440;9001;David J. Chiabotti;;;NP;0;1;0;0.00;0
-MN;;;4012;Special Election for Town Supervisor Seat B (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4014;Town Supervisor Seat D (Eagles Nest Township);17440;9001;Kurt Soderberg;;;NP;0;1;0;0.00;0
-MN;;;4014;Town Supervisor Seat D (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4015;Town Supervisor Seat E (Eagles Nest Township);17440;9001;Larry V. McCray;;;NP;0;1;0;0.00;0
-MN;;;4015;Town Supervisor Seat E (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Eagles Nest Township);17440;9001;Mary Beth Meadows-Monte;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Eagles Nest Township);17440;9001;Richard P. Floyd;;;NP;1;1;121;88.32;137
+MN;;;4010;Town Supervisor Seat A (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;1;1;16;11.68;137
+MN;;;4012;Special Election for Town Supervisor Seat B (Eagles Nest Township);17440;9001;David J. Chiabotti;;;NP;1;1;131;95.62;137
+MN;;;4012;Special Election for Town Supervisor Seat B (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;1;1;6;4.38;137
+MN;;;4014;Town Supervisor Seat D (Eagles Nest Township);17440;9001;Kurt Soderberg;;;NP;1;1;122;89.71;136
+MN;;;4014;Town Supervisor Seat D (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;1;1;14;10.29;136
+MN;;;4015;Town Supervisor Seat E (Eagles Nest Township);17440;9001;Larry V. McCray;;;NP;1;1;116;84.67;137
+MN;;;4015;Town Supervisor Seat E (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;1;1;21;15.33;137
+MN;;;4022;Town Treasurer (Eagles Nest Township);17440;9001;Mary Beth Meadows-Monte;;;NP;1;1;141;95.92;147
+MN;;;4022;Town Treasurer (Eagles Nest Township);17440;9901;WRITE-IN;;;WI;1;1;6;4.08;147
 MN;;;4012;Town Supervisor Seat B (Eagle View Township);17455;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Eagle View Township);17455;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Eagle View Township);17455;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -2470,11 +2470,11 @@ MN;;;4012;Town Supervisor Seat B (Elk Lake Township);18620;9001;Adam Anderson;;;
 MN;;;4012;Town Supervisor Seat B (Elk Lake Township);18620;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Elk Lake Township);18620;9001;Judy Boots;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Elk Lake Township);18620;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Elko New Market);18662;9001;Joseph Julius;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Elko New Market);18662;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9001;Josh Berg;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9002;Kate Timmerman;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Elko New Market);18662;9001;Joseph Julius;;;NP;1;1;1557;96.71;1610
+MN;;;1001;Mayor (Elko New Market);18662;9901;WRITE-IN;;;WI;1;1;53;3.29;1610
+MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9001;Josh Berg;;;NP;1;1;1103;47.16;2339
+MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9002;Kate Timmerman;;;NP;1;1;1207;51.60;2339
+MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9901;WRITE-IN;;;WI;1;1;29;1.24;2339
 MN;;;1001;Mayor (Elk River);18674;9001;Jeremy Jones;;;NP;0;8;0;0.00;0
 MN;;;1001;Mayor (Elk River);18674;9002;John Dietz;;;NP;0;8;0;0.00;0
 MN;;;1001;Mayor (Elk River);18674;9901;WRITE-IN;;;WI;0;8;0;0.00;0
@@ -2639,14 +2639,14 @@ MN;;;1010;Council Member (Eyota) (Elect 2);20114;9001;Ranard (Ray) Schuchard;;;N
 MN;;;1010;Council Member (Eyota) (Elect 2);20114;9002;John Pittenger;;;NP;1;1;527;39.59;1331
 MN;;;1010;Council Member (Eyota) (Elect 2);20114;9003;Jamie Ward;;;NP;1;1;476;35.76;1331
 MN;;;1010;Council Member (Eyota) (Elect 2);20114;9901;WRITE-IN;;;WI;1;1;8;0.60;1331
-MN;;;1001;Mayor (Fairfax);20222;9001;Josh Bunkers;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Fairfax);20222;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9001;James J Schroeder;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9002;Tina Castillo;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9003;Craig Nachreiner;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1011;Council Member (Fairfax);20222;9001;Jill Pelzel;;;NP;0;1;0;0.00;0
-MN;;;1011;Council Member (Fairfax);20222;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Fairfax);20222;9001;Josh Bunkers;;;NP;1;1;359;94.97;378
+MN;;;1001;Mayor (Fairfax);20222;9901;WRITE-IN;;;WI;1;1;19;5.03;378
+MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9001;James J Schroeder;;;NP;1;1;240;35.77;671
+MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9002;Tina Castillo;;;NP;1;1;224;33.38;671
+MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9003;Craig Nachreiner;;;NP;1;1;193;28.76;671
+MN;;;1010;Council Member (Fairfax) (Elect 2);20222;9901;WRITE-IN;;;WI;1;1;14;2.09;671
+MN;;;1011;Council Member (Fairfax);20222;9001;Jill Pelzel;;;NP;1;1;336;90.81;370
+MN;;;1011;Council Member (Fairfax);20222;9901;WRITE-IN;;;WI;1;1;34;9.19;370
 MN;;;4010;Town Supervisor Seat A (Fairfield Township);20258;9001;Alexander Beyer;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Fairfield Township);20258;9002;Lance Mumm;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Fairfield Township);20258;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -2805,19 +2805,19 @@ MN;;;1010;Council Member (Flensburg) (Elect 2);21266;9002;Brady Pundsack;;;NP;0;
 MN;;;1010;Council Member (Flensburg) (Elect 2);21266;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Flensburg);21266;9001;Tony Kile;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Flensburg);21266;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Floodwood);21338;9001;Tad Farrell;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Floodwood);21338;9002;Troy Thompson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Floodwood);21338;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Floodwood);21338;9001;Tim Lamping;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Floodwood);21338;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1060;City Clerk (Floodwood);21338;9001;Melinda Felknor;;;NP;0;1;0;0.00;0
-MN;;;1060;City Clerk (Floodwood);21338;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1061;City Treasurer (Floodwood);21338;9001;Faith Suonvieri;;;NP;0;1;0;0.00;0
-MN;;;1061;City Treasurer (Floodwood);21338;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Floodwood Township);21356;9001;Philip Romanek;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Floodwood Township);21356;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Floodwood Township);21356;9001;Cheryl Bailey;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Floodwood Township);21356;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Floodwood);21338;9001;Tad Farrell;;;NP;1;1;103;63.58;162
+MN;;;1001;Mayor (Floodwood);21338;9002;Troy Thompson;;;NP;1;1;51;31.48;162
+MN;;;1001;Mayor (Floodwood);21338;9901;WRITE-IN;;;WI;1;1;8;4.94;162
+MN;;;1010;Council Member (Floodwood);21338;9001;Tim Lamping;;;NP;1;1;142;95.95;148
+MN;;;1010;Council Member (Floodwood);21338;9901;WRITE-IN;;;WI;1;1;6;4.05;148
+MN;;;1060;City Clerk (Floodwood);21338;9001;Melinda Felknor;;;NP;1;1;148;98.67;150
+MN;;;1060;City Clerk (Floodwood);21338;9901;WRITE-IN;;;WI;1;1;2;1.33;150
+MN;;;1061;City Treasurer (Floodwood);21338;9001;Faith Suonvieri;;;NP;1;1;147;98.66;149
+MN;;;1061;City Treasurer (Floodwood);21338;9901;WRITE-IN;;;WI;1;1;2;1.34;149
+MN;;;4010;Town Supervisor Seat A (Floodwood Township);21356;9001;Philip Romanek;;;NP;1;1;90;98.90;91
+MN;;;4010;Town Supervisor Seat A (Floodwood Township);21356;9901;WRITE-IN;;;WI;1;1;1;1.10;91
+MN;;;4022;Town Treasurer (Floodwood Township);21356;9001;Cheryl Bailey;;;NP;1;1;90;100.00;90
+MN;;;4022;Town Treasurer (Floodwood Township);21356;9901;WRITE-IN;;;WI;1;1;0;0.00;90
 MN;;;1001;Mayor (Florence);21410;9001;Susan Johnson;;;NP;1;1;14;100.00;14
 MN;;;1001;Mayor (Florence);21410;9901;WRITE-IN;;;WI;1;1;0;0.00;14
 MN;;;1010;Council Member (Florence) (Elect 2);21410;9001;Troy Lange;;;NP;1;1;14;51.85;27
@@ -2876,9 +2876,9 @@ MN;;;1011;Council Member (Foreston);21824;9001;Brian Smelter;;;NP;1;1;160;96.97;
 MN;;;1011;Council Member (Foreston);21824;9901;WRITE-IN;;;WI;1;1;5;3.03;165
 MN;;;4012;Town Supervisor Seat B (Fork Township);21878;9001;Cary Osowski;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Fork Township);21878;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Fort Ripley) (Elect 2);21932;9001;Michelle Thopson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Fort Ripley) (Elect 2);21932;9002;Charles Plante;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Fort Ripley) (Elect 2);21932;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Fort Ripley) (Elect 2);21932;9001;Michelle Thopson;;;NP;1;1;36;50.70;71
+MN;;;1010;Council Member (Fort Ripley) (Elect 2);21932;9002;Charles Plante;;;NP;1;1;35;49.30;71
+MN;;;1010;Council Member (Fort Ripley) (Elect 2);21932;9901;WRITE-IN;;;WI;1;1;0;0.00;71
 MN;;;1001;Mayor (Fosston);21986;9001;James R. Offerdahl;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Fosston);21986;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Fosston) (Elect 2);21986;9001;George Bosselman;;;NP;0;1;0;0.00;0
@@ -2979,12 +2979,12 @@ MN;;;1001;Mayor (Funkley);22976;9001;Emil Erickson;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Funkley);22976;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Funkley);22976;9001;Keith Carsella;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Funkley);22976;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Gail Lake Township);23012;9001;David C. Brammann;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Gail Lake Township);23012;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Gail Lake Township);23012;9001;Donald L. Lohse;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Gail Lake Township);23012;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4023;Town Clerk - Treasurer (Gail Lake Township);23012;9001;Catherine Erickson;;;NP;0;1;0;0.00;0
-MN;;;4023;Town Clerk - Treasurer (Gail Lake Township);23012;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat 2 (Gail Lake Township);23012;9001;David C. Brammann;;;NP;1;1;35;100.00;35
+MN;;;4012;Town Supervisor Seat 2 (Gail Lake Township);23012;9901;WRITE-IN;;;WI;1;1;0;0.00;35
+MN;;;4013;Town Supervisor Seat 3 (Gail Lake Township);23012;9001;Donald L. Lohse;;;NP;1;1;35;100.00;35
+MN;;;4013;Town Supervisor Seat 3 (Gail Lake Township);23012;9901;WRITE-IN;;;WI;1;1;0;0.00;35
+MN;;;4023;Town Clerk - Treasurer (Gail Lake Township);23012;9001;Catherine Erickson;;;NP;1;1;33;100.00;33
+MN;;;4023;Town Clerk - Treasurer (Gail Lake Township);23012;9901;WRITE-IN;;;WI;1;1;0;0.00;33
 MN;;;4010;Town Supervisor Seat A (Garden City Township);23102;9001;Josh Sargent;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Garden City Township);23102;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Garden City Township);23102;9001;Chris Fleming;;;NP;0;1;0;0.00;0
@@ -2993,12 +2993,12 @@ MN;;;1001;Mayor (Garfield);23120;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Garfield) (Elect 2);23120;9001;Ryan Holverson;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Garfield) (Elect 2);23120;9002;Trent Ziegelman;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Garfield) (Elect 2);23120;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Garrison);23192;9001;Loren Larson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Garrison);23192;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Garrison);23192;9001;Robert Hanson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Garrison);23192;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1062;City Clerk - Treasurer (Garrison);23192;9001;Aaron P. Eckhout;;;NP;0;1;0;0.00;0
-MN;;;1062;City Clerk - Treasurer (Garrison);23192;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Garrison);23192;9001;Loren Larson;;;NP;1;1;48;85.71;56
+MN;;;1001;Mayor (Garrison);23192;9901;WRITE-IN;;;WI;1;1;8;14.29;56
+MN;;;1010;Council Member (Garrison);23192;9001;Robert Hanson;;;NP;1;1;51;96.23;53
+MN;;;1010;Council Member (Garrison);23192;9901;WRITE-IN;;;WI;1;1;2;3.77;53
+MN;;;1062;City Clerk - Treasurer (Garrison);23192;9001;Aaron P. Eckhout;;;NP;1;1;50;96.15;52
+MN;;;1062;City Clerk - Treasurer (Garrison);23192;9901;WRITE-IN;;;WI;1;1;2;3.85;52
 MN;;;4010;Town Supervisor Seat 1 (Garrison Township);23210;9001;Jon Miller;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Garrison Township);23210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat 2 (Garrison Township);23210;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -3182,11 +3182,11 @@ MN;;;4021;Town Clerk (Granby Township);24902;9001;Robert Wills;;;NP;1;1;132;99.2
 MN;;;4021;Town Clerk (Granby Township);24902;9901;WRITE-IN;;;WI;1;1;1;0.75;133
 MN;;;4010;Town Supervisor Seat A (Grand Lake Township);24956;9001;Steve Torgeson;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Grand Lake Township);24956;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Grand Marais);24992;9001;Tracy Benson;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Grand Marais);24992;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Grand Marais);24992;9001;Aaron Carlson;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Grand Marais);24992;9002;Benjamin Peters;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Grand Marais);24992;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Grand Marais);24992;9001;Tracy Benson;;;NP;1;2;328;95.63;343
+MN;;;1001;Mayor (Grand Marais);24992;9901;WRITE-IN;;;WI;1;2;15;4.37;343
+MN;;;1010;Council Member (Grand Marais);24992;9001;Aaron Carlson;;;NP;1;2;253;51.95;487
+MN;;;1010;Council Member (Grand Marais);24992;9002;Benjamin Peters;;;NP;1;2;228;46.82;487
+MN;;;1010;Council Member (Grand Marais);24992;9901;WRITE-IN;;;WI;1;2;6;1.23;487
 MN;;;1001;Mayor (Grand Meadow);25010;9001;James Christian;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Grand Meadow);25010;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Grand Meadow) (Elect 2);25010;9001;Aaron Myhre;;;NP;0;1;0;0.00;0
@@ -3403,21 +3403,21 @@ MN;;;1010;Council Member (Hampton) (Elect 2);26864;9002;Anthony Verch;;;NP;0;1;0
 MN;;;1010;Council Member (Hampton) (Elect 2);26864;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Hancock Township);26918;9901;WRITE-IN;;;WI;1;1;12;100.00;12
 MN;;;4021;Town Clerk (Hancock Township);26918;9901;WRITE-IN;;;WI;1;1;10;100.00;10
-MN;;;1001;Mayor (Hancock);26936;9001;Bruce A. Malo;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Hancock);26936;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Hancock) (Elect 2);26936;9001;Jeff Kisgen;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hancock) (Elect 2);26936;9002;Jeff Flaten;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hancock) (Elect 2);26936;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Hancock);26936;9001;Bruce A. Malo;;;NP;1;1;190;85.59;222
+MN;;;1001;Mayor (Hancock);26936;9901;WRITE-IN;;;WI;1;1;32;14.41;222
+MN;;;1010;Council Member (Hancock) (Elect 2);26936;9001;Jeff Kisgen;;;NP;1;1;177;40.69;435
+MN;;;1010;Council Member (Hancock) (Elect 2);26936;9002;Jeff Flaten;;;NP;1;1;190;43.68;435
+MN;;;1010;Council Member (Hancock) (Elect 2);26936;9901;WRITE-IN;;;WI;1;1;68;15.63;435
 MN;;;4010;Town Supervisor Seat 1 (Hangaard Township);26954;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat 2 (Hangaard Township);26954;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Hangaard Township);26954;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Hanley Falls);26972;9001;Richard L. Hagen;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Hanley Falls);26972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Hanley Falls) (Elect 2);26972;9001;Barbara A. Fry;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hanley Falls) (Elect 2);26972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Hanley Falls);26972;9001;Heide Klein;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Hanley Falls);26972;9002;Wanda Vance;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Hanley Falls);26972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Hanley Falls);26972;9001;Richard L. Hagen;;;NP;1;1;59;85.51;69
+MN;;;1001;Mayor (Hanley Falls);26972;9901;WRITE-IN;;;WI;1;1;10;14.49;69
+MN;;;1010;Council Member (Hanley Falls) (Elect 2);26972;9001;Barbara A. Fry;;;NP;1;1;54;62.07;87
+MN;;;1010;Council Member (Hanley Falls) (Elect 2);26972;9901;WRITE-IN;;;WI;1;1;33;37.93;87
+MN;;;1012;Special Election for Council Member (Hanley Falls);26972;9001;Heide Klein;;;NP;1;1;24;35.29;68
+MN;;;1012;Special Election for Council Member (Hanley Falls);26972;9002;Wanda Vance;;;NP;1;1;36;52.94;68
+MN;;;1012;Special Election for Council Member (Hanley Falls);26972;9901;WRITE-IN;;;WI;1;1;8;11.76;68
 MN;;;1010;Council Member (Hanover) (Elect 2);26990;9001;Greg Zgutowicz;;;NP;2;2;922;46.12;1999
 MN;;;1010;Council Member (Hanover) (Elect 2);26990;9002;Mike Amery;;;NP;2;2;1047;52.38;1999
 MN;;;1010;Council Member (Hanover) (Elect 2);26990;9901;WRITE-IN;;;WI;2;2;30;1.50;1999
@@ -3532,12 +3532,12 @@ MN;;;4031;TOWNSHIP QUESTION 1 (Hayward Twp);27962;9001;YES;;;NP;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Hayward Twp);27962;9002;NO;;;NP;0;1;0;0.00;0
 MN;;;4032;TOWNSHIP QUESTION 2 (Hayward Twp);27962;9001;YES;;;NP;0;1;0;0.00;0
 MN;;;4032;TOWNSHIP QUESTION 2 (Hayward Twp);27962;9002;NO;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9001;Richard Adolph;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9002;Lyle Martin;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9003;Doris Martin;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1060;City Clerk (Hazel Run);28016;9001;Ryan Gammelgaard;;;NP;0;1;0;0.00;0
-MN;;;1060;City Clerk (Hazel Run);28016;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9001;Richard Adolph;;;NP;1;1;16;33.33;48
+MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9002;Lyle Martin;;;NP;1;1;16;33.33;48
+MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9003;Doris Martin;;;NP;1;1;16;33.33;48
+MN;;;1010;Council Member (Hazel Run) (Elect 3);28016;9901;WRITE-IN;;;WI;1;1;0;0.00;48
+MN;;;1060;City Clerk (Hazel Run);28016;9001;Ryan Gammelgaard;;;NP;1;1;16;100.00;16
+MN;;;1060;City Clerk (Hazel Run);28016;9901;WRITE-IN;;;WI;1;1;0;0.00;16
 MN;;;4013;Town Supervisor Seat C (Hazelton Township);28070;9001;Eric Ristad;;;NP;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Hazelton Township);28070;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Hazelton Township);28070;9001;Matt Vig;;;NP;0;1;0;0.00;0
@@ -3631,12 +3631,12 @@ MN;;;1010;Council Member (Henriette) (Elect 2);28574;9001;Debbie Kane;;;NP;0;1;0
 MN;;;1010;Council Member (Henriette) (Elect 2);28574;9002;Ron Hovorka;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Henriette) (Elect 2);28574;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Henriette);28574;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Hereim Township);28628;9001;James Dvergsten;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Hereim Township);28628;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Hereim Township);28628;9001;Ryan Waage;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Hereim Township);28628;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Hereim Township);28628;9001;Troy Stauffenecker;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Hereim Township);28628;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Hereim Township);28628;9001;James Dvergsten;;;NP;1;1;100;100.00;100
+MN;;;4012;Town Supervisor Seat B (Hereim Township);28628;9901;WRITE-IN;;;WI;1;1;0;0.00;100
+MN;;;4013;Town Supervisor Seat C (Hereim Township);28628;9001;Ryan Waage;;;NP;1;1;102;100.00;102
+MN;;;4013;Town Supervisor Seat C (Hereim Township);28628;9901;WRITE-IN;;;WI;1;1;0;0.00;102
+MN;;;4022;Town Treasurer (Hereim Township);28628;9001;Troy Stauffenecker;;;NP;1;1;105;100.00;105
+MN;;;4022;Town Treasurer (Hereim Township);28628;9901;WRITE-IN;;;WI;1;1;0;0.00;105
 MN;;;1010;Council Member (Herman) (Elect 2);28646;9001;Thomas Blume;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Herman) (Elect 2);28646;9002;Tony Vipond;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Herman) (Elect 2);28646;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -3834,13 +3834,13 @@ MN;;;1011;Council Member (Holt) (Elect 2);29870;9003;Jacqueline Rux;;;NP;0;1;0;0
 MN;;;1011;Council Member (Holt) (Elect 2);29870;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1061;City Treasurer (Holt);29870;9001;Ronald Ness;;;NP;0;1;0;0.00;0
 MN;;;1061;City Treasurer (Holt);29870;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Holyoke Township);29942;9001;Bruce Heikes;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Holyoke Township);29942;9002;Linda McCuskey;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Holyoke Township);29942;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Holyoke Township);29942;9001;John Magnuson;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Holyoke Township);29942;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Holyoke Township);29942;9001;Mary L. Munn;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Holyoke Township);29942;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Holyoke Township);29942;9001;Bruce Heikes;;;NP;1;1;51;43.59;117
+MN;;;4010;Town Supervisor Seat A (Holyoke Township);29942;9002;Linda McCuskey;;;NP;1;1;63;53.85;117
+MN;;;4010;Town Supervisor Seat A (Holyoke Township);29942;9901;WRITE-IN;;;WI;1;1;3;2.56;117
+MN;;;4012;Town Supervisor Seat B (Holyoke Township);29942;9001;John Magnuson;;;NP;1;1;89;90.82;98
+MN;;;4012;Town Supervisor Seat B (Holyoke Township);29942;9901;WRITE-IN;;;WI;1;1;9;9.18;98
+MN;;;4022;Town Treasurer (Holyoke Township);29942;9001;Mary L. Munn;;;NP;1;1;87;87.88;99
+MN;;;4022;Town Treasurer (Holyoke Township);29942;9901;WRITE-IN;;;WI;1;1;12;12.12;99
 MN;;;4012;Town Supervisor Seat 2 (HomeBrook Township);29978;9001;Jason Eastman;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat 2 (HomeBrook Township);29978;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat 3 (HomeBrook Township);29978;9001;Jeremiah J Duvall;;;NP;0;1;0;0.00;0
@@ -3861,13 +3861,13 @@ MN;;;1010;Council Member (Houston) (Elect 2);30230;9001;Zeb Baumann;;;NP;0;1;0;0
 MN;;;1010;Council Member (Houston) (Elect 2);30230;9002;Steve Westby;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Houston) (Elect 2);30230;9003;Tony Schultz;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Houston) (Elect 2);30230;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Howard Lake);30284;9001;Pete Zimmerman;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Howard Lake);30284;9002;Mark Pederson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Howard Lake);30284;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9001;Jason C. Deiter;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9002;Joshua Dalbec;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9003;Al Munson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Howard Lake);30284;9001;Pete Zimmerman;;;NP;1;1;671;77.75;863
+MN;;;1001;Mayor (Howard Lake);30284;9002;Mark Pederson;;;NP;1;1;185;21.44;863
+MN;;;1001;Mayor (Howard Lake);30284;9901;WRITE-IN;;;WI;1;1;7;0.81;863
+MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9001;Jason C. Deiter;;;NP;1;1;546;40.87;1336
+MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9002;Joshua Dalbec;;;NP;1;1;378;28.29;1336
+MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9003;Al Munson;;;NP;1;1;405;30.31;1336
+MN;;;1010;Council Member (Howard Lake) (Elect 2);30284;9901;WRITE-IN;;;WI;1;1;7;0.52;1336
 MN;;;1001;Mayor (Hoyt Lakes);30302;9001;David Zins;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Hoyt Lakes);30302;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Hoyt Lakes) (Elect 2);30302;9001;Brennan Scott;;;NP;0;1;0;0.00;0
@@ -3910,20 +3910,20 @@ MN;;;4010;Town Supervisor Seat A (Huntly Township);30572;9001;Douglas Lorenson;;
 MN;;;4010;Town Supervisor Seat A (Huntly Township);30572;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Huntly Township);30572;9001;Angie Peterson;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Huntly Township);30572;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Huss Township);30626;9001;Doug Bentow;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Huss Township);30626;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Huss Township);30626;9001;Norbert (Barney) Tarala;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Huss Township);30626;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Huss Township);30626;9001;Arlen Vacura;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Huss Township);30626;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Hutchinson);30644;9001;Gary T Forcier;;;NP;1;3;1750;98.26;1781
-MN;;;1001;Mayor (Hutchinson);30644;9901;WRITE-IN;;;WI;1;3;31;1.74;1781
-MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9001;Morgan Baum;;;NP;1;3;799;43.07;1855
-MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9002;Tim Burley;;;NP;1;3;1050;56.60;1855
-MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9901;WRITE-IN;;;WI;1;3;6;0.32;1855
-MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9001;Dave Sebesta;;;NP;1;3;1156;62.25;1857
-MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9002;Christopher Olson;;;NP;1;3;691;37.21;1857
-MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9901;WRITE-IN;;;WI;1;3;10;0.54;1857
+MN;;;4012;Town Supervisor Seat B (Huss Township);30626;9001;Doug Bentow;;;NP;1;1;54;100.00;54
+MN;;;4012;Town Supervisor Seat B (Huss Township);30626;9901;WRITE-IN;;;WI;1;1;0;0.00;54
+MN;;;4013;Town Supervisor Seat C (Huss Township);30626;9001;Norbert (Barney) Tarala;;;NP;1;1;48;90.57;53
+MN;;;4013;Town Supervisor Seat C (Huss Township);30626;9901;WRITE-IN;;;WI;1;1;5;9.43;53
+MN;;;4022;Town Treasurer (Huss Township);30626;9001;Arlen Vacura;;;NP;1;1;54;100.00;54
+MN;;;4022;Town Treasurer (Huss Township);30626;9901;WRITE-IN;;;WI;1;1;0;0.00;54
+MN;;;1001;Mayor (Hutchinson);30644;9001;Gary T Forcier;;;NP;2;3;3590;97.74;3673
+MN;;;1001;Mayor (Hutchinson);30644;9901;WRITE-IN;;;WI;2;3;83;2.26;3673
+MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9001;Morgan Baum;;;NP;2;3;1717;44.45;3863
+MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9002;Tim Burley;;;NP;2;3;2134;55.24;3863
+MN;;;1014;Council Member Seat 1 (Hutchinson);30644;9901;WRITE-IN;;;WI;2;3;12;0.31;3863
+MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9001;Dave Sebesta;;;NP;2;3;2457;64.29;3822
+MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9002;Christopher Olson;;;NP;2;3;1348;35.27;3822
+MN;;;1015;Council Member Seat 2 (Hutchinson);30644;9901;WRITE-IN;;;WI;2;3;17;0.44;3822
 MN;;;4010;Town Supervisor Seat 1 (Hyde Park Township);30680;9001;Jim Evers;;;NP;1;1;89;95.70;93
 MN;;;4010;Town Supervisor Seat 1 (Hyde Park Township);30680;9901;WRITE-IN;;;WI;1;1;4;4.30;93
 MN;;;4012;Town Supervisor Seat 2 (Hyde Park Township);30680;9001;Reed Duncan;;;NP;1;1;91;94.79;96
@@ -3965,20 +3965,20 @@ MN;;;4013;Town Supervisor Seat 3 (Irondale Township);31202;9002;Herbert Tysk;;;N
 MN;;;4013;Town Supervisor Seat 3 (Irondale Township);31202;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Irondale Township);31202;9001;Cheryl Kostal;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Irondale Township);31202;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9001;Lindsay Erin Mattson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9002;Andrew Scott Avelsgard;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9003;Robert McDonald;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Ironton);31274;9001;Josh Jacobson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Ironton);31274;9002;Louis Dirkes;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Ironton);31274;9003;Jeff Midthun;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Ironton);31274;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Ironton) (Elect 2);31274;9001;Debra L Bergsnev;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ironton) (Elect 2);31274;9002;Dean French;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ironton) (Elect 2);31274;9003;Matthew V. Bugnacki;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ironton) (Elect 2);31274;9004;Rose Stromberg;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ironton) (Elect 2);31274;9005;Allan J Reed;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ironton) (Elect 2);31274;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9001;Lindsay Erin Mattson;;;NP;1;1;30;35.71;84
+MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9002;Andrew Scott Avelsgard;;;NP;1;1;24;28.57;84
+MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9003;Robert McDonald;;;NP;1;1;27;32.14;84
+MN;;;1010;Council Member (Iron Junction) (Elect 3);31238;9901;WRITE-IN;;;WI;1;1;3;3.57;84
+MN;;;1001;Mayor (Ironton);31274;9001;Josh Jacobson;;;NP;1;1;109;49.55;220
+MN;;;1001;Mayor (Ironton);31274;9002;Louis Dirkes;;;NP;1;1;20;9.09;220
+MN;;;1001;Mayor (Ironton);31274;9003;Jeff Midthun;;;NP;1;1;91;41.36;220
+MN;;;1001;Mayor (Ironton);31274;9901;WRITE-IN;;;WI;1;1;0;0.00;220
+MN;;;1010;Council Member (Ironton) (Elect 2);31274;9001;Debra L Bergsnev;;;NP;1;1;58;16.20;358
+MN;;;1010;Council Member (Ironton) (Elect 2);31274;9002;Dean French;;;NP;1;1;131;36.59;358
+MN;;;1010;Council Member (Ironton) (Elect 2);31274;9003;Matthew V. Bugnacki;;;NP;1;1;62;17.32;358
+MN;;;1010;Council Member (Ironton) (Elect 2);31274;9004;Rose Stromberg;;;NP;1;1;61;17.04;358
+MN;;;1010;Council Member (Ironton) (Elect 2);31274;9005;Allan J Reed;;;NP;1;1;44;12.29;358
+MN;;;1010;Council Member (Ironton) (Elect 2);31274;9901;WRITE-IN;;;WI;1;1;2;0.56;358
 MN;;;1001;Mayor (Isanti);31328;9001;James "Jimmy" Gordon;;;NP;0;2;0;0.00;0
 MN;;;1001;Mayor (Isanti);31328;9002;Jeff Johnson;;;NP;0;2;0;0.00;0
 MN;;;1001;Mayor (Isanti);31328;9901;WRITE-IN;;;WI;0;2;0;0.00;0
@@ -4064,19 +4064,19 @@ MN;;;1010;Council Member (Jeffers) (Elect 2);31796;9001;Sheila Ryker;;;NP;1;1;10
 MN;;;1010;Council Member (Jeffers) (Elect 2);31796;9002;Shawna Dorr-Jones;;;NP;1;1;80;39.41;203
 MN;;;1010;Council Member (Jeffers) (Elect 2);31796;9003;Elizabeth Stumpf;;;NP;1;1;23;11.33;203
 MN;;;1010;Council Member (Jeffers) (Elect 2);31796;9901;WRITE-IN;;;WI;1;1;0;0.00;203
-MN;;;1001;Mayor (Jenkins);31832;9001;Charles Hoffman;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Jenkins);31832;9002;Debbie Siltman;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Jenkins);31832;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9001;Roman Siltman;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9002;Andrew J Rudlang;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9003;Jerimey Flategraff;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9004;Bill Ellis;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Special Election for Town Supervisor Seat 1 (Jenkins Township);31850;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Jenkins Township);31850;9001;Edward Walton;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Jenkins Township);31850;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Jenkins Township);31850;9001;James Olsen;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Jenkins Township);31850;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Jenkins);31832;9001;Charles Hoffman;;;NP;1;1;102;59.30;172
+MN;;;1001;Mayor (Jenkins);31832;9002;Debbie Siltman;;;NP;1;1;69;40.12;172
+MN;;;1001;Mayor (Jenkins);31832;9901;WRITE-IN;;;WI;1;1;1;0.58;172
+MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9001;Roman Siltman;;;NP;1;1;73;22.88;319
+MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9002;Andrew J Rudlang;;;NP;1;1;86;26.96;319
+MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9003;Jerimey Flategraff;;;NP;1;1;103;32.29;319
+MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9004;Bill Ellis;;;NP;1;1;52;16.30;319
+MN;;;1010;Council Member (Jenkins) (Elect 2);31832;9901;WRITE-IN;;;WI;1;1;5;1.57;319
+MN;;;4010;Special Election for Town Supervisor Seat 1 (Jenkins Township);31850;9901;WRITE-IN;;;WI;1;1;30;100.00;30
+MN;;;4012;Town Supervisor Seat 2 (Jenkins Township);31850;9001;Edward Walton;;;NP;1;1;191;100.00;191
+MN;;;4012;Town Supervisor Seat 2 (Jenkins Township);31850;9901;WRITE-IN;;;WI;1;1;0;0.00;191
+MN;;;4021;Town Clerk (Jenkins Township);31850;9001;James Olsen;;;NP;1;1;188;100.00;188
+MN;;;4021;Town Clerk (Jenkins Township);31850;9901;WRITE-IN;;;WI;1;1;0;0.00;188
 MN;;;4010;Town Supervisor Seat A (Jessenland Township);31922;9001;Jeremy Tesch;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Jessenland Township);31922;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Jessenland Township);31922;9001;Bonnie Weber;;;NP;0;1;0;0.00;0
@@ -4114,10 +4114,10 @@ MN;;;4013;Town Supervisor Seat C (Jupiter Township);32228;9001;Trent Youngstrand
 MN;;;4013;Town Supervisor Seat C (Jupiter Township);32228;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Jupiter Township);32228;9001;Mike Ratzlaff;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Jupiter Township);32228;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Kalevala Township);32264;9001;Dustin Wick;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Kalevala Township);32264;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Kalevala Township);32264;9001;Howard Eskuri;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Kalevala Township);32264;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Kalevala Township);32264;9001;Dustin Wick;;;NP;1;1;92;96.84;95
+MN;;;4012;Town Supervisor Seat B (Kalevala Township);32264;9901;WRITE-IN;;;WI;1;1;3;3.16;95
+MN;;;4021;Town Clerk (Kalevala Township);32264;9001;Howard Eskuri;;;NP;1;1;59;66.29;89
+MN;;;4021;Town Clerk (Kalevala Township);32264;9901;WRITE-IN;;;WI;1;1;30;33.71;89
 MN;;;1001;Mayor (Kandiyohi);32372;9001;Jonathan Lindstrand;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Kandiyohi);32372;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Kandiyohi) (Elect 2);32372;9001;James L Raddatz;;;NP;0;1;0;0.00;0
@@ -4140,15 +4140,15 @@ MN;;;4012;Town Supervisor Seat B (Kasota Township);32480;9001;Joanne Stangler;;;
 MN;;;4012;Town Supervisor Seat B (Kasota Township);32480;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;4022;Town Treasurer (Kasota Township);32480;9001;Deanna Biehn;;;NP;0;2;0;0.00;0
 MN;;;4022;Town Treasurer (Kasota Township);32480;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1001;Mayor (Kasson);32498;9001;Chris McKern;;;NP;3;3;2331;97.82;2383
-MN;;;1001;Mayor (Kasson);32498;9901;WRITE-IN;;;WI;3;3;52;2.18;2383
-MN;;;1010;Council Member (Kasson) (Elect 2);32498;9001;Paul Johnson;;;NP;3;3;1792;46.45;3858
-MN;;;1010;Council Member (Kasson) (Elect 2);32498;9002;Ryan Christensen;;;NP;3;3;2009;52.07;3858
-MN;;;1010;Council Member (Kasson) (Elect 2);32498;9901;WRITE-IN;;;WI;3;3;57;1.48;3858
-MN;;;1012;Special Election for Council Member (Kasson);32498;9001;Melisa "Mel" Ferris;;;NP;3;3;2205;98.39;2241
-MN;;;1012;Special Election for Council Member (Kasson);32498;9901;WRITE-IN;;;WI;3;3;36;1.61;2241
-MN;;;1131;CITY QUESTION 1 (Kasson);32498;9001;YES;;;NP;3;3;1978;70.54;2804
-MN;;;1131;CITY QUESTION 1 (Kasson);32498;9002;NO;;;NP;3;3;826;29.46;2804
+MN;;;1001;Mayor (Kasson);32498;9001;Chris McKern;;;NP;3;3;2255;97.79;2306
+MN;;;1001;Mayor (Kasson);32498;9901;WRITE-IN;;;WI;3;3;51;2.21;2306
+MN;;;1010;Council Member (Kasson) (Elect 2);32498;9001;Paul Johnson;;;NP;3;3;1735;46.45;3735
+MN;;;1010;Council Member (Kasson) (Elect 2);32498;9002;Ryan Christensen;;;NP;3;3;1943;52.02;3735
+MN;;;1010;Council Member (Kasson) (Elect 2);32498;9901;WRITE-IN;;;WI;3;3;57;1.53;3735
+MN;;;1012;Special Election for Council Member (Kasson);32498;9001;Melisa "Mel" Ferris;;;NP;3;3;2136;98.39;2171
+MN;;;1012;Special Election for Council Member (Kasson);32498;9901;WRITE-IN;;;WI;3;3;35;1.61;2171
+MN;;;1131;CITY QUESTION 1 (Kasson);32498;9001;YES;;;NP;3;3;1904;70.15;2714
+MN;;;1131;CITY QUESTION 1 (Kasson);32498;9002;NO;;;NP;3;3;810;29.85;2714
 MN;;;1001;Mayor (Keewatin);32570;9001;Michael Mick LaBine;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Keewatin);32570;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Keewatin) (Elect 2);32570;9001;Pamela "Pam" LaBine;;;NP;0;1;0;0.00;0
@@ -4228,15 +4228,15 @@ MN;;;1010;Council Member (Kerrick) (Elect 2);32912;9002;Paul Stadin;;;NP;0;1;0;0
 MN;;;1010;Council Member (Kerrick) (Elect 2);32912;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1061;City Treasurer (Kerrick);32912;9001;Mary Workman;;;NP;0;1;0;0.00;0
 MN;;;1061;City Treasurer (Kerrick);32912;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Kettle River);32966;9001;Monique Doward;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Kettle River);32966;9002;David Lucas;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Kettle River);32966;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9001;Elizabeth Mascarenas;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9002;Miya Kohmetscher;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9003;Jesse L. Kemp;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Kettle River);32966;9001;Guy P Collier;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Kettle River);32966;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Kettle River);32966;9001;Monique Doward;;;NP;1;1;20;28.99;69
+MN;;;1001;Mayor (Kettle River);32966;9002;David Lucas;;;NP;1;1;49;71.01;69
+MN;;;1001;Mayor (Kettle River);32966;9901;WRITE-IN;;;WI;1;1;0;0.00;69
+MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9001;Elizabeth Mascarenas;;;NP;1;1;46;38.98;118
+MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9002;Miya Kohmetscher;;;NP;1;1;50;42.37;118
+MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9003;Jesse L. Kemp;;;NP;1;1;17;14.41;118
+MN;;;1010;Council Member (Kettle River) (Elect 2);32966;9901;WRITE-IN;;;WI;1;1;5;4.24;118
+MN;;;1012;Special Election for Council Member (Kettle River);32966;9001;Guy P Collier;;;NP;1;1;54;85.71;63
+MN;;;1012;Special Election for Council Member (Kettle River);32966;9901;WRITE-IN;;;WI;1;1;9;14.29;63
 MN;;;1001;Mayor (Kiester);33056;9001;Douglas E. Trytten;;;NP;1;1;103;48.82;211
 MN;;;1001;Mayor (Kiester);33056;9002;Richard Goggin;;;NP;1;1;99;46.92;211
 MN;;;1001;Mayor (Kiester);33056;9901;WRITE-IN;;;WI;1;1;9;4.27;211
@@ -4587,13 +4587,13 @@ MN;;;1010;Council Member (Lengby) (Elect 2);36404;9002;Benjamin Walker;;;NP;0;1;
 MN;;;1010;Council Member (Lengby) (Elect 2);36404;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Lengby);36404;9001;Michael McColl;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Lengby);36404;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Lent Township);36440;9001;Brian Seekon;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Lent Township);36440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Lent Township);36440;9001;Jeffery Barrett;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Lent Township);36440;9002;Jess Eischens;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Lent Township);36440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4014;Town Supervisor Seat D (Lent Township);36440;9001;Troy Nelson;;;NP;0;1;0;0.00;0
-MN;;;4014;Town Supervisor Seat D (Lent Township);36440;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Lent Township);36440;9001;Brian Seekon;;;NP;1;1;971;97.29;998
+MN;;;4010;Town Supervisor Seat A (Lent Township);36440;9901;WRITE-IN;;;WI;1;1;27;2.71;998
+MN;;;4013;Town Supervisor Seat C (Lent Township);36440;9001;Jeffery Barrett;;;NP;1;1;668;58.49;1142
+MN;;;4013;Town Supervisor Seat C (Lent Township);36440;9002;Jess Eischens;;;NP;1;1;465;40.72;1142
+MN;;;4013;Town Supervisor Seat C (Lent Township);36440;9901;WRITE-IN;;;WI;1;1;9;0.79;1142
+MN;;;4014;Town Supervisor Seat D (Lent Township);36440;9001;Troy Nelson;;;NP;1;1;964;98.17;982
+MN;;;4014;Town Supervisor Seat D (Lent Township);36440;9901;WRITE-IN;;;WI;1;1;18;1.83;982
 MN;;;1001;Mayor (Leonard);36494;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Leonard) (Elect 2);36494;9001;Daniel R Risland;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Leonard) (Elect 2);36494;9002;Tammie Harr;;;NP;0;1;0;0.00;0
@@ -4604,14 +4604,14 @@ MN;;;4012;Town Supervisor Seat 2 (Leonardsville Township);36512;9001;Mark W. And
 MN;;;4012;Town Supervisor Seat 2 (Leonardsville Township);36512;9901;WRITE-IN;;;WI;1;1;0;0.00;49
 MN;;;4022;Town Treasurer (Leonardsville Township);36512;9001;Matthew Kleindl;;;NP;1;1;49;100.00;49
 MN;;;4022;Town Treasurer (Leonardsville Township);36512;9901;WRITE-IN;;;WI;1;1;0;0.00;49
-MN;;;1001;Mayor (Leonidas);36530;9001;JoAnne Milton;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Leonidas);36530;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Leonidas);36530;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Leonidas);36530;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1060;City Clerk (Leonidas);36530;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1061;City Treasurer (Leonidas);36530;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1131;CITY QUESTION 1 (Leonidas);36530;9001;YES;;;NP;0;1;0;0.00;0
-MN;;;1131;CITY QUESTION 1 (Leonidas);36530;9002;NO;;;NP;0;1;0;0.00;0
+MN;;;1001;Mayor (Leonidas);36530;9001;JoAnne Milton;;;NP;1;1;12;92.31;13
+MN;;;1001;Mayor (Leonidas);36530;9901;WRITE-IN;;;WI;1;1;1;7.69;13
+MN;;;1010;Council Member (Leonidas);36530;9901;WRITE-IN;;;WI;1;1;9;100.00;9
+MN;;;1012;Special Election for Council Member (Leonidas);36530;9901;WRITE-IN;;;WI;1;1;10;100.00;10
+MN;;;1060;City Clerk (Leonidas);36530;9901;WRITE-IN;;;WI;1;1;5;100.00;5
+MN;;;1061;City Treasurer (Leonidas);36530;9901;WRITE-IN;;;WI;1;1;5;100.00;5
+MN;;;1131;CITY QUESTION 1 (Leonidas);36530;9001;YES;;;NP;1;1;10;83.33;12
+MN;;;1131;CITY QUESTION 1 (Leonidas);36530;9002;NO;;;NP;1;1;2;16.67;12
 MN;;;1001;Mayor (Le Roy);36620;9001;Edwin N. Koppen;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Le Roy);36620;9002;Gerald Payne;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Le Roy);36620;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -4749,10 +4749,10 @@ MN;;;4010;Town Supervisor Seat A (Little Elbow Township);37530;9002;Todd J Turne
 MN;;;4010;Town Supervisor Seat A (Little Elbow Township);37530;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Little Elbow Twp);37530;9001;YES;;;NP;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Little Elbow Twp);37530;9002;NO;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Little Elk Township);37538;9001;Kevin J Kremers;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Little Elk Township);37538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Little Elk Township);37538;9001;Elizabeth Vetsch;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Little Elk Township);37538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Little Elk Township);37538;9001;Kevin J Kremers;;;NP;1;1;113;98.26;115
+MN;;;4010;Town Supervisor Seat A (Little Elk Township);37538;9901;WRITE-IN;;;WI;1;1;2;1.74;115
+MN;;;4022;Town Treasurer (Little Elk Township);37538;9001;Elizabeth Vetsch;;;NP;1;1;113;99.12;114
+MN;;;4022;Town Treasurer (Little Elk Township);37538;9901;WRITE-IN;;;WI;1;1;1;0.88;114
 MN;;;1001;Mayor (Little Falls);37556;9001;Greg Zylka;;;NP;0;3;0;0.00;0
 MN;;;1001;Mayor (Little Falls);37556;9901;WRITE-IN;;;WI;0;3;0;0.00;0
 MN;;;1010;Council Member at Large (Little Falls);37556;9001;David Glaze;;;NP;0;3;0;0.00;0
@@ -4920,10 +4920,10 @@ MN;;;4013;Town Supervisor Seat 3 (Mckinley Township);39104;9001;James G. Lattern
 MN;;;4013;Town Supervisor Seat 3 (Mckinley Township);39104;9901;WRITE-IN;;;WI;1;1;1;1.75;57
 MN;;;4022;Town Treasurer (Mckinley Township);39104;9001;Lee Burns;;;NP;1;1;57;100.00;57
 MN;;;4022;Town Treasurer (Mckinley Township);39104;9901;WRITE-IN;;;WI;1;1;0;0.00;57
-MN;;;1001;Mayor (Mckinley);39140;9001;Stephen Bottila;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Mckinley);39140;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Mckinley) (Elect 2);39140;9001;Joseph Vaida;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Mckinley) (Elect 2);39140;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Mckinley);39140;9001;Stephen Bottila;;;NP;1;1;23;47.92;48
+MN;;;1001;Mayor (Mckinley);39140;9901;WRITE-IN;;;WI;1;1;25;52.08;48
+MN;;;1010;Council Member at Large (Mckinley) (Elect 2);39140;9001;Joseph Vaida;;;NP;1;1;26;33.33;78
+MN;;;1010;Council Member at Large (Mckinley) (Elect 2);39140;9901;WRITE-IN;;;WI;1;1;52;66.67;78
 MN;;;4013;Town Supervisor Seat C (Mcpherson Township);39176;9001;Dan Linde;;;NP;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Mcpherson Township);39176;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Mcpherson Township);39176;9001;Lynda Kruse;;;NP;0;1;0;0.00;0
@@ -4966,12 +4966,12 @@ MN;;;1001;Mayor (Mahnomen);39392;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member at Large (Mahnomen) (Elect 2);39392;9001;LuAnn Durant;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member at Large (Mahnomen) (Elect 2);39392;9002;Deborah McArthur;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member at Large (Mahnomen) (Elect 2);39392;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Mahtowa Township);39464;9001;Jeffrey Gilbertson;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Mahtowa Township);39464;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Mahtowa Township);39464;9001;Richard Gehrke;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Mahtowa Township);39464;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Mahtowa Township);39464;9001;Sandra Haley;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Mahtowa Township);39464;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Mahtowa Township);39464;9001;Jeffrey Gilbertson;;;NP;1;1;299;99.67;300
+MN;;;4010;Town Supervisor Seat A (Mahtowa Township);39464;9901;WRITE-IN;;;WI;1;1;1;0.33;300
+MN;;;4013;Town Supervisor Seat C (Mahtowa Township);39464;9001;Richard Gehrke;;;NP;1;1;284;98.61;288
+MN;;;4013;Town Supervisor Seat C (Mahtowa Township);39464;9901;WRITE-IN;;;WI;1;1;4;1.39;288
+MN;;;4022;Town Treasurer (Mahtowa Township);39464;9001;Sandra Haley;;;NP;1;1;293;99.66;294
+MN;;;4022;Town Treasurer (Mahtowa Township);39464;9901;WRITE-IN;;;WI;1;1;1;0.34;294
 MN;;;4012;Town Supervisor Seat B (Malta Township);39608;9001;Kyle Gillespie;;;NP;1;1;47;100.00;47
 MN;;;4012;Town Supervisor Seat B (Malta Township);39608;9901;WRITE-IN;;;WI;1;1;0;0.00;47
 MN;;;4021;Town Clerk (Malta Township);39608;9001;Bruce Moberg;;;NP;1;1;46;100.00;46
@@ -5215,12 +5215,12 @@ MN;;;1010;Council Member (Meire Grove) (Elect 2);41534;9001;Mike Wehlage;;;NP;1;
 MN;;;1010;Council Member (Meire Grove) (Elect 2);41534;9002;Bobby Deters;;;NP;1;1;23;25.84;89
 MN;;;1010;Council Member (Meire Grove) (Elect 2);41534;9003;Kurt Meyer;;;NP;1;1;29;32.58;89
 MN;;;1010;Council Member (Meire Grove) (Elect 2);41534;9901;WRITE-IN;;;WI;1;1;0;0.00;89
-MN;;;1001;Mayor (Melrose);41570;9001;Bob Pottratz;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Melrose);41570;9002;Joe Finken;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Melrose);41570;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Melrose) (Elect 2);41570;9001;Travis Frieler;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Melrose) (Elect 2);41570;9002;Joelene G. Wieling;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Melrose) (Elect 2);41570;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Melrose);41570;9001;Bob Pottratz;;;NP;1;1;300;26.00;1154
+MN;;;1001;Mayor (Melrose);41570;9002;Joe Finken;;;NP;1;1;847;73.40;1154
+MN;;;1001;Mayor (Melrose);41570;9901;WRITE-IN;;;WI;1;1;7;0.61;1154
+MN;;;1010;Council Member (Melrose) (Elect 2);41570;9001;Travis Frieler;;;NP;1;1;874;53.55;1632
+MN;;;1010;Council Member (Melrose) (Elect 2);41570;9002;Joelene G. Wieling;;;NP;1;1;740;45.34;1632
+MN;;;1010;Council Member (Melrose) (Elect 2);41570;9901;WRITE-IN;;;WI;1;1;18;1.10;1632
 MN;;;1001;Mayor (Menahga);41660;9001;Elizabeth "Liz" Olson;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Menahga);41660;9002;Karen Candelaria;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Menahga);41660;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -5396,21 +5396,21 @@ MN;;;1010;Council Member (Monticello) (Elect 2);43774;9001;Lee R. Martie;;;NP;4;
 MN;;;1010;Council Member (Monticello) (Elect 2);43774;9002;Tracy Hinz;;;NP;4;4;2127;32.04;6639
 MN;;;1010;Council Member (Monticello) (Elect 2);43774;9003;Charlotte Gabler;;;NP;4;4;2614;39.37;6639
 MN;;;1010;Council Member (Monticello) (Elect 2);43774;9901;WRITE-IN;;;WI;4;4;68;1.02;6639
-MN;;;1010;Council Member (Montrose) (Elect 2);43810;9001;Tami Surprenant;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Montrose) (Elect 2);43810;9002;David Paradeise;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Montrose) (Elect 2);43810;9003;Michelle Otto;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Montrose) (Elect 2);43810;9004;Andrew Rasmussen;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Montrose) (Elect 2);43810;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Montrose) (Elect 2);43810;9001;Tami Surprenant;;;NP;1;1;491;24.89;1973
+MN;;;1010;Council Member (Montrose) (Elect 2);43810;9002;David Paradeise;;;NP;1;1;494;25.04;1973
+MN;;;1010;Council Member (Montrose) (Elect 2);43810;9003;Michelle Otto;;;NP;1;1;541;27.42;1973
+MN;;;1010;Council Member (Montrose) (Elect 2);43810;9004;Andrew Rasmussen;;;NP;1;1;425;21.54;1973
+MN;;;1010;Council Member (Montrose) (Elect 2);43810;9901;WRITE-IN;;;WI;1;1;22;1.12;1973
 MN;;;4010;Town Supervisor Seat A (Moonshine Township);43828;9001;Daniel J. Walters;;;NP;1;1;42;97.67;43
 MN;;;4010;Town Supervisor Seat A (Moonshine Township);43828;9901;WRITE-IN;;;WI;1;1;1;2.33;43
 MN;;;4013;Town Supervisor Seat C (Moonshine Township);43828;9001;Brian Wulff;;;NP;1;1;44;97.78;45
 MN;;;4013;Town Supervisor Seat C (Moonshine Township);43828;9901;WRITE-IN;;;WI;1;1;1;2.22;45
-MN;;;4012;Town Supervisor Seat B (Moore Township);43846;9001;Brett Duncan;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Moore Township);43846;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Moore Township);43846;9001;Adam Blair;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Moore Township);43846;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Moore Township);43846;9001;Keith Durkee;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Moore Township);43846;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Moore Township);43846;9001;Brett Duncan;;;NP;1;1;89;98.89;90
+MN;;;4012;Town Supervisor Seat B (Moore Township);43846;9901;WRITE-IN;;;WI;1;1;1;1.11;90
+MN;;;4013;Town Supervisor Seat C (Moore Township);43846;9001;Adam Blair;;;NP;1;1;89;100.00;89
+MN;;;4013;Town Supervisor Seat C (Moore Township);43846;9901;WRITE-IN;;;WI;1;1;0;0.00;89
+MN;;;4022;Town Treasurer (Moore Township);43846;9001;Keith Durkee;;;NP;1;1;88;100.00;88
+MN;;;4022;Town Treasurer (Moore Township);43846;9901;WRITE-IN;;;WI;1;1;0;0.00;88
 MN;;;1001;Mayor (Moorhead);43864;9001;Shelly Carlson;;;NP;13;13;10812;82.72;13071
 MN;;;1001;Mayor (Moorhead);43864;9002;Kevin Nese Shores;;;NP;13;13;2170;16.60;13071
 MN;;;1001;Mayor (Moorhead);43864;9901;WRITE-IN;;;WI;13;13;89;0.68;13071
@@ -5437,22 +5437,22 @@ MN;;;4012;Town Supervisor Seat B (Moose Creek Township);43918;9001;KENNETH CHRIS
 MN;;;4012;Town Supervisor Seat B (Moose Creek Township);43918;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Moose Creek Township);43918;9001;Janet A Olson;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Moose Creek Township);43918;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Moose Lake);43954;9001;Ted Shaw;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Moose Lake);43954;9002;Jim Michalski;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Moose Lake);43954;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Moose Lake) (Elect 2);43954;9001;Douglas Juntunen;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Moose Lake) (Elect 2);43954;9002;Walter Lower III;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Moose Lake) (Elect 2);43954;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9001;Philip Lattu;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9002;Mark Vichorek;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9003;Tracy Matuseski;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Moose Lake Township);43972;9001;Steve Aldrin;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Moose Lake Township);43972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Special Election for Town Clerk (Moose Lake Township);43972;9001;Donna Kirk;;;NP;0;1;0;0.00;0
-MN;;;4021;Special Election for Town Clerk (Moose Lake Township);43972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Moose Lake Township);43972;9001;Dawn Moffett;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Moose Lake Township);43972;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Moose Lake);43954;9001;Ted Shaw;;;NP;1;1;384;67.13;572
+MN;;;1001;Mayor (Moose Lake);43954;9002;Jim Michalski;;;NP;1;1;182;31.82;572
+MN;;;1001;Mayor (Moose Lake);43954;9901;WRITE-IN;;;WI;1;1;6;1.05;572
+MN;;;1010;Council Member (Moose Lake) (Elect 2);43954;9001;Douglas Juntunen;;;NP;1;1;413;52.88;781
+MN;;;1010;Council Member (Moose Lake) (Elect 2);43954;9002;Walter Lower III;;;NP;1;1;353;45.20;781
+MN;;;1010;Council Member (Moose Lake) (Elect 2);43954;9901;WRITE-IN;;;WI;1;1;15;1.92;781
+MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9001;Philip Lattu;;;NP;1;1;148;33.94;436
+MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9002;Mark Vichorek;;;NP;1;1;90;20.64;436
+MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9003;Tracy Matuseski;;;NP;1;1;194;44.50;436
+MN;;;4010;Town Supervisor Seat A (Moose Lake Township);43972;9901;WRITE-IN;;;WI;1;1;4;0.92;436
+MN;;;4013;Town Supervisor Seat C (Moose Lake Township);43972;9001;Steve Aldrin;;;NP;1;1;368;97.61;377
+MN;;;4013;Town Supervisor Seat C (Moose Lake Township);43972;9901;WRITE-IN;;;WI;1;1;9;2.39;377
+MN;;;4021;Special Election for Town Clerk (Moose Lake Township);43972;9001;Donna Kirk;;;NP;1;1;378;99.21;381
+MN;;;4021;Special Election for Town Clerk (Moose Lake Township);43972;9901;WRITE-IN;;;WI;1;1;3;0.79;381
+MN;;;4022;Town Treasurer (Moose Lake Township);43972;9001;Dawn Moffett;;;NP;1;1;375;99.21;378
+MN;;;4022;Town Treasurer (Moose Lake Township);43972;9901;WRITE-IN;;;WI;1;1;3;0.79;378
 MN;;;4010;Town Supervisor Seat 1 (Moose Lake Township);43990;9001;John Benson;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Moose Lake Township);43990;9002;Mary Keppers;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Moose Lake Township);43990;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -5494,9 +5494,9 @@ MN;;;4012;Town Supervisor Seat B (Morse Township);44332;9001;Nancy M. Evans;;;NP
 MN;;;4012;Town Supervisor Seat B (Morse Township);44332;9901;WRITE-IN;;;WI;1;2;0;0.00;232
 MN;;;4022;Town Treasurer (Morse Township);44332;9001;Eric Villeneuve;;;NP;1;2;232;100.00;232
 MN;;;4022;Town Treasurer (Morse Township);44332;9901;WRITE-IN;;;WI;1;2;0;0.00;232
-MN;;;1001;Mayor (Morton);44368;9001;Jorey Prescott;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Morton);44368;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Morton) (Elect 2);44368;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Morton);44368;9001;Jorey Prescott;;;NP;1;1;76;62.81;121
+MN;;;1001;Mayor (Morton);44368;9901;WRITE-IN;;;WI;1;1;45;37.19;121
+MN;;;1010;Council Member (Morton) (Elect 2);44368;9901;WRITE-IN;;;WI;1;1;137;100.00;137
 MN;;;1001;Mayor (Motley);44422;9001;Mike Schmidt;;;NP;0;2;0;0.00;0
 MN;;;1001;Mayor (Motley);44422;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;1010;Council Member (Motley) (Elect 2);44422;9001;Brenda Borash;;;NP;0;2;0;0.00;0
@@ -5611,8 +5611,8 @@ MN;;;4010;Town Supervisor Seat 1 (Nesbit Township);45214;9001;Dustin McDonald;;;
 MN;;;4010;Town Supervisor Seat 1 (Nesbit Township);45214;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Nesbit Township);45214;9001;Randall Wagner;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Nesbit Township);45214;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Ness Township);45232;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4023;Town Clerk - Treasurer (Ness Township);45232;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4013;Town Supervisor Seat C (Ness Township);45232;9901;WRITE-IN;;;WI;1;1;13;100.00;13
+MN;;;4023;Town Clerk - Treasurer (Ness Township);45232;9901;WRITE-IN;;;WI;1;1;13;100.00;13
 MN;;;4010;Town Supervisor Seat A (Nessel Township);45250;9001;Branden Mell;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Nessel Township);45250;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Nessel Township);45250;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -5982,14 +5982,14 @@ MN;;;1001;Mayor (Oklee);48202;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Oklee) (Elect 2);48202;9001;Jacqueline  A. Cross;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Oklee) (Elect 2);48202;9002;Danny Sandoval;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Oklee) (Elect 2);48202;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Olivia);48256;9001;Jon Hawkinson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Olivia);48256;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Olivia) (Elect 2);48256;9001;Todd W. Howard;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Olivia) (Elect 2);48256;9002;Blanca Ferguson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Olivia) (Elect 2);48256;9003;Katianne Briese;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Olivia) (Elect 2);48256;9004;Brian Stenholm;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Olivia) (Elect 2);48256;9005;Matthew Baumgartner;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Olivia) (Elect 2);48256;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Olivia);48256;9001;Jon Hawkinson;;;NP;1;1;847;97.47;869
+MN;;;1001;Mayor (Olivia);48256;9901;WRITE-IN;;;WI;1;1;22;2.53;869
+MN;;;1010;Council Member (Olivia) (Elect 2);48256;9001;Todd W. Howard;;;NP;1;1;351;19.95;1759
+MN;;;1010;Council Member (Olivia) (Elect 2);48256;9002;Blanca Ferguson;;;NP;1;1;358;20.35;1759
+MN;;;1010;Council Member (Olivia) (Elect 2);48256;9003;Katianne Briese;;;NP;1;1;246;13.99;1759
+MN;;;1010;Council Member (Olivia) (Elect 2);48256;9004;Brian Stenholm;;;NP;1;1;241;13.70;1759
+MN;;;1010;Council Member (Olivia) (Elect 2);48256;9005;Matthew Baumgartner;;;NP;1;1;558;31.72;1759
+MN;;;1010;Council Member (Olivia) (Elect 2);48256;9901;WRITE-IN;;;WI;1;1;5;0.28;1759
 MN;;;1001;Mayor (Onamia);48310;9001;Marge Agnew;;;NP;1;1;212;94.22;225
 MN;;;1001;Mayor (Onamia);48310;9901;WRITE-IN;;;WI;1;1;13;5.78;225
 MN;;;1010;Council Member (Onamia) (Elect 2);48310;9001;Scott Shelley;;;NP;1;1;96;26.67;360
@@ -6053,11 +6053,11 @@ MN;;;4013;Town Supervisor Seat C (Osakis Township);48814;9001;Gene Rasmusen;;;NP
 MN;;;4013;Town Supervisor Seat C (Osakis Township);48814;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat 2 (Osborne Township);48832;9001;Nathan Stoel;;;NP;1;1;137;100.00;137
 MN;;;4012;Town Supervisor Seat 2 (Osborne Township);48832;9901;WRITE-IN;;;WI;1;1;0;0.00;137
-MN;;;4013;Town Supervisor Seat C (Oscar Township);48850;9001;Jason Grunewald;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Oscar Township);48850;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Oscar Township);48850;9001;Danielle Grunewald;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Oscar Township);48850;9002;Judith Dumke-Emery;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Oscar Township);48850;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4013;Town Supervisor Seat C (Oscar Township);48850;9001;Jason Grunewald;;;NP;1;1;82;100.00;82
+MN;;;4013;Town Supervisor Seat C (Oscar Township);48850;9901;WRITE-IN;;;WI;1;1;0;0.00;82
+MN;;;4022;Town Treasurer (Oscar Township);48850;9001;Danielle Grunewald;;;NP;1;1;54;60.67;89
+MN;;;4022;Town Treasurer (Oscar Township);48850;9002;Judith Dumke-Emery;;;NP;1;1;35;39.33;89
+MN;;;4022;Town Treasurer (Oscar Township);48850;9901;WRITE-IN;;;WI;1;1;0;0.00;89
 MN;;;4012;Town Supervisor Seat B (Oshawa Township);48922;9001;Jacob Yost;;;NP;1;1;237;99.16;239
 MN;;;4012;Town Supervisor Seat B (Oshawa Township);48922;9901;WRITE-IN;;;WI;1;1;2;0.84;239
 MN;;;4013;Town Supervisor Seat C (Oshawa Township);48922;9001;Charles Vogel;;;NP;1;1;210;90.91;231
@@ -6119,11 +6119,11 @@ MN;;;1024;Council Member Ward 3 (Owatonna);49300;9901;WRITE-IN;;;WI;2;2;8;0.66;1
 MN;;;1028;Council Member Ward 5 (Owatonna);49300;9001;Molly Kerr;;;NP;1;2;441;46.72;944
 MN;;;1028;Council Member Ward 5 (Owatonna);49300;9002;Brent Svenby;;;NP;1;2;501;53.07;944
 MN;;;1028;Council Member Ward 5 (Owatonna);49300;9901;WRITE-IN;;;WI;1;2;2;0.21;944
-MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9001;Doyle A. Svedberg;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9003;Micheal Philip Christensen;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Owens Township);49336;9001;Shirley Woods;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Owens Township);49336;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9001;Doyle A. Svedberg;;;NP;1;1;57;53.77;106
+MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9003;Micheal Philip Christensen;;;NP;1;1;49;46.23;106
+MN;;;4010;Town Supervisor Seat 1 (Owens Township);49336;9901;WRITE-IN;;;WI;1;1;0;0.00;106
+MN;;;4021;Town Clerk (Owens Township);49336;9001;Shirley Woods;;;NP;1;1;107;98.17;109
+MN;;;4021;Town Clerk (Owens Township);49336;9901;WRITE-IN;;;WI;1;1;2;1.83;109
 MN;;;4010;Town Supervisor Seat A (Oxford Township);49354;9001;Mike Miller;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Oxford Township);49354;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Oxford Township);49354;9001;Jennifer Perkins;;;NP;0;1;0;0.00;0
@@ -6227,12 +6227,12 @@ MN;;;1001;Mayor (Pequot Lakes);50416;9901;WRITE-IN;;;WI;1;1;13;1.38;945
 MN;;;1010;Council Member (Pequot Lakes) (Elect 2);50416;9001;Dan Ronning;;;NP;1;1;717;50.53;1419
 MN;;;1010;Council Member (Pequot Lakes) (Elect 2);50416;9002;Cheri Seils;;;NP;1;1;695;48.98;1419
 MN;;;1010;Council Member (Pequot Lakes) (Elect 2);50416;9901;WRITE-IN;;;WI;1;1;7;0.49;1419
-MN;;;4010;Town Supervisor Seat A (Perch Lake Township);50446;9001;Gary A. Harms;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Perch Lake Township);50446;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Perch Lake Township);50446;9001;Keith J. Depre;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Perch Lake Township);50446;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Perch Lake Township);50446;9001;Cheri DeMenge;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Perch Lake Township);50446;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Perch Lake Township);50446;9001;Gary A. Harms;;;NP;1;1;359;97.29;369
+MN;;;4010;Town Supervisor Seat A (Perch Lake Township);50446;9901;WRITE-IN;;;WI;1;1;10;2.71;369
+MN;;;4013;Town Supervisor Seat C (Perch Lake Township);50446;9001;Keith J. Depre;;;NP;1;1;366;97.86;374
+MN;;;4013;Town Supervisor Seat C (Perch Lake Township);50446;9901;WRITE-IN;;;WI;1;1;8;2.14;374
+MN;;;4022;Town Treasurer (Perch Lake Township);50446;9001;Cheri DeMenge;;;NP;1;1;377;99.47;379
+MN;;;4022;Town Treasurer (Perch Lake Township);50446;9901;WRITE-IN;;;WI;1;1;2;0.53;379
 MN;;;4012;Special Election for Town Supervisor Seat B (Percy Township);50452;9001;Justin Tuziw;;;NP;0;1;0;0.00;0
 MN;;;4012;Special Election for Town Supervisor Seat B (Percy Township);50452;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Percy Township);50452;9001;Richard Levenhagen;;;NP;0;1;0;0.00;0
@@ -6309,13 +6309,13 @@ MN;;;4012;Town Supervisor Seat B (Pine City Township);51082;9001;Abbie Raudabaug
 MN;;;4012;Town Supervisor Seat B (Pine City Township);51082;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4014;Special Election for Town Supervisor Seat D (Pine City Township);51082;9001;Michael Miklya;;;NP;0;1;0;0.00;0
 MN;;;4014;Special Election for Town Supervisor Seat D (Pine City Township);51082;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Pine Island);51136;9001;David Friese;;;NP;1;2;318;84.57;376
-MN;;;1001;Mayor (Pine Island);51136;9002;Adam Distad;;;NP;1;2;56;14.89;376
-MN;;;1001;Mayor (Pine Island);51136;9901;WRITE-IN;;;WI;1;2;2;0.53;376
-MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9001;Jason Johnson;;;NP;1;2;272;42.63;638
-MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9002;Brandi Veith Staloch;;;NP;1;2;213;33.39;638
-MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9003;Kelly Leibold;;;NP;1;2;147;23.04;638
-MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9901;WRITE-IN;;;WI;1;2;6;0.94;638
+MN;;;1001;Mayor (Pine Island);51136;9001;David Friese;;;NP;2;2;1340;85.62;1565
+MN;;;1001;Mayor (Pine Island);51136;9002;Adam Distad;;;NP;2;2;218;13.93;1565
+MN;;;1001;Mayor (Pine Island);51136;9901;WRITE-IN;;;WI;2;2;7;0.45;1565
+MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9001;Jason Johnson;;;NP;2;2;1119;42.69;2621
+MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9002;Brandi Veith Staloch;;;NP;2;2;878;33.50;2621
+MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9003;Kelly Leibold;;;NP;2;2;601;22.93;2621
+MN;;;1010;Council Member (Pine Island) (Elect 2);51136;9901;WRITE-IN;;;WI;2;2;23;0.88;2621
 MN;;;4013;Town Supervisor Seat 3 (Pine Lake Township);51172;9901;WRITE-IN;;;WI;1;1;2;100.00;2
 MN;;;1001;Mayor (Pine River);51280;9001;Tamara Hansen;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Pine River);51280;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -6438,9 +6438,9 @@ MN;;;4021;Town Clerk (Posen Township);52180;9001;Jennifer Hinz;;;NP;0;1;0;0.00;0
 MN;;;4021;Town Clerk (Posen Township);52180;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat 2 (Powers Township);52252;9001;LeRoy Jordan;;;NP;1;1;303;97.12;312
 MN;;;4012;Town Supervisor Seat 2 (Powers Township);52252;9901;WRITE-IN;;;WI;1;1;9;2.88;312
-MN;;;4013;Town Supervisor Seat 3 (Prairie Lake Township);52306;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Prairie Lake Township);52306;9001;Shelly Lough;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Prairie Lake Township);52306;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4013;Town Supervisor Seat 3 (Prairie Lake Township);52306;9901;WRITE-IN;;;WI;1;1;13;100.00;13
+MN;;;4022;Town Treasurer (Prairie Lake Township);52306;9001;Shelly Lough;;;NP;1;1;21;100.00;21
+MN;;;4022;Town Treasurer (Prairie Lake Township);52306;9901;WRITE-IN;;;WI;1;1;0;0.00;21
 MN;;;1001;Mayor (Preston);52450;9001;Kurt Reicks;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Preston);52450;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member at Large (Preston) (Elect 2);52450;9001;Alex Daley;;;NP;0;1;0;0.00;0
@@ -6654,14 +6654,14 @@ MN;;;4021;Town Clerk (River Falls Township);54574;9001;Jill Jonson;;;NP;0;1;0;0.
 MN;;;4021;Town Clerk (River Falls Township);54574;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4031;TOWNSHIP QUESTION 1 (Riverside Twp);54646;9001;YES;;;NP;1;1;132;79.04;167
 MN;;;4031;TOWNSHIP QUESTION 1 (Riverside Twp);54646;9002;NO;;;NP;1;1;35;20.96;167
-MN;;;1001;Mayor (Riverton);54736;9001;David C. Peterson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Riverton);54736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Riverton) (Elect 2);54736;9001;Lana Schmidt;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Riverton) (Elect 2);54736;9002;Michael Booth;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Riverton) (Elect 2);54736;9003;Ronald Martin;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Riverton) (Elect 2);54736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Riverton);54736;9001;Blake Kretzman;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Riverton);54736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Riverton);54736;9001;David C. Peterson;;;NP;1;1;45;95.74;47
+MN;;;1001;Mayor (Riverton);54736;9901;WRITE-IN;;;WI;1;1;2;4.26;47
+MN;;;1010;Council Member (Riverton) (Elect 2);54736;9001;Lana Schmidt;;;NP;1;1;23;26.74;86
+MN;;;1010;Council Member (Riverton) (Elect 2);54736;9002;Michael Booth;;;NP;1;1;31;36.05;86
+MN;;;1010;Council Member (Riverton) (Elect 2);54736;9003;Ronald Martin;;;NP;1;1;31;36.05;86
+MN;;;1010;Council Member (Riverton) (Elect 2);54736;9901;WRITE-IN;;;WI;1;1;1;1.16;86
+MN;;;1012;Special Election for Council Member (Riverton);54736;9001;Blake Kretzman;;;NP;1;1;45;97.83;46
+MN;;;1012;Special Election for Council Member (Riverton);54736;9901;WRITE-IN;;;WI;1;1;1;2.17;46
 MN;;;1021;Special Election for Council Member Ward 1 (Robbinsdale) (Special Primary);54808;9001;Raymond Blackledge;;;NP;1;1;323;26.32;1227
 MN;;;1021;Special Election for Council Member Ward 1 (Robbinsdale) (Special Primary);54808;9002;Noah Kolkman;;;NP;1;1;99;8.07;1227
 MN;;;1021;Special Election for Council Member Ward 1 (Robbinsdale) (Special Primary);54808;9003;Patrick Naillon;;;NP;1;1;138;11.25;1227
@@ -6807,16 +6807,16 @@ MN;;;4012;Town Supervisor Seat 2 (Ross Lake Township);55978;9001;Mark Caspers;;;
 MN;;;4012;Town Supervisor Seat 2 (Ross Lake Township);55978;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Ross Lake Township);55978;9001;Elaine Hill;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Ross Lake Township);55978;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Rothsay);56014;9001;Joe Tillman;;;NP;1;2;105;90.52;116
-MN;;;1001;Mayor (Rothsay);56014;9901;WRITE-IN;;;WI;1;2;11;9.48;116
-MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9001;Daryl Schleeter;;;NP;1;2;49;20.94;234
-MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9002;Darrell "Tolly" Tollefson;;;NP;1;2;54;23.08;234
-MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9003;Nathan Ziegler;;;NP;1;2;57;24.36;234
-MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9004;Shane Balken;;;NP;1;2;68;29.06;234
-MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9901;WRITE-IN;;;WI;1;2;6;2.56;234
-MN;;;1011;Council Member at Large (Rothsay);56014;9001;Heather Weber;;;NP;1;2;35;29.17;120
-MN;;;1011;Council Member at Large (Rothsay);56014;9002;Dana Holland Jr.;;;NP;1;2;85;70.83;120
-MN;;;1011;Council Member at Large (Rothsay);56014;9901;WRITE-IN;;;WI;1;2;0;0.00;120
+MN;;;1001;Mayor (Rothsay);56014;9001;Joe Tillman;;;NP;2;2;184;94.36;195
+MN;;;1001;Mayor (Rothsay);56014;9901;WRITE-IN;;;WI;2;2;11;5.64;195
+MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9001;Daryl Schleeter;;;NP;2;2;78;20.37;383
+MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9002;Darrell "Tolly" Tollefson;;;NP;2;2;82;21.41;383
+MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9003;Nathan Ziegler;;;NP;2;2;107;27.94;383
+MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9004;Shane Balken;;;NP;2;2;109;28.46;383
+MN;;;1010;Council Member at Large (Rothsay) (Elect 2);56014;9901;WRITE-IN;;;WI;2;2;7;1.83;383
+MN;;;1011;Council Member at Large (Rothsay);56014;9001;Heather Weber;;;NP;2;2;55;28.06;196
+MN;;;1011;Council Member at Large (Rothsay);56014;9002;Dana Holland Jr.;;;NP;2;2;141;71.94;196
+MN;;;1011;Council Member at Large (Rothsay);56014;9901;WRITE-IN;;;WI;2;2;0;0.00;196
 MN;;;4012;Town Supervisor Seat B (Round Lake Township);56050;9001;Jerry Wettels;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Round Lake Township);56050;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Round Lake Township);56050;9001;David Christianson;;;NP;0;1;0;0.00;0
@@ -6866,14 +6866,14 @@ MN;;;1010;Council Member (Russell) (Elect 2);56428;9003;Matt Kerkaert;;;NP;1;1;1
 MN;;;1010;Council Member (Russell) (Elect 2);56428;9901;WRITE-IN;;;WI;1;1;4;1.52;263
 MN;;;1131;CITY QUESTION 1 (Russell);56428;9001;YES;;;NP;1;1;112;71.79;156
 MN;;;1131;CITY QUESTION 1 (Russell);56428;9002;NO;;;NP;1;1;44;28.21;156
-MN;;;1001;Mayor (Ruthton);56482;9001;Toni Bakker;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Ruthton);56482;9002;Stan Townsend;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Ruthton);56482;9003;Casey Olson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Ruthton);56482;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9001;Darwin Sietsema;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9002;Lydia Velasquez;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9003;Jamie Johnson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Ruthton);56482;9001;Toni Bakker;;;NP;1;1;20;25.64;78
+MN;;;1001;Mayor (Ruthton);56482;9002;Stan Townsend;;;NP;1;1;57;73.08;78
+MN;;;1001;Mayor (Ruthton);56482;9003;Casey Olson;;;NP;1;1;0;0.00;78
+MN;;;1001;Mayor (Ruthton);56482;9901;WRITE-IN;;;WI;1;1;1;1.28;78
+MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9001;Darwin Sietsema;;;NP;1;1;49;36.57;134
+MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9002;Lydia Velasquez;;;NP;1;1;21;15.67;134
+MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9003;Jamie Johnson;;;NP;1;1;34;25.37;134
+MN;;;1010;Council Member (Ruthton) (Elect 2);56482;9901;WRITE-IN;;;WI;1;1;30;22.39;134
 MN;;;1001;Mayor (Rutledge);56518;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Rutledge);56518;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1060;City Clerk (Rutledge);56518;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -7014,10 +7014,10 @@ MN;;;1010;Council Member (St. Rosa) (Elect 2);58072;9002;Michael R Arnzen;;;NP;1
 MN;;;1010;Council Member (St. Rosa) (Elect 2);58072;9901;WRITE-IN;;;WI;1;1;1;2.22;45
 MN;;;1061;City Treasurer (St. Rosa);58072;9001;Bonnie Sunderman;;;NP;1;1;24;100.00;24
 MN;;;1061;City Treasurer (St. Rosa);58072;9901;WRITE-IN;;;WI;1;1;0;0.00;24
-MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9001;Danita Traut;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9002;Gene Skaj;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9003;Mike Gerdes;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9001;Danita Traut;;;NP;1;1;228;35.29;646
+MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9002;Gene Skaj;;;NP;1;1;211;32.66;646
+MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9003;Mike Gerdes;;;NP;1;1;197;30.50;646
+MN;;;1010;Council Member (St. Stephen) (Elect 2);58090;9901;WRITE-IN;;;WI;1;1;10;1.55;646
 MN;;;1001;Mayor (St. Vincent);58144;9001;Evan P. Herberg;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (St. Vincent);58144;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (St. Vincent) (Elect 2);58144;9001;Anita Herberg;;;NP;0;1;0;0.00;0
@@ -7102,17 +7102,17 @@ MN;;;4012;Town Supervisor Seat B (Scandia Valley Township);58918;9001;Alan Card;
 MN;;;4012;Town Supervisor Seat B (Scandia Valley Township);58918;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Scandia Valley Township);58918;9001;Anella Veith;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Scandia Valley Township);58918;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Scanlon);58936;9001;Ron Stigers;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Scanlon);58936;9002;Joshua J Kolodge;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Scanlon);58936;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9001;Jesse S Johnson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9002;Michael (Mike) Berthiaume;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9003;Cody Grashorn;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9004;Marshall Johnson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Scanlon);58936;9001;Annette F. Bryant;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Scanlon);58936;9002;Jason Bartl;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Scanlon);58936;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Scanlon);58936;9001;Ron Stigers;;;NP;1;1;259;58.47;443
+MN;;;1001;Mayor (Scanlon);58936;9002;Joshua J Kolodge;;;NP;1;1;177;39.95;443
+MN;;;1001;Mayor (Scanlon);58936;9901;WRITE-IN;;;WI;1;1;7;1.58;443
+MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9001;Jesse S Johnson;;;NP;1;1;127;17.47;727
+MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9002;Michael (Mike) Berthiaume;;;NP;1;1;229;31.50;727
+MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9003;Cody Grashorn;;;NP;1;1;195;26.82;727
+MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9004;Marshall Johnson;;;NP;1;1;171;23.52;727
+MN;;;1010;Council Member (Scanlon) (Elect 2);58936;9901;WRITE-IN;;;WI;1;1;5;0.69;727
+MN;;;1012;Special Election for Council Member (Scanlon);58936;9001;Annette F. Bryant;;;NP;1;1;230;54.76;420
+MN;;;1012;Special Election for Council Member (Scanlon);58936;9002;Jason Bartl;;;NP;1;1;183;43.57;420
+MN;;;1012;Special Election for Council Member (Scanlon);58936;9901;WRITE-IN;;;WI;1;1;7;1.67;420
 MN;;;4010;Town Supervisor Seat A (Schoolcraft Township);58972;9001;John Schmitt;;;NP;1;1;53;100.00;53
 MN;;;4010;Town Supervisor Seat A (Schoolcraft Township);58972;9901;WRITE-IN;;;WI;1;1;0;0.00;53
 MN;;;4012;Town Supervisor Seat B (Schoolcraft Township);58972;9001;Jim Card;;;NP;1;1;25;43.86;57
@@ -7244,30 +7244,30 @@ MN;;;4023;Town Clerk - Treasurer (Sibley Township);60124;9001;David Kahle;;;NP;1
 MN;;;4023;Town Clerk - Treasurer (Sibley Township);60124;9901;WRITE-IN;;;WI;1;1;2;1.55;129
 MN;;;4013;Town Supervisor Seat C (Sigel Township);60160;9001;David Hoffmann;;;NP;1;1;165;96.49;171
 MN;;;4013;Town Supervisor Seat C (Sigel Township);60160;9901;WRITE-IN;;;WI;1;1;6;3.51;171
-MN;;;4012;Town Supervisor Seat B (Silver Township);60232;9001;David Isaacson;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Silver Township);60232;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Silver Township);60232;9001;Earl K Nett;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Silver Township);60232;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Silver Township);60232;9001;Naomi Mowers;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Silver Township);60232;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Silver Township);60232;9001;David Isaacson;;;NP;1;1;178;95.19;187
+MN;;;4012;Town Supervisor Seat B (Silver Township);60232;9901;WRITE-IN;;;WI;1;1;9;4.81;187
+MN;;;4013;Town Supervisor Seat C (Silver Township);60232;9001;Earl K Nett;;;NP;1;1;150;83.80;179
+MN;;;4013;Town Supervisor Seat C (Silver Township);60232;9901;WRITE-IN;;;WI;1;1;29;16.20;179
+MN;;;4022;Town Treasurer (Silver Township);60232;9001;Naomi Mowers;;;NP;1;1;176;98.88;178
+MN;;;4022;Town Treasurer (Silver Township);60232;9901;WRITE-IN;;;WI;1;1;2;1.12;178
 MN;;;1001;Mayor (Silver Bay);60250;9001;Wade LeBlanc;;;NP;2;2;755;97.92;771
 MN;;;1001;Mayor (Silver Bay);60250;9901;WRITE-IN;;;WI;2;2;16;2.08;771
 MN;;;1010;Council Member at Large (Silver Bay) (Elect 2);60250;9001;Richard DeRosier;;;NP;2;2;631;49.49;1275
 MN;;;1010;Council Member at Large (Silver Bay) (Elect 2);60250;9002;Shane Hoff;;;NP;2;2;620;48.63;1275
 MN;;;1010;Council Member at Large (Silver Bay) (Elect 2);60250;9901;WRITE-IN;;;WI;2;2;24;1.88;1275
-MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9001;Randy Wolf;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9002;Mike Tondryk;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9003;Duane Laveau;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Silver Brook Township);60268;9001;Deborah A. Nyberg;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Silver Brook Township);60268;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat 1 (Silver Creek Township);60340;9001;Michael Romanski;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat 1 (Silver Creek Township);60340;9002;Ryan Nelson;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat 1 (Silver Creek Township);60340;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Special Election for Town Supervisor Seat 2 (Silver Creek Township);60340;9001;Chris Newman;;;NP;0;1;0;0.00;0
-MN;;;4012;Special Election for Town Supervisor Seat 2 (Silver Creek Township);60340;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Silver Creek Township);60340;9001;Brandon Geyen;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Silver Creek Township);60340;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9001;Randy Wolf;;;NP;1;1;230;41.82;550
+MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9002;Mike Tondryk;;;NP;1;1;84;15.27;550
+MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9003;Duane Laveau;;;NP;1;1;235;42.73;550
+MN;;;4001;Town Supervisor at Large (Silver Brook Township) (Elect 2);60268;9901;WRITE-IN;;;WI;1;1;1;0.18;550
+MN;;;4022;Town Treasurer (Silver Brook Township);60268;9001;Deborah A. Nyberg;;;NP;1;1;301;99.67;302
+MN;;;4022;Town Treasurer (Silver Brook Township);60268;9901;WRITE-IN;;;WI;1;1;1;0.33;302
+MN;;;4010;Town Supervisor Seat 1 (Silver Creek Township);60340;9001;Michael Romanski;;;NP;1;1;285;26.17;1089
+MN;;;4010;Town Supervisor Seat 1 (Silver Creek Township);60340;9002;Ryan Nelson;;;NP;1;1;791;72.64;1089
+MN;;;4010;Town Supervisor Seat 1 (Silver Creek Township);60340;9901;WRITE-IN;;;WI;1;1;13;1.19;1089
+MN;;;4012;Special Election for Town Supervisor Seat 2 (Silver Creek Township);60340;9001;Chris Newman;;;NP;1;1;946;97.63;969
+MN;;;4012;Special Election for Town Supervisor Seat 2 (Silver Creek Township);60340;9901;WRITE-IN;;;WI;1;1;23;2.37;969
+MN;;;4013;Town Supervisor Seat 3 (Silver Creek Township);60340;9001;Brandon Geyen;;;NP;1;1;924;95.85;964
+MN;;;4013;Town Supervisor Seat 3 (Silver Creek Township);60340;9901;WRITE-IN;;;WI;1;1;40;4.15;964
 MN;;;1001;Mayor (Silver Lake);60376;9001;Bruce Bebo;;;NP;1;1;284;94.35;301
 MN;;;1001;Mayor (Silver Lake);60376;9901;WRITE-IN;;;WI;1;1;17;5.65;301
 MN;;;1010;Council Member (Silver Lake) (Elect 2);60376;9001;Joanna Jacobs;;;NP;1;1;249;55.83;446
@@ -7295,10 +7295,10 @@ MN;;;4013;Town Supervisor Seat C (Skane Township);60646;9001;Chris Mortenson;;;N
 MN;;;4013;Town Supervisor Seat C (Skane Township);60646;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Skane Township);60646;9001;Glen J. Lundberg;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Skane Township);60646;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Skelton Township);60664;9001;Nolan Peterson;;;NP;0;1;0;0.00;0
-MN;;;4001;Town Supervisor at Large (Skelton Township);60664;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Skelton Township);60664;9001;Linda A. Loons;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Skelton Township);60664;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4001;Town Supervisor at Large (Skelton Township);60664;9001;Nolan Peterson;;;NP;1;1;199;100.00;199
+MN;;;4001;Town Supervisor at Large (Skelton Township);60664;9901;WRITE-IN;;;WI;1;1;0;0.00;199
+MN;;;4021;Town Clerk (Skelton Township);60664;9001;Linda A. Loons;;;NP;1;1;199;100.00;199
+MN;;;4021;Town Clerk (Skelton Township);60664;9901;WRITE-IN;;;WI;1;1;0;0.00;199
 MN;;;1001;Mayor (Skyline);60754;9001;Paige L Attarian;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Skyline);60754;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Skyline) (Elect 2);60754;9001;Joanne Boettcher;;;NP;0;1;0;0.00;0
@@ -7394,9 +7394,9 @@ MN;;;1010;Council Member (Spicer) (Elect 2);61690;9001;Troy S. Block;;;NP;1;1;33
 MN;;;1010;Council Member (Spicer) (Elect 2);61690;9002;Zachary Larson;;;NP;1;1;278;30.96;898
 MN;;;1010;Council Member (Spicer) (Elect 2);61690;9003;Shelly Munyon;;;NP;1;1;282;31.40;898
 MN;;;1010;Council Member (Spicer) (Elect 2);61690;9901;WRITE-IN;;;WI;1;1;7;0.78;898
-MN;;;4010;Town Supervisor Seat A (Split Rock Township);61708;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Special Election for Town Clerk (Split Rock Township);61708;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Split Rock Township);61708;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Split Rock Township);61708;9901;WRITE-IN;;;WI;1;1;23;100.00;23
+MN;;;4021;Special Election for Town Clerk (Split Rock Township);61708;9901;WRITE-IN;;;WI;1;1;21;100.00;21
+MN;;;4022;Town Treasurer (Split Rock Township);61708;9901;WRITE-IN;;;WI;1;1;21;100.00;21
 MN;;;4013;Town Supervisor Seat C (Spring Brook Township);61744;9001;Christopher Oliver;;;NP;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Spring Brook Township);61744;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Spring Brook Township);61744;9001;Beverley Heppner;;;NP;0;1;0;0.00;0
@@ -7679,12 +7679,12 @@ MN;;;1001;Mayor (Taunton);64264;9901;WRITE-IN;;;WI;1;1;9;19.15;47
 MN;;;1010;Council Member (Taunton) (Elect 2);64264;9001;Jim Pesch;;;NP;1;1;42;50.60;83
 MN;;;1010;Council Member (Taunton) (Elect 2);64264;9002;Laurie Fales;;;NP;1;1;35;42.17;83
 MN;;;1010;Council Member (Taunton) (Elect 2);64264;9901;WRITE-IN;;;WI;1;1;6;7.23;83
-MN;;;4012;Town Supervisor Seat 2 (Taylor Township);64300;9001;Dean Holtz;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat 2 (Taylor Township);64300;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Taylor Township);64300;9001;Brad Raguse;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat 3 (Taylor Township);64300;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Taylor Township);64300;9001;Jeff Krump;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Taylor Township);64300;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat 2 (Taylor Township);64300;9001;Dean Holtz;;;NP;1;1;35;100.00;35
+MN;;;4012;Town Supervisor Seat 2 (Taylor Township);64300;9901;WRITE-IN;;;WI;1;1;0;0.00;35
+MN;;;4013;Town Supervisor Seat 3 (Taylor Township);64300;9001;Brad Raguse;;;NP;1;1;35;100.00;35
+MN;;;4013;Town Supervisor Seat 3 (Taylor Township);64300;9901;WRITE-IN;;;WI;1;1;0;0.00;35
+MN;;;4022;Town Treasurer (Taylor Township);64300;9001;Jeff Krump;;;NP;1;1;36;100.00;36
+MN;;;4022;Town Treasurer (Taylor Township);64300;9901;WRITE-IN;;;WI;1;1;0;0.00;36
 MN;;;1001;Mayor (Taylors Falls);64318;9001;Brandon Weiberg;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Taylors Falls);64318;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Taylors Falls) (Elect 2);64318;9001;Tim Grote;;;NP;0;1;0;0.00;0
@@ -7711,14 +7711,14 @@ MN;;;4012;Town Supervisor Seat B (Thief Lake Township);64552;9001;Harry Scramsta
 MN;;;4012;Town Supervisor Seat B (Thief Lake Township);64552;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Thief Lake Township);64552;9001;Sybil Cwikla;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Thief Lake Township);64552;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Thief River Falls);64570;9001;Brian Holmer;;;NP;3;7;627;92.07;681
-MN;;;1001;Mayor (Thief River Falls);64570;9901;WRITE-IN;;;WI;3;7;54;7.93;681
-MN;;;1010;Council Member at Large (Thief River Falls);64570;9001;Cainan Langlie;;;NP;3;7;245;33.24;737
-MN;;;1010;Council Member at Large (Thief River Falls);64570;9002;Steven Narverud;;;NP;3;7;485;65.81;737
-MN;;;1010;Council Member at Large (Thief River Falls);64570;9901;WRITE-IN;;;WI;3;7;7;0.95;737
-MN;;;1020;Council Member Ward 1 (Thief River Falls);64570;9001;Curtis Howe;;;NP;0;2;0;0.00;0
-MN;;;1020;Council Member Ward 1 (Thief River Falls);64570;9002;Megan Bourne;;;NP;0;2;0;0.00;0
-MN;;;1020;Council Member Ward 1 (Thief River Falls);64570;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Thief River Falls);64570;9001;Brian Holmer;;;NP;4;7;836;91.27;916
+MN;;;1001;Mayor (Thief River Falls);64570;9901;WRITE-IN;;;WI;4;7;80;8.73;916
+MN;;;1010;Council Member at Large (Thief River Falls);64570;9001;Cainan Langlie;;;NP;4;7;343;33.86;1013
+MN;;;1010;Council Member at Large (Thief River Falls);64570;9002;Steven Narverud;;;NP;4;7;656;64.76;1013
+MN;;;1010;Council Member at Large (Thief River Falls);64570;9901;WRITE-IN;;;WI;4;7;14;1.38;1013
+MN;;;1020;Council Member Ward 1 (Thief River Falls);64570;9001;Curtis Howe;;;NP;1;2;101;36.59;276
+MN;;;1020;Council Member Ward 1 (Thief River Falls);64570;9002;Megan Bourne;;;NP;1;2;173;62.68;276
+MN;;;1020;Council Member Ward 1 (Thief River Falls);64570;9901;WRITE-IN;;;WI;1;2;2;0.72;276
 MN;;;1024;Council Member Ward 3 (Thief River Falls);64570;9001;Mike Lorenson;;;NP;2;2;245;96.46;254
 MN;;;1024;Council Member Ward 3 (Thief River Falls);64570;9901;WRITE-IN;;;WI;2;2;9;3.54;254
 MN;;;1028;Council Member Ward 5 (Thief River Falls);64570;9001;David Rist;;;NP;0;1;0;0.00;0
@@ -7733,14 +7733,14 @@ MN;;;4013;Town Supervisor Seat C (Thompson Township);64642;9001;Edward Lehrke;;;
 MN;;;4013;Town Supervisor Seat C (Thompson Township);64642;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Thompson Township);64642;9001;Angie Sobolik;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Thompson Township);64642;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Thomson Township);64768;9001;Terry W. Hill;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Thomson Township);64768;9002;Amna Hanson;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Thomson Township);64768;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Thomson Township);64768;9001;Ruth Janke;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Thomson Township);64768;9002;Parrish Silbernagel;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Thomson Township);64768;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4015;Town Supervisor Seat E (Thomson Township);64768;9001;Anthony (Tony) Compo;;;NP;0;1;0;0.00;0
-MN;;;4015;Town Supervisor Seat E (Thomson Township);64768;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Thomson Township);64768;9001;Terry W. Hill;;;NP;1;1;1549;66.68;2323
+MN;;;4010;Town Supervisor Seat A (Thomson Township);64768;9002;Amna Hanson;;;NP;1;1;766;32.97;2323
+MN;;;4010;Town Supervisor Seat A (Thomson Township);64768;9901;WRITE-IN;;;WI;1;1;8;0.34;2323
+MN;;;4012;Town Supervisor Seat B (Thomson Township);64768;9001;Ruth Janke;;;NP;1;1;1810;78.56;2304
+MN;;;4012;Town Supervisor Seat B (Thomson Township);64768;9002;Parrish Silbernagel;;;NP;1;1;482;20.92;2304
+MN;;;4012;Town Supervisor Seat B (Thomson Township);64768;9901;WRITE-IN;;;WI;1;1;12;0.52;2304
+MN;;;4015;Town Supervisor Seat E (Thomson Township);64768;9001;Anthony (Tony) Compo;;;NP;1;1;2078;99.00;2099
+MN;;;4015;Town Supervisor Seat E (Thomson Township);64768;9901;WRITE-IN;;;WI;1;1;21;1.00;2099
 MN;;;4010;Town Supervisor Seat A (Thorpe Township);64804;9001;Lorlie Harrington;;;NP;1;1;17;100.00;17
 MN;;;4010;Town Supervisor Seat A (Thorpe Township);64804;9901;WRITE-IN;;;WI;1;1;0;0.00;17
 MN;;;4012;Town Supervisor Seat B (Thorpe Township);64804;9001;Isaiah Mooney;;;NP;1;1;12;63.16;19
@@ -7796,13 +7796,13 @@ MN;;;1010;Council Member (Tower) (Elect 2);65272;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Tower);65272;9001;Tom Suihkonen;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Tower);65272;9002;Joshua Zika;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Tower);65272;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Tracy);65308;9001;Tony Peterson;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Tracy);65308;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Tracy) (Elect 3);65308;9001;Jeri Schons;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Tracy) (Elect 3);65308;9002;Dave Tiegs;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Tracy) (Elect 3);65308;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Tracy);65308;9001;Tom Dobson;;;NP;0;1;0;0.00;0
-MN;;;1012;Special Election for Council Member (Tracy);65308;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Tracy);65308;9001;Tony Peterson;;;NP;1;1;301;46.38;649
+MN;;;1001;Mayor (Tracy);65308;9901;WRITE-IN;;;WI;1;1;348;53.62;649
+MN;;;1010;Council Member (Tracy) (Elect 3);65308;9001;Jeri Schons;;;NP;1;1;495;37.41;1323
+MN;;;1010;Council Member (Tracy) (Elect 3);65308;9002;Dave Tiegs;;;NP;1;1;464;35.07;1323
+MN;;;1010;Council Member (Tracy) (Elect 3);65308;9901;WRITE-IN;;;WI;1;1;364;27.51;1323
+MN;;;1012;Special Election for Council Member (Tracy);65308;9001;Tom Dobson;;;NP;1;1;589;97.36;605
+MN;;;1012;Special Election for Council Member (Tracy);65308;9901;WRITE-IN;;;WI;1;1;16;2.64;605
 MN;;;1001;Mayor (Trail);65344;9001;Chasity Elbinger;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Trail);65344;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Trail) (Elect 2);65344;9001;Kandys White;;;NP;0;1;0;0.00;0
@@ -7849,15 +7849,15 @@ MN;;;4013;Town Supervisor Seat C (Trondhjem Township);65524;9001;Cary Danielson;
 MN;;;4013;Town Supervisor Seat C (Trondhjem Township);65524;9901;WRITE-IN;;;WI;1;1;0;0.00;81
 MN;;;4022;Town Treasurer (Trondhjem Township);65524;9001;Gary Johnson;;;NP;1;1;81;100.00;81
 MN;;;4022;Town Treasurer (Trondhjem Township);65524;9901;WRITE-IN;;;WI;1;1;0;0.00;81
-MN;;;1001;Mayor (Trosky);65542;9001;Ron Klumper;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Trosky);65542;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Trosky);65542;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1011;Council Member (Trosky);65542;9001;Douglas Smidt;;;NP;0;1;0;0.00;0
-MN;;;1011;Council Member (Trosky);65542;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1060;City Clerk (Trosky);65542;9001;Cheri Blom;;;NP;0;1;0;0.00;0
-MN;;;1060;City Clerk (Trosky);65542;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1061;City Treasurer (Trosky);65542;9001;Debra VanMeeteren;;;NP;0;1;0;0.00;0
-MN;;;1061;City Treasurer (Trosky);65542;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Trosky);65542;9001;Ron Klumper;;;NP;1;1;29;85.29;34
+MN;;;1001;Mayor (Trosky);65542;9901;WRITE-IN;;;WI;1;1;5;14.71;34
+MN;;;1010;Council Member (Trosky);65542;9901;WRITE-IN;;;WI;1;1;16;100.00;16
+MN;;;1011;Council Member (Trosky);65542;9001;Douglas Smidt;;;NP;1;1;31;91.18;34
+MN;;;1011;Council Member (Trosky);65542;9901;WRITE-IN;;;WI;1;1;3;8.82;34
+MN;;;1060;City Clerk (Trosky);65542;9001;Cheri Blom;;;NP;1;1;32;94.12;34
+MN;;;1060;City Clerk (Trosky);65542;9901;WRITE-IN;;;WI;1;1;2;5.88;34
+MN;;;1061;City Treasurer (Trosky);65542;9001;Debra VanMeeteren;;;NP;1;1;29;87.88;33
+MN;;;1061;City Treasurer (Trosky);65542;9901;WRITE-IN;;;WI;1;1;4;12.12;33
 MN;;;4010;Town Supervisor Seat A (Trout Lake Township);65596;9001;Mike Partlow;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Trout Lake Township);65596;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (Trout Lake Township);65596;9001;Pamela Perry;;;NP;0;1;0;0.00;0
@@ -7887,10 +7887,10 @@ MN;;;1001;Mayor (Turtle River);65794;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Turtle River) (Elect 2);65794;9001;Dave Carlson;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Turtle River) (Elect 2);65794;9002;Al Vesley;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Turtle River) (Elect 2);65794;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Twin Lakes Township);65902;9001;Randy Willie;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Twin Lakes Township);65902;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Twin Lakes Township);65902;9001;John Vernon;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Twin Lakes Township);65902;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Twin Lakes Township);65902;9001;Randy Willie;;;NP;1;1;892;98.78;903
+MN;;;4010;Town Supervisor Seat A (Twin Lakes Township);65902;9901;WRITE-IN;;;WI;1;1;11;1.22;903
+MN;;;4012;Town Supervisor Seat B (Twin Lakes Township);65902;9001;John Vernon;;;NP;1;1;887;99.00;896
+MN;;;4012;Town Supervisor Seat B (Twin Lakes Township);65902;9901;WRITE-IN;;;WI;1;1;9;1.00;896
 MN;;;1001;Mayor (Twin Lakes);65920;9001;Kathryn Benschoter;;;NP;0;1;0;0.00;0
 MN;;;1001;Mayor (Twin Lakes);65920;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Twin Lakes) (Elect 2);65920;9001;Lynda Vis;;;NP;0;1;0;0.00;0
@@ -7951,12 +7951,12 @@ MN;;;1001;Mayor (Urbank);66388;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1010;Council Member (Urbank) (Elect 2);66388;9001;Sarah Hendrickson;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Urbank) (Elect 2);66388;9002;Mark Allen Koep;;;NP;0;1;0;0.00;0
 MN;;;1010;Council Member (Urbank) (Elect 2);66388;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Utica);66424;9001;Jennifer Bronk;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Utica);66424;9002;Chad Dailey;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Utica);66424;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Utica) (Elect 2);66424;9001;Dan Lewis;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Utica) (Elect 2);66424;9002;Alanna Kieffer;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Utica) (Elect 2);66424;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Utica);66424;9001;Jennifer Bronk;;;NP;1;1;54;42.19;128
+MN;;;1001;Mayor (Utica);66424;9002;Chad Dailey;;;NP;1;1;67;52.34;128
+MN;;;1001;Mayor (Utica);66424;9901;WRITE-IN;;;WI;1;1;7;5.47;128
+MN;;;1010;Council Member (Utica) (Elect 2);66424;9001;Dan Lewis;;;NP;1;1;95;48.22;197
+MN;;;1010;Council Member (Utica) (Elect 2);66424;9002;Alanna Kieffer;;;NP;1;1;84;42.64;197
+MN;;;1010;Council Member (Utica) (Elect 2);66424;9901;WRITE-IN;;;WI;1;1;18;9.14;197
 MN;;;1001;Mayor (Vadnais Heights);66460;9001;Greg Urban;;;NP;4;4;2130;38.14;5585
 MN;;;1001;Mayor (Vadnais Heights);66460;9002;Joseph Scrocca;;;NP;4;4;824;14.75;5585
 MN;;;1001;Mayor (Vadnais Heights);66460;9003;Michael (Mike) Krachmer;;;NP;4;4;2595;46.46;5585
@@ -8014,12 +8014,12 @@ MN;;;1010;Council Member (Vernon Center) (Elect 2);66910;9002;Adam Finney;;;NP;0
 MN;;;1010;Council Member (Vernon Center) (Elect 2);66910;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat 3 (Vernon Center Township);66928;9001;Robert Roelofs;;;NP;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat 3 (Vernon Center Township);66928;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Verona Township);66946;9001;Neal Mensing;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Verona Township);66946;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Verona Township);66946;9001;Doug Hill;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Verona Township);66946;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Verona Township);66946;9001;Donald Selvig;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Verona Township);66946;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Verona Township);66946;9001;Neal Mensing;;;NP;1;1;141;97.24;145
+MN;;;4010;Town Supervisor Seat A (Verona Township);66946;9901;WRITE-IN;;;WI;1;1;4;2.76;145
+MN;;;4013;Town Supervisor Seat C (Verona Township);66946;9001;Doug Hill;;;NP;1;1;148;96.73;153
+MN;;;4013;Town Supervisor Seat C (Verona Township);66946;9901;WRITE-IN;;;WI;1;1;5;3.27;153
+MN;;;4022;Town Treasurer (Verona Township);66946;9001;Donald Selvig;;;NP;1;1;153;99.35;154
+MN;;;4022;Town Treasurer (Verona Township);66946;9901;WRITE-IN;;;WI;1;1;1;0.65;154
 MN;;;1001;Mayor (Vesta);66982;9001;Warren Kolander;;;NP;1;1;49;48.51;101
 MN;;;1001;Mayor (Vesta);66982;9901;WRITE-IN;;;WI;1;1;52;51.49;101
 MN;;;1010;Council Member (Vesta) (Elect 2);66982;9001;Joseph Bitton;;;NP;1;1;32;16.58;193
@@ -8393,12 +8393,12 @@ MN;;;1022;Council Member Ward 2 (West St. Paul);69700;9901;WRITE-IN;;;WI;0;2;0;0
 MN;;;1024;Council Member Ward 3 (West St. Paul);69700;9001;Jake Nelson;;;NP;0;2;0;0.00;0
 MN;;;1024;Council Member Ward 3 (West St. Paul);69700;9002;Wendy Berry;;;NP;0;2;0;0.00;0
 MN;;;1024;Council Member Ward 3 (West St. Paul);69700;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1001;Mayor (West Union);69736;9001;Roger Engle;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (West Union);69736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (West Union);69736;9001;Mark Quistorff;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (West Union);69736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1060;City Clerk (West Union);69736;9001;Janet Macey;;;NP;0;1;0;0.00;0
-MN;;;1060;City Clerk (West Union);69736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (West Union);69736;9001;Roger Engle;;;NP;1;1;37;94.87;39
+MN;;;1001;Mayor (West Union);69736;9901;WRITE-IN;;;WI;1;1;2;5.13;39
+MN;;;1010;Council Member (West Union);69736;9001;Mark Quistorff;;;NP;1;1;39;100.00;39
+MN;;;1010;Council Member (West Union);69736;9901;WRITE-IN;;;WI;1;1;0;0.00;39
+MN;;;1060;City Clerk (West Union);69736;9001;Janet Macey;;;NP;1;1;37;94.87;39
+MN;;;1060;City Clerk (West Union);69736;9901;WRITE-IN;;;WI;1;1;2;5.13;39
 MN;;;4010;Town Supervisor Seat A (West Valley Township);69772;9001;Jerold Rux;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (West Valley Township);69772;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4013;Town Supervisor Seat C (West Valley Township);69772;9001;Stanley Adlis;;;NP;0;1;0;0.00;0
@@ -8494,12 +8494,12 @@ MN;;;1010;Council Member (Willow River) (Elect 2);70492;9003;Sheldon Johnson;;;N
 MN;;;1010;Council Member (Willow River) (Elect 2);70492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Willow River);70492;9001;Art Underhill;;;NP;0;1;0;0.00;0
 MN;;;1012;Special Election for Council Member (Willow River);70492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Willow Valley Township);70510;9001;Dave Udovich;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Willow Valley Township);70510;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Willow Valley Township);70510;9001;Jolene Blake;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Willow Valley Township);70510;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Willow Valley Township);70510;9001;Jess Blake;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Willow Valley Township);70510;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4012;Town Supervisor Seat B (Willow Valley Township);70510;9001;Dave Udovich;;;NP;1;1;50;100.00;50
+MN;;;4012;Town Supervisor Seat B (Willow Valley Township);70510;9901;WRITE-IN;;;WI;1;1;0;0.00;50
+MN;;;4013;Town Supervisor Seat C (Willow Valley Township);70510;9001;Jolene Blake;;;NP;1;1;47;97.92;48
+MN;;;4013;Town Supervisor Seat C (Willow Valley Township);70510;9901;WRITE-IN;;;WI;1;1;1;2.08;48
+MN;;;4022;Town Treasurer (Willow Valley Township);70510;9001;Jess Blake;;;NP;1;1;49;100.00;49
+MN;;;4022;Town Treasurer (Willow Valley Township);70510;9901;WRITE-IN;;;WI;1;1;0;0.00;49
 MN;;;1001;Mayor (Wilmont);70582;9901;WRITE-IN;;;WI;1;1;72;100.00;72
 MN;;;1010;Council Member (Wilmont) (Elect 2);70582;9001;Joshua L. Balster;;;NP;1;1;107;74.31;144
 MN;;;1010;Council Member (Wilmont) (Elect 2);70582;9901;WRITE-IN;;;WI;1;1;37;25.69;144
@@ -8614,14 +8614,14 @@ MN;;;1001;Mayor (Wood Lake);71446;9901;WRITE-IN;;;WI;1;1;13;8.78;148
 MN;;;1010;Council Member (Wood Lake) (Elect 2);71446;9001;Bradley Timm;;;NP;1;1;115;46.56;247
 MN;;;1010;Council Member (Wood Lake) (Elect 2);71446;9002;Wayne Tonn;;;NP;1;1;125;50.61;247
 MN;;;1010;Council Member (Wood Lake) (Elect 2);71446;9901;WRITE-IN;;;WI;1;1;7;2.83;247
-MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9001;Mike Kvendru;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9002;Brooks Torke;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9003;Delaine Peterson;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Wood Lake Township);71464;9001;Mike Imes;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Wood Lake Township);71464;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Wood Lake Township);71464;9001;Lori Peterson;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Wood Lake Township);71464;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9001;Mike Kvendru;;;NP;1;1;17;14.66;116
+MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9002;Brooks Torke;;;NP;1;1;12;10.34;116
+MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9003;Delaine Peterson;;;NP;1;1;86;74.14;116
+MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9901;WRITE-IN;;;WI;1;1;1;0.86;116
+MN;;;4013;Town Supervisor Seat C (Wood Lake Township);71464;9001;Mike Imes;;;NP;1;1;108;95.58;113
+MN;;;4013;Town Supervisor Seat C (Wood Lake Township);71464;9901;WRITE-IN;;;WI;1;1;5;4.42;113
+MN;;;4021;Town Clerk (Wood Lake Township);71464;9001;Lori Peterson;;;NP;1;1;109;98.20;111
+MN;;;4021;Town Clerk (Wood Lake Township);71464;9901;WRITE-IN;;;WI;1;1;2;1.80;111
 MN;;;1010;Council Member (Woodland) (Elect 2);71500;9001;David Daniels;;;NP;1;1;158;47.73;331
 MN;;;1010;Council Member (Woodland) (Elect 2);71500;9002;Hank Zucker;;;NP;1;1;168;50.76;331
 MN;;;1010;Council Member (Woodland) (Elect 2);71500;9901;WRITE-IN;;;WI;1;1;5;1.51;331
@@ -8630,13 +8630,13 @@ MN;;;4012;Town Supervisor Seat 2 (Woodrow Township);71608;9901;WRITE-IN;;;WI;1;1
 MN;;;4013;Town Supervisor Seat 3 (Woodrow Township);71608;9901;WRITE-IN;;;WI;1;1;95;100.00;95
 MN;;;4022;Town Treasurer (Woodrow Township);71608;9001;Tim Mueller;;;NP;1;1;288;98.97;291
 MN;;;4022;Town Treasurer (Woodrow Township);71608;9901;WRITE-IN;;;WI;1;1;3;1.03;291
-MN;;;1001;Mayor (Woodstock);71680;9001;Austin Kruisselbrink;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Woodstock);71680;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9001;Michelle Powers;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9002;Amanda Burke;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9003;Alex Matos;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9004;Skip Fey;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Woodstock);71680;9001;Austin Kruisselbrink;;;NP;1;1;37;94.87;39
+MN;;;1001;Mayor (Woodstock);71680;9901;WRITE-IN;;;WI;1;1;2;5.13;39
+MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9001;Michelle Powers;;;NP;1;1;25;33.33;75
+MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9002;Amanda Burke;;;NP;1;1;19;25.33;75
+MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9003;Alex Matos;;;NP;1;1;6;8.00;75
+MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9004;Skip Fey;;;NP;1;1;25;33.33;75
+MN;;;1010;Council Member (Woodstock) (Elect 2);71680;9901;WRITE-IN;;;WI;1;1;0;0.00;75
 MN;;;4010;Town Supervisor Seat 1 (Woodville Township);71698;9001;Rodney Born;;;NP;0;2;0;0.00;0
 MN;;;4010;Town Supervisor Seat 1 (Woodville Township);71698;9901;WRITE-IN;;;WI;0;2;0;0.00;0
 MN;;;4021;Town Clerk (Woodville Township);71698;9001;Joel F. Weber;;;NP;0;2;0;0.00;0
@@ -8667,22 +8667,22 @@ MN;;;4013;Town Supervisor Seat C (Worthington Township);71752;9001;Wayne Klumper
 MN;;;4013;Town Supervisor Seat C (Worthington Township);71752;9901;WRITE-IN;;;WI;1;1;1;0.87;115
 MN;;;4021;Town Clerk (Worthington Township);71752;9001;Josh Petersen;;;NP;1;1;112;97.39;115
 MN;;;4021;Town Clerk (Worthington Township);71752;9901;WRITE-IN;;;WI;1;1;3;2.61;115
-MN;;;1001;Mayor (Wrenshall);71788;9001;Gary L. Butala;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Wrenshall);71788;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Wrenshall) (Elect 2);71788;9001;Joyce Gvesrude;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Wrenshall) (Elect 2);71788;9002;Duane R. Ziebarth;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Wrenshall) (Elect 2);71788;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Wrenshall Township);71806;9001;Dwain Meyer;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Wrenshall Township);71806;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Wrenshall Township);71806;9001;Henry (Hank) Wyman;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Wrenshall Township);71806;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Wrenshall Township);71806;9001;Shelly Wisniewski;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Wrenshall Township);71806;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1001;Mayor (Wright);71824;9001;Donovan E Ranta;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Wright);71824;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Wright) (Elect 2);71824;9001;Terri A. Lott;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Wright) (Elect 2);71824;9002;Shale L Korpela;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member at Large (Wright) (Elect 2);71824;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Wrenshall);71788;9001;Gary L. Butala;;;NP;1;1;183;95.81;191
+MN;;;1001;Mayor (Wrenshall);71788;9901;WRITE-IN;;;WI;1;1;8;4.19;191
+MN;;;1010;Council Member at Large (Wrenshall) (Elect 2);71788;9001;Joyce Gvesrude;;;NP;1;1;113;40.36;280
+MN;;;1010;Council Member at Large (Wrenshall) (Elect 2);71788;9002;Duane R. Ziebarth;;;NP;1;1;163;58.21;280
+MN;;;1010;Council Member at Large (Wrenshall) (Elect 2);71788;9901;WRITE-IN;;;WI;1;1;4;1.43;280
+MN;;;4012;Town Supervisor Seat B (Wrenshall Township);71806;9001;Dwain Meyer;;;NP;1;1;192;99.48;193
+MN;;;4012;Town Supervisor Seat B (Wrenshall Township);71806;9901;WRITE-IN;;;WI;1;1;1;0.52;193
+MN;;;4013;Town Supervisor Seat C (Wrenshall Township);71806;9001;Henry (Hank) Wyman;;;NP;1;1;199;99.00;201
+MN;;;4013;Town Supervisor Seat C (Wrenshall Township);71806;9901;WRITE-IN;;;WI;1;1;2;1.00;201
+MN;;;4022;Town Treasurer (Wrenshall Township);71806;9001;Shelly Wisniewski;;;NP;1;1;192;100.00;192
+MN;;;4022;Town Treasurer (Wrenshall Township);71806;9901;WRITE-IN;;;WI;1;1;0;0.00;192
+MN;;;1001;Mayor (Wright);71824;9001;Donovan E Ranta;;;NP;1;1;38;97.44;39
+MN;;;1001;Mayor (Wright);71824;9901;WRITE-IN;;;WI;1;1;1;2.56;39
+MN;;;1010;Council Member at Large (Wright) (Elect 2);71824;9001;Terri A. Lott;;;NP;1;1;28;51.85;54
+MN;;;1010;Council Member at Large (Wright) (Elect 2);71824;9002;Shale L Korpela;;;NP;1;1;24;44.44;54
+MN;;;1010;Council Member at Large (Wright) (Elect 2);71824;9901;WRITE-IN;;;WI;1;1;2;3.70;54
 MN;;;4010;Town Supervisor Seat A (Wright Township);71842;9001;Mark Weber;;;NP;0;1;0;0.00;0
 MN;;;4010;Town Supervisor Seat A (Wright Township);71842;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Wright Township);71842;9001;Raymond Kasprowicz;;;NP;0;1;0;0.00;0
@@ -8768,17 +8768,17 @@ MN;;;6003;Hospital District Board Member (Byron Township);09136;9001;Beverly Hoe
 MN;;;6003;Hospital District Board Member (Byron Township);09136;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Camp 5 Township);09482;9001;Shirley Conaway;;;NP;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Camp 5 Township);09482;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Canby) (Elect 2);09604;9001;Levi A. Bollerud;;;NP;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Canby) (Elect 2);09604;9002;Kari Whittier;;;NP;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Canby) (Elect 2);09604;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;6003;Hospital District Board Member (Canby) (Elect 2);09604;9001;Levi A. Bollerud;;;NP;1;1;507;47.08;1077
+MN;;;6003;Hospital District Board Member (Canby) (Elect 2);09604;9002;Kari Whittier;;;NP;1;1;570;52.92;1077
+MN;;;6003;Hospital District Board Member (Canby) (Elect 2);09604;9901;WRITE-IN;;;WI;1;1;0;0.00;1077
 MN;;;6003;Hospital District Board Member (Carpenter Township);10072;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Special Election for Hospital District Board Member (Clover Township);12268;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Cuyuna);14428;9001;Andrea Bedard;;;NP;1;1;3;100.00;3
-MN;;;6003;Hospital District Board Member (Cuyuna);14428;9901;WRITE-IN;;;WI;1;1;0;0.00;3
+MN;;;6003;Hospital District Board Member (Cuyuna);14428;9001;Andrea Bedard;;;NP;1;1;96;97.96;98
+MN;;;6003;Hospital District Board Member (Cuyuna);14428;9901;WRITE-IN;;;WI;1;1;2;2.04;98
 MN;;;6003;Hospital District Board Member (Dawson);14968;9001;Kim Miller;;;NP;1;1;527;99.25;531
 MN;;;6003;Hospital District Board Member (Dawson);14968;9901;WRITE-IN;;;WI;1;1;4;0.75;531
-MN;;;6003;Hospital District Board Member (Deerwood);15346;9001;Julie Mohs;;;NP;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Deerwood);15346;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;6003;Hospital District Board Member (Deerwood);15346;9001;Julie Mohs;;;NP;1;1;138;100.00;138
+MN;;;6003;Hospital District Board Member (Deerwood);15346;9901;WRITE-IN;;;WI;1;1;0;0.00;138
 MN;;;6003;Hospital District Board Member (Dell Grove Township);15598;9001;Brenda Langseth-Perrault;;;NP;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Dell Grove Township);15598;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Dent);15724;9001;Ryan Strugar;;;NP;0;1;0;0.00;0
@@ -8805,8 +8805,8 @@ MN;;;6003;Hospital District Board Member (Hinckley);29294;9901;WRITE-IN;;;WI;0;1
 MN;;;6003;Hospital District Board Member (Hinckley Township);29312;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Irondale Township);31202;9001;Brian Biever;;;NP;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Irondale Township);31202;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Ironton);31274;9001;Clark Hamdorf;;;NP;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Ironton);31274;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;6003;Hospital District Board Member (Ironton);31274;9001;Clark Hamdorf;;;NP;1;1;174;98.86;176
+MN;;;6003;Hospital District Board Member (Ironton);31274;9901;WRITE-IN;;;WI;1;1;2;1.14;176
 MN;;;6003;Hospital District Board Member (Jo Daviess Township);31976;9901;WRITE-IN;;;WI;1;1;7;100.00;7
 MN;;;6003;Hospital District Board Member (Kabetogama Township);32252;9001;John Stegmeir;;;NP;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Kabetogama Township);32252;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -8850,8 +8850,8 @@ MN;;;6003;Hospital District Board Member (Perham Township);50488;9001;Richard Ri
 MN;;;6003;Hospital District Board Member (Perham Township);50488;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Special Election for Hospital District Board Member (Perry Lake Township);50542;9001;Ray Montzka;;;NP;0;1;0;0.00;0
 MN;;;6003;Special Election for Hospital District Board Member (Perry Lake Township);50542;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Pilot Grove Township);50974;9001;Bill Carr;;;NP;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Pilot Grove Township);50974;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;6003;Hospital District Board Member (Pilot Grove Township);50974;9001;Bill Carr;;;NP;1;1;53;100.00;53
+MN;;;6003;Hospital District Board Member (Pilot Grove Township);50974;9901;WRITE-IN;;;WI;1;1;0;0.00;53
 MN;;;6003;Hospital District Board Member (Pine Lake Township);51226;9001;William Olson;;;NP;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Pine Lake Township);51226;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Pomroy Township);51856;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -8859,8 +8859,8 @@ MN;;;6003;Hospital District Board Member (Providence Township);52702;9901;WRITE-
 MN;;;6003;Hospital District Board Member (Reno Township);53854;9001;Ivan Fossen;;;NP;1;1;212;99.53;213
 MN;;;6003;Hospital District Board Member (Reno Township);53854;9901;WRITE-IN;;;WI;1;1;1;0.47;213
 MN;;;6003;Hospital District Board Member (Richville);54340;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Riverton);54736;9001;Mary Peterson;;;NP;0;1;0;0.00;0
-MN;;;6003;Hospital District Board Member (Riverton);54736;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;6003;Hospital District Board Member (Riverton);54736;9001;Mary Peterson;;;NP;1;1;44;100.00;44
+MN;;;6003;Hospital District Board Member (Riverton);54736;9901;WRITE-IN;;;WI;1;1;0;0.00;44
 MN;;;6003;Special Election for Hospital District Board Member (Sandstone);58396;9001;Ronald Osladil;;;NP;0;1;0;0.00;0
 MN;;;6003;Special Election for Hospital District Board Member (Sandstone);58396;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Scambler Township);58864;9001;Leslie Rotz;;;NP;1;1;203;95.31;213
@@ -8872,7 +8872,7 @@ MN;;;6003;Hospital District Board Member (Thomastown Township);64624;9001;E. Pau
 MN;;;6003;Hospital District Board Member (Thomastown Township);64624;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Trommald);65506;9001;Virginia Sajahoja;;;NP;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Trommald);65506;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;6003;Special Election for Hospital District Board Member (Verona Township);66946;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;6003;Special Election for Hospital District Board Member (Verona Township);66946;9901;WRITE-IN;;;WI;1;1;14;100.00;14
 MN;;;6003;Hospital District Board Member (Westport Township);69646;9901;WRITE-IN;;;WI;1;1;19;100.00;19
 MN;;;6003;Hospital District Board Member (Willow River);70492;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;6003;Hospital District Board Member (Winnebago);70924;9001;Joanne Hoffman;;;NP;1;1;445;99.78;446
