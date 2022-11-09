@@ -5,10 +5,20 @@ wget \
     --no-parent \
     "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=149&scenario=AllwithoutJudicial&electionDate=11%2F8%2F2022%2012%3A00%3A00%20AM"
 
-#wget \
-#    --mirror \
-#    --no-parent \
-#    "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=136&scenario=USRepresentative"
+wget \
+    --mirror \
+    --no-parent \
+    "https://electionresults.sos.state.mn.us/results/Index?ErsElectionId=149&scenario=LocalCounty&CountyId=27&show=Go"
+
+wget \
+    --mirror \
+    --no-parent \
+    "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=149&scenario=USRepresentative"
+
+wget \
+    --mirror \
+    --no-parent \
+    "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=149&scenario=StateSenate"
 
 wget \
     --mirror \
