@@ -2464,12 +2464,12 @@ MN;;;1001;Mayor (Elizabeth);18566;9901;WRITE-IN;;;WI;1;1;6;8.70;69
 MN;;;1010;Council Member (Elizabeth) (Elect 2);18566;9001;Darran Meyer;;;NP;1;1;63;53.85;117
 MN;;;1010;Council Member (Elizabeth) (Elect 2);18566;9002;Jacob Hasbargen;;;NP;1;1;51;43.59;117
 MN;;;1010;Council Member (Elizabeth) (Elect 2);18566;9901;WRITE-IN;;;WI;1;1;3;2.56;117
-MN;;;4010;Town Supervisor Seat A (Elk Lake Township);18620;9001;Roger Quick;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Elk Lake Township);18620;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Elk Lake Township);18620;9001;Adam Anderson;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Elk Lake Township);18620;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Elk Lake Township);18620;9001;Judy Boots;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Elk Lake Township);18620;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Elk Lake Township);18620;9001;Roger Quick;;;NP;1;1;170;100.00;170
+MN;;;4010;Town Supervisor Seat A (Elk Lake Township);18620;9901;WRITE-IN;;;WI;1;1;0;0.00;170
+MN;;;4012;Town Supervisor Seat B (Elk Lake Township);18620;9001;Adam Anderson;;;NP;1;1;163;98.79;165
+MN;;;4012;Town Supervisor Seat B (Elk Lake Township);18620;9901;WRITE-IN;;;WI;1;1;2;1.21;165
+MN;;;4022;Town Treasurer (Elk Lake Township);18620;9001;Judy Boots;;;NP;1;1;166;99.40;167
+MN;;;4022;Town Treasurer (Elk Lake Township);18620;9901;WRITE-IN;;;WI;1;1;1;0.60;167
 MN;;;1001;Mayor (Elko New Market);18662;9001;Joseph Julius;;;NP;1;1;1557;96.71;1610
 MN;;;1001;Mayor (Elko New Market);18662;9901;WRITE-IN;;;WI;1;1;53;3.29;1610
 MN;;;1010;Council Member (Elko New Market) (Elect 2);18662;9001;Josh Berg;;;NP;1;1;1103;47.16;2339
@@ -2568,14 +2568,14 @@ MN;;;4013;Town Supervisor Seat C (Enstrom Township);19466;9001;Daryle Dahl;;;NP;
 MN;;;4013;Town Supervisor Seat C (Enstrom Township);19466;9901;WRITE-IN;;;WI;1;1;0;0.00;134
 MN;;;4022;Town Treasurer (Enstrom Township);19466;9001;Julie Langton;;;NP;1;1;137;100.00;137
 MN;;;4022;Town Treasurer (Enstrom Township);19466;9901;WRITE-IN;;;WI;1;1;0;0.00;137
-MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9001;Lynn  A. Burman;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9002;Jeremiah Johnson;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9001;Arlan Fore;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9002;Arlen  R. Brekke;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Equality Township);19502;9001;Greg Whalen;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Equality Township);19502;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9001;Lynn  A. Burman;;;NP;1;1;21;31.82;66
+MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9002;Jeremiah Johnson;;;NP;1;1;45;68.18;66
+MN;;;4010;Town Supervisor Seat A (Equality Township);19502;9901;WRITE-IN;;;WI;1;1;0;0.00;66
+MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9001;Arlan Fore;;;NP;1;1;41;61.19;67
+MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9002;Arlen  R. Brekke;;;NP;1;1;26;38.81;67
+MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9901;WRITE-IN;;;WI;1;1;0;0.00;67
+MN;;;4022;Town Treasurer (Equality Township);19502;9001;Greg Whalen;;;NP;1;1;59;92.19;64
+MN;;;4022;Town Treasurer (Equality Township);19502;9901;WRITE-IN;;;WI;1;1;5;7.81;64
 MN;;;4010;Town Supervisor Seat A (Erdahl Township);19538;9001;James Warde;;;NP;1;1;225;100.00;225
 MN;;;4010;Town Supervisor Seat A (Erdahl Township);19538;9901;WRITE-IN;;;WI;1;1;0;0.00;225
 MN;;;4012;Town Supervisor Seat B (Erdahl Township);19538;9001;Gary Nelson;;;NP;1;1;226;99.56;227
@@ -4433,12 +4433,12 @@ MN;;;1010;Council Member (Lake Park) (Elect 2);34784;9002;Britney Ronning;;;NP;1
 MN;;;1010;Council Member (Lake Park) (Elect 2);34784;9003;Chris Dosh;;;NP;1;1;75;18.70;401
 MN;;;1010;Council Member (Lake Park) (Elect 2);34784;9004;John Thoemke;;;NP;1;1;65;16.21;401
 MN;;;1010;Council Member (Lake Park) (Elect 2);34784;9901;WRITE-IN;;;WI;1;1;3;0.75;401
-MN;;;4010;Town Supervisor Seat A (Lake Pleasant Township);34820;9001;Josiah Hoefer;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Lake Pleasant Township);34820;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Lake Pleasant Township);34820;9001;Jordan Chaput;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Lake Pleasant Township);34820;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Lake Pleasant Township);34820;9001;Patti DeHaan;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Lake Pleasant Township);34820;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Lake Pleasant Township);34820;9001;Josiah Hoefer;;;NP;1;1;56;98.25;57
+MN;;;4010;Town Supervisor Seat A (Lake Pleasant Township);34820;9901;WRITE-IN;;;WI;1;1;1;1.75;57
+MN;;;4013;Town Supervisor Seat C (Lake Pleasant Township);34820;9001;Jordan Chaput;;;NP;1;1;59;100.00;59
+MN;;;4013;Town Supervisor Seat C (Lake Pleasant Township);34820;9901;WRITE-IN;;;WI;1;1;0;0.00;59
+MN;;;4022;Town Treasurer (Lake Pleasant Township);34820;9001;Patti DeHaan;;;NP;1;1;57;100.00;57
+MN;;;4022;Town Treasurer (Lake Pleasant Township);34820;9901;WRITE-IN;;;WI;1;1;0;0.00;57
 MN;;;4010;Town Supervisor Seat A (Lakeport Township);34838;9001;Keith Bartholomaus;;;NP;2;2;223;63.35;352
 MN;;;4010;Town Supervisor Seat A (Lakeport Township);34838;9002;Kay Dee Johnson-Sanders;;;NP;2;2;125;35.51;352
 MN;;;4010;Town Supervisor Seat A (Lakeport Township);34838;9901;WRITE-IN;;;WI;2;2;4;1.14;352
@@ -4840,12 +4840,12 @@ MN;;;1010;Council Member (Louisburg);38258;9001;Mike Wellnitz;;;NP;1;1;16;88.89;
 MN;;;1010;Council Member (Louisburg);38258;9901;WRITE-IN;;;WI;1;1;2;11.11;18
 MN;;;1061;City Treasurer (Louisburg);38258;9001;Laurie Wellnitz;;;NP;1;1;16;94.12;17
 MN;;;1061;City Treasurer (Louisburg);38258;9901;WRITE-IN;;;WI;1;1;1;5.88;17
-MN;;;4010;Town Supervisor Seat A (Louisville Township);38276;9001;John Hanson;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Louisville Township);38276;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Louisville Township);38276;9001;Lyndon Schultz;;;NP;0;1;0;0.00;0
-MN;;;4013;Town Supervisor Seat C (Louisville Township);38276;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Louisville Township);38276;9001;Neil Beyer;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Louisville Township);38276;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Louisville Township);38276;9001;John Hanson;;;NP;1;1;86;100.00;86
+MN;;;4010;Town Supervisor Seat A (Louisville Township);38276;9901;WRITE-IN;;;WI;1;1;0;0.00;86
+MN;;;4013;Town Supervisor Seat C (Louisville Township);38276;9001;Lyndon Schultz;;;NP;1;1;86;100.00;86
+MN;;;4013;Town Supervisor Seat C (Louisville Township);38276;9901;WRITE-IN;;;WI;1;1;0;0.00;86
+MN;;;4022;Town Treasurer (Louisville Township);38276;9001;Neil Beyer;;;NP;1;1;85;100.00;85
+MN;;;4022;Town Treasurer (Louisville Township);38276;9901;WRITE-IN;;;WI;1;1;0;0.00;85
 MN;;;4012;Town Supervisor Seat B (Louisville Township);38294;9001;John Weckman;;;NP;1;1;526;95.46;551
 MN;;;4012;Town Supervisor Seat B (Louisville Township);38294;9901;WRITE-IN;;;WI;1;1;25;4.54;551
 MN;;;4022;Town Treasurer (Louisville Township);38294;9001;David Hagen;;;NP;1;1;522;99.05;527
