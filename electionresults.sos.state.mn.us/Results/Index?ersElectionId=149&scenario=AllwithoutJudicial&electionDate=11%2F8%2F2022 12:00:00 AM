@@ -342,7 +342,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:48 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:58 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,626
@@ -370,7 +370,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:48 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 12:58 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -431,7 +431,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Scott Jensen and Matt Birk</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,119,907</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,119,913</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">44.61%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="44" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -439,7 +439,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Tim Walz and Peggy Flanagan</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,312,242</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,312,245</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">52.27%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="52" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -492,7 +492,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Kim Crockett</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,119,937</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,119,943</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">45.38%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="45" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -500,7 +500,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Steve Simon</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,345,619</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,345,622</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">54.53%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="54" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -598,7 +598,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jim Schultz</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,233,547</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,233,553</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">49.54%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="49" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -606,7 +606,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Keith Ellison</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,254,310</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,254,313</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">50.37%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="50" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
