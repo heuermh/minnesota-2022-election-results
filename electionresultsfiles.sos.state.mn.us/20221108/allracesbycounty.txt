@@ -3710,8 +3710,8 @@ MN;38;;0333;State Auditor;;9901;WRITE-IN;;;WI;19;19;3;0.05;5621
 MN;38;;0335;Attorney General;;0301;Jim Schultz;;;R;19;19;2755;48.93;5630
 MN;38;;0335;Attorney General;;0401;Keith Ellison;;;DFL;19;19;2870;50.98;5630
 MN;38;;0335;Attorney General;;9901;WRITE-IN;;;WI;19;19;5;0.09;5630
-MN;38;;0391;County Commissioner District 1;01;9001;Peter R Walsh;;;NP;5;5;836;97.55;857
-MN;38;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;5;5;21;2.45;857
+MN;38;;0391;County Commissioner District 1;01;9001;Peter R Walsh;;;NP;5;5;836;97.32;859
+MN;38;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;5;5;23;2.68;859
 MN;38;;0393;County Commissioner District 3;03;9001;Richard "Rick" Hogenson;;;NP;2;2;695;98.16;708
 MN;38;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;2;2;13;1.84;708
 MN;38;;0394;County Commissioner District 4;04;9001;Jeremy Michael Hurd;;;NP;3;3;953;97.64;976
@@ -3722,8 +3722,8 @@ MN;38;;0403;County Recorder;;9001;Lori Ekstrom;;;NP;19;19;4476;99.60;4494
 MN;38;;0403;County Recorder;;9901;WRITE-IN;;;WI;19;19;18;0.40;4494
 MN;38;;0404;County Sheriff;;9001;Nathan Stadler;;;NP;19;19;4622;98.82;4677
 MN;38;;0404;County Sheriff;;9901;WRITE-IN;;;WI;19;19;55;1.18;4677
-MN;38;;0405;County Attorney;;9001;Russ Conrow;;;NP;19;19;4442;98.86;4493
-MN;38;;0405;County Attorney;;9901;WRITE-IN;;;WI;19;19;51;1.14;4493
+MN;38;;0405;County Attorney;;9001;Russ Conrow;;;NP;19;19;4442;98.84;4494
+MN;38;;0405;County Attorney;;9901;WRITE-IN;;;WI;19;19;52;1.16;4494
 MN;38;;0432;Soil and Water Supervisor District 2;3075;9001;Doug Lande;;;NP;19;19;2384;56.27;4237
 MN;38;;0432;Soil and Water Supervisor District 2;3075;9002;Bert W. Hyde;;;NP;19;19;1830;43.19;4237
 MN;38;;0432;Soil and Water Supervisor District 2;3075;9901;WRITE-IN;;;WI;19;19;23;0.54;4237
@@ -6360,8 +6360,8 @@ MN;68;;0110;U.S. Representative District 7;7;0201;Travis "Bull" Johnson;;;LMN;44
 MN;68;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;44;44;4874;75.20;6481
 MN;68;;0110;U.S. Representative District 7;7;0401;Jill Abahsain;;;DFL;44;44;1323;20.41;6481
 MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;44;44;1;0.02;6481
-MN;68;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;44;44;5659;99.09;5711
-MN;68;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;44;44;52;0.91;5711
+MN;68;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;44;44;5659;99.05;5713
+MN;68;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;44;44;54;0.95;5713
 MN;68;;0188;State Representative District 1A;1A;0301;John Burkel;;;R;44;44;5348;82.43;6488
 MN;68;;0188;State Representative District 1A;1A;0401;James Sceville;;;DFL;44;44;1139;17.56;6488
 MN;68;;0188;State Representative District 1A;1A;9901;WRITE-IN;;;WI;44;44;1;0.02;6488
@@ -6396,10 +6396,10 @@ MN;68;;0404;County Sheriff;;9002;Kelly Gustafson;;;NP;44;44;1841;28.57;6443
 MN;68;;0404;County Sheriff;;9901;WRITE-IN;;;WI;44;44;4;0.06;6443
 MN;68;;0405;County Attorney;;9001;Kristy Kjos;;;NP;44;44;5602;99.40;5636
 MN;68;;0405;County Attorney;;9901;WRITE-IN;;;WI;44;44;34;0.60;5636
-MN;68;;0433;Soil and Water Supervisor District 3;1135;9001;John Gaukerud;;;NP;44;44;5571;99.91;5576
-MN;68;;0433;Soil and Water Supervisor District 3;1135;9901;WRITE-IN;;;WI;44;44;5;0.09;5576
-MN;68;;0434;Soil and Water Supervisor District 4;1135;9001;Jan Miller;;;NP;44;44;5481;99.93;5485
-MN;68;;0434;Soil and Water Supervisor District 4;1135;9901;WRITE-IN;;;WI;44;44;4;0.07;5485
+MN;68;;0433;Soil and Water Supervisor District 3;1135;9001;John Gaukerud;;;NP;44;44;5571;99.89;5577
+MN;68;;0433;Soil and Water Supervisor District 3;1135;9901;WRITE-IN;;;WI;44;44;6;0.11;5577
+MN;68;;0434;Soil and Water Supervisor District 4;1135;9001;Jan Miller;;;NP;44;44;5481;99.91;5486
+MN;68;;0434;Soil and Water Supervisor District 4;1135;9901;WRITE-IN;;;WI;44;44;5;0.09;5486
 MN;68;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;44;44;4661;99.70;4675
 MN;68;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;44;44;14;0.30;4675
 MN;68;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;44;44;4608;99.83;4616
@@ -6432,8 +6432,8 @@ MN;68;;9115;Judge - 9th District Court 16;09;9001;Jeanine R. Brand;;;NP;44;44;45
 MN;68;;9115;Judge - 9th District Court 16;09;9901;WRITE-IN;;;WI;44;44;6;0.13;4524
 MN;68;;9116;Judge - 9th District Court 17;09;9001;Corey A. Harbott;;;NP;44;44;4520;99.91;4524
 MN;68;;9116;Judge - 9th District Court 17;09;9901;WRITE-IN;;;WI;44;44;4;0.09;4524
-MN;68;;9119;Judge - 9th District Court 20;09;9001;Donna K. Dixon;;;NP;44;44;4825;99.18;4865
-MN;68;;9119;Judge - 9th District Court 20;09;9901;WRITE-IN;;;WI;44;44;40;0.82;4865
+MN;68;;9119;Judge - 9th District Court 20;09;9001;Donna K. Dixon;;;NP;44;44;4825;99.16;4866
+MN;68;;9119;Judge - 9th District Court 20;09;9901;WRITE-IN;;;WI;44;44;41;0.84;4866
 MN;68;;9122;Judge - 9th District Court 23;09;9001;Kristine R. DeMay;;;NP;44;44;4554;99.87;4560
 MN;68;;9122;Judge - 9th District Court 23;09;9901;WRITE-IN;;;WI;44;44;6;0.13;4560
 MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;170;170;40318;43.37;92970
@@ -7151,9 +7151,9 @@ MN;75;;0333;State Auditor;;0201;Tim Davis;;;LMN;24;24;88;2.21;3989
 MN;75;;0333;State Auditor;;0301;Ryan Wilson;;;R;24;24;2503;62.75;3989
 MN;75;;0333;State Auditor;;0401;Julie Blaha;;;DFL;24;24;1343;33.67;3989
 MN;75;;0333;State Auditor;;9901;WRITE-IN;;;WI;24;24;1;0.03;3989
-MN;75;;0335;Attorney General;;0301;Jim Schultz;;;R;24;24;2529;63.35;3992
-MN;75;;0335;Attorney General;;0401;Keith Ellison;;;DFL;24;24;1460;36.57;3992
-MN;75;;0335;Attorney General;;9901;WRITE-IN;;;WI;24;24;3;0.08;3992
+MN;75;;0335;Attorney General;;0301;Jim Schultz;;;R;24;24;2535;63.41;3998
+MN;75;;0335;Attorney General;;0401;Keith Ellison;;;DFL;24;24;1460;36.52;3998
+MN;75;;0335;Attorney General;;9901;WRITE-IN;;;WI;24;24;3;0.08;3998
 MN;75;;0391;County Commissioner District 1;01;9001;Bob Kopitzke;;;NP;1;1;474;98.75;480
 MN;75;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;1;1;6;1.25;480
 MN;75;;0392;County Commissioner District 2;02;9001;Jeanne Ennen;;;NP;11;11;890;99.33;896

@@ -577,10 +577,10 @@ MN;;;1001;Mayor (Beaver Bay);04456;9901;WRITE-IN;;;WI;1;1;0;0.00;58
 MN;;;1010;Council Member at Large (Beaver Bay) (Elect 2);04456;9001;Gigi Maxwell;;;NP;1;1;60;62.50;96
 MN;;;1010;Council Member at Large (Beaver Bay) (Elect 2);04456;9002;David G. Kindstrand III;;;NP;1;1;34;35.42;96
 MN;;;1010;Council Member at Large (Beaver Bay) (Elect 2);04456;9901;WRITE-IN;;;WI;1;1;2;2.08;96
-MN;;;4010;Town Supervisor Seat A (Beaver Bay Township);04474;9001;David Shoen;;;NP;2;2;224;99.12;226
-MN;;;4010;Town Supervisor Seat A (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;2;0.88;226
-MN;;;4012;Special Election for Town Supervisor Seat B (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;44;100.00;44
-MN;;;4013;Town Supervisor Seat C (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;40;100.00;40
+MN;;;4010;Town Supervisor Seat A (Beaver Bay Township);04474;9001;David Shoen;;;NP;2;2;224;97.82;229
+MN;;;4010;Town Supervisor Seat A (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;5;2.18;229
+MN;;;4012;Special Election for Town Supervisor Seat B (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;34;100.00;34
+MN;;;4013;Town Supervisor Seat C (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;50;100.00;50
 MN;;;4021;Special Election for Town Clerk (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;34;100.00;34
 MN;;;4022;Town Treasurer (Beaver Bay Township);04474;9901;WRITE-IN;;;WI;2;2;57;100.00;57
 MN;;;1001;Mayor (Beaver Creek);04492;9001;Joshua Teune;;;NP;1;1;130;97.74;133
@@ -8615,8 +8615,8 @@ MN;;;1010;Council Member (Wood Lake) (Elect 2);71446;9001;Bradley Timm;;;NP;1;1;
 MN;;;1010;Council Member (Wood Lake) (Elect 2);71446;9002;Wayne Tonn;;;NP;1;1;125;50.61;247
 MN;;;1010;Council Member (Wood Lake) (Elect 2);71446;9901;WRITE-IN;;;WI;1;1;7;2.83;247
 MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9001;Mike Kvendru;;;NP;1;1;16;14.55;110
-MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9002;Brooks Torke;;;NP;1;1;10;9.09;110
-MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9003;Delaine Peterson;;;NP;1;1;84;76.36;110
+MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9002;Brooks Torke;;;NP;1;1;84;76.36;110
+MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9003;Delaine Peterson;;;NP;1;1;10;9.09;110
 MN;;;4010;Town Supervisor Seat A (Wood Lake Township);71464;9901;WRITE-IN;;;WI;1;1;0;0.00;110
 MN;;;4013;Town Supervisor Seat C (Wood Lake Township);71464;9001;Mike Imes;;;NP;1;1;108;97.30;111
 MN;;;4013;Town Supervisor Seat C (Wood Lake Township);71464;9901;WRITE-IN;;;WI;1;1;3;2.70;111
