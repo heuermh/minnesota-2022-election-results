@@ -334,7 +334,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 10:38 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 10:48 AM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,627
@@ -352,7 +352,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 10:38 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/22 10:48 AM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -399,15 +399,15 @@
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Mark Johnson</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,324</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">97.31%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">97.30%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="97" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">754</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.69%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">757</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">2.70%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="2" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
@@ -482,24 +482,24 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Andrea Zupancich</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">21,336</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">49.14%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">21,349</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">49.15%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="49" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Grant Hauschild</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">22,038</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">50.76%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">22,053</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">50.77%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="50" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">44</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.10%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">38</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.09%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                         </tbody>
