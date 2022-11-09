@@ -283,17 +283,17 @@ MN;;;4013;Town Supervisor Seat 3 (Arena Township);02062;9901;WRITE-IN;;;WI;1;1;1
 MN;;;4022;Town Treasurer (Arena Township);02062;9901;WRITE-IN;;;WI;1;1;16;100.00;16
 MN;;;1010;Council Member (Argyle) (Elect 2);02134;9001;David Gunderson;;;NP;1;1;230;63.19;364
 MN;;;1010;Council Member (Argyle) (Elect 2);02134;9901;WRITE-IN;;;WI;1;1;134;36.81;364
-MN;;;1001;Mayor (Arlington);02152;9001;Matthew Scharpe;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Arlington);02152;9002;Michelle (Shelly) Battcher;;;NP;0;1;0;0.00;0
-MN;;;1001;Mayor (Arlington);02152;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9001;Shaun Stapleton;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9002;Christina Litfin;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9003;Joseph Morgan;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9004;Brittany Demby;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9005;Jeff Matz;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9006;Curtis L. Ling;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9007;Amy J. Berger;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Arlington) (Elect 2);02152;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1001;Mayor (Arlington);02152;9001;Matthew Scharpe;;;NP;1;1;456;52.84;863
+MN;;;1001;Mayor (Arlington);02152;9002;Michelle (Shelly) Battcher;;;NP;1;1;369;42.76;863
+MN;;;1001;Mayor (Arlington);02152;9901;WRITE-IN;;;WI;1;1;38;4.40;863
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9001;Shaun Stapleton;;;NP;1;1;93;5.94;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9002;Christina Litfin;;;NP;1;1;299;19.09;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9003;Joseph Morgan;;;NP;1;1;218;13.92;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9004;Brittany Demby;;;NP;1;1;76;4.85;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9005;Jeff Matz;;;NP;1;1;415;26.50;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9006;Curtis L. Ling;;;NP;1;1;249;15.90;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9007;Amy J. Berger;;;NP;1;1;212;13.54;1566
+MN;;;1010;Council Member (Arlington) (Elect 2);02152;9901;WRITE-IN;;;WI;1;1;4;0.26;1566
 MN;;;4010;Town Supervisor Seat A (Arlington Township);02170;9001;Kenneth Mueller;;;NP;1;1;225;99.12;227
 MN;;;4010;Town Supervisor Seat A (Arlington Township);02170;9901;WRITE-IN;;;WI;1;1;2;0.88;227
 MN;;;4021;Town Clerk (Arlington Township);02170;9001;Sheila K. Henke;;;NP;1;1;221;100.00;221
@@ -2442,9 +2442,9 @@ MN;;;1060;Special Election for City Clerk (Elba);18386;9001;Rosemarie Kieffer;;;
 MN;;;1060;Special Election for City Clerk (Elba);18386;9901;WRITE-IN;;;WI;1;1;0;0.00;64
 MN;;;1061;City Treasurer (Elba);18386;9001;Patricia Arnold;;;NP;1;1;64;100.00;64
 MN;;;1061;City Treasurer (Elba);18386;9901;WRITE-IN;;;WI;1;1;0;0.00;64
-MN;;;1010;Council Member (Elbow Lake) (Elect 2);18458;9001;Darryl Larson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Elbow Lake) (Elect 2);18458;9002;Julie Larson;;;NP;0;1;0;0.00;0
-MN;;;1010;Council Member (Elbow Lake) (Elect 2);18458;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;1010;Council Member (Elbow Lake) (Elect 2);18458;9001;Darryl Larson;;;NP;1;1;379;47.55;797
+MN;;;1010;Council Member (Elbow Lake) (Elect 2);18458;9002;Julie Larson;;;NP;1;1;392;49.18;797
+MN;;;1010;Council Member (Elbow Lake) (Elect 2);18458;9901;WRITE-IN;;;WI;1;1;26;3.26;797
 MN;;;4012;Town Supervisor Seat B (Elbow Lake Township);18476;9001;Chad Biss;;;NP;0;1;0;0.00;0
 MN;;;4012;Town Supervisor Seat B (Elbow Lake Township);18476;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Elbow Lake Township);18476;9001;Holly Fisk;;;NP;0;1;0;0.00;0
@@ -2576,12 +2576,12 @@ MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9002;Arlen  R. Brekke
 MN;;;4013;Town Supervisor Seat C (Equality Township);19502;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Equality Township);19502;9001;Greg Whalen;;;NP;0;1;0;0.00;0
 MN;;;4022;Town Treasurer (Equality Township);19502;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Erdahl Township);19538;9001;James Warde;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Erdahl Township);19538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Erdahl Township);19538;9001;Gary Nelson;;;NP;0;1;0;0.00;0
-MN;;;4012;Town Supervisor Seat B (Erdahl Township);19538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Erdahl Township);19538;9001;Sylvia Olson;;;NP;0;1;0;0.00;0
-MN;;;4022;Town Treasurer (Erdahl Township);19538;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Erdahl Township);19538;9001;James Warde;;;NP;1;1;225;100.00;225
+MN;;;4010;Town Supervisor Seat A (Erdahl Township);19538;9901;WRITE-IN;;;WI;1;1;0;0.00;225
+MN;;;4012;Town Supervisor Seat B (Erdahl Township);19538;9001;Gary Nelson;;;NP;1;1;226;99.56;227
+MN;;;4012;Town Supervisor Seat B (Erdahl Township);19538;9901;WRITE-IN;;;WI;1;1;1;0.44;227
+MN;;;4022;Town Treasurer (Erdahl Township);19538;9001;Sylvia Olson;;;NP;1;1;206;99.52;207
+MN;;;4022;Town Treasurer (Erdahl Township);19538;9901;WRITE-IN;;;WI;1;1;1;0.48;207
 MN;;;1001;Mayor (Erhard);19556;9001;Gary Stadum;;;NP;1;1;47;97.92;48
 MN;;;1001;Mayor (Erhard);19556;9901;WRITE-IN;;;WI;1;1;1;2.08;48
 MN;;;1010;Council Member (Erhard) (Elect 2);19556;9001;Gene Nygaard;;;NP;1;1;33;44.00;75
@@ -4170,12 +4170,12 @@ MN;;;1010;Council Member (Kellogg) (Elect 2);32642;9001;Pat Halverson;;;NP;1;1;1
 MN;;;1010;Council Member (Kellogg) (Elect 2);32642;9002;Michael Crilly;;;NP;1;1;126;28.44;443
 MN;;;1010;Council Member (Kellogg) (Elect 2);32642;9003;Sue McNallan;;;NP;1;1;152;34.31;443
 MN;;;1010;Council Member (Kellogg) (Elect 2);32642;9901;WRITE-IN;;;WI;1;1;38;8.58;443
-MN;;;4010;Town Supervisor Seat A (Kelso Township);32714;9001;Carl Willaert;;;NP;0;1;0;0.00;0
-MN;;;4010;Town Supervisor Seat A (Kelso Township);32714;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Kelso Township);32714;9001;Whitney Wiest;;;NP;0;1;0;0.00;0
-MN;;;4021;Town Clerk (Kelso Township);32714;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;;;4022;Special Election for Town Treasurer (Kelso Township);32714;9001;Christine L Berndt;;;NP;0;1;0;0.00;0
-MN;;;4022;Special Election for Town Treasurer (Kelso Township);32714;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;;;4010;Town Supervisor Seat A (Kelso Township);32714;9001;Carl Willaert;;;NP;1;1;104;99.05;105
+MN;;;4010;Town Supervisor Seat A (Kelso Township);32714;9901;WRITE-IN;;;WI;1;1;1;0.95;105
+MN;;;4021;Town Clerk (Kelso Township);32714;9001;Whitney Wiest;;;NP;1;1;106;99.07;107
+MN;;;4021;Town Clerk (Kelso Township);32714;9901;WRITE-IN;;;WI;1;1;1;0.93;107
+MN;;;4022;Special Election for Town Treasurer (Kelso Township);32714;9001;Christine L Berndt;;;NP;1;1;108;99.08;109
+MN;;;4022;Special Election for Town Treasurer (Kelso Township);32714;9901;WRITE-IN;;;WI;1;1;1;0.92;109
 MN;;;1001;Mayor (Kennedy);32732;9901;WRITE-IN;;;WI;1;1;62;100.00;62
 MN;;;1010;Council Member (Kennedy) (Elect 2);32732;9001;Ross Hanson;;;NP;1;1;64;42.67;150
 MN;;;1010;Council Member (Kennedy) (Elect 2);32732;9002;(Enrique) Henry Escareno;;;NP;1;1;71;47.33;150
