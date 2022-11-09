@@ -1,11 +1,11 @@
-MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;0;315;0;0.00;0
-MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;0;315;0;0.00;0
+MN;;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;2;315;0;0.00;0
+MN;;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;2;315;0;0.00;0
 MN;;;0122;State Senator District 2;2;0301;Steve Green;;;R;1;189;0;0.00;0
 MN;;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;189;0;0.00;0
 MN;;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;189;0;0.00;0
-MN;;;0123;State Senator District 3;3;0301;Andrea Zupancich;;;R;1;132;0;0.00;0
-MN;;;0123;State Senator District 3;3;0401;Grant Hauschild;;;DFL;1;132;0;0.00;0
-MN;;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;132;0;0.00;0
+MN;;;0123;State Senator District 3;3;0301;Andrea Zupancich;;;R;2;132;2;33.33;6
+MN;;;0123;State Senator District 3;3;0401;Grant Hauschild;;;DFL;2;132;4;66.67;6
+MN;;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;2;132;0;0.00;6
 MN;;;0124;State Senator District 4;4;0301;Dan Bohmer;;;R;0;68;0;0.00;0
 MN;;;0124;State Senator District 4;4;0401;Rob Kupec;;;DFL;0;68;0;0.00;0
 MN;;;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;0;68;0;0.00;0
@@ -58,8 +58,8 @@ MN;;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;0;53;0;0.00;0
 MN;;;0140;State Senator District 20;20;0301;Steve Drazkowski;;;R;0;91;0;0.00;0
 MN;;;0140;State Senator District 20;20;0401;Bradley Robert Drenckhahn;;;DFL;0;91;0;0.00;0
 MN;;;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;0;91;0;0.00;0
-MN;;;0141;State Senator District 21;21;0301;Bill Weber;;;R;14;210;1191;97.86;1217
-MN;;;0141;State Senator District 21;21;9901;WRITE-IN;;;WI;14;210;26;2.14;1217
+MN;;;0141;State Senator District 21;21;0301;Bill Weber;;;R;37;210;2794;98.07;2849
+MN;;;0141;State Senator District 21;21;9901;WRITE-IN;;;WI;37;210;55;1.93;2849
 MN;;;0142;State Senator District 22;22;0301;Rich Draheim;;;R;0;109;0;0.00;0
 MN;;;0142;State Senator District 22;22;9901;WRITE-IN;;;WI;0;109;0;0.00;0
 MN;;;0143;State Senator District 23;23;0301;Gene Dornink;;;R;0;113;0;0.00;0
