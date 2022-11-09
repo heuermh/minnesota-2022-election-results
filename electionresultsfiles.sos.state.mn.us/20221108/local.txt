@@ -6518,12 +6518,12 @@ MN;;;1010;Council Member (Ranier) (Elect 2);53134;9001;Larry Keep;;;NP;0;2;0;0.0
 MN;;;1010;Council Member (Ranier) (Elect 2);53134;9002;JoAnn M. Kellner;;;NP;0;2;0;0.00;0
 MN;;;1010;Council Member (Ranier) (Elect 2);53134;9003;Ron Wilcox;;;NP;0;2;0;0.00;0
 MN;;;1010;Council Member (Ranier) (Elect 2);53134;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1001;Mayor (Raymond);53296;9001;Ardell Tensen;;;NP;0;2;0;0.00;0
-MN;;;1001;Mayor (Raymond);53296;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;;;1010;Council Member (Raymond) (Elect 2);53296;9001;Aaron Zenner;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Raymond) (Elect 2);53296;9002;Ed Zurn;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Raymond) (Elect 2);53296;9003;Janice Piechowski;;;NP;0;2;0;0.00;0
-MN;;;1010;Council Member (Raymond) (Elect 2);53296;9901;WRITE-IN;;;WI;0;2;0;0.00;0
+MN;;;1001;Mayor (Raymond);53296;9001;Ardell Tensen;;;NP;1;2;0;0.00;0
+MN;;;1001;Mayor (Raymond);53296;9901;WRITE-IN;;;WI;1;2;0;0.00;0
+MN;;;1010;Council Member (Raymond) (Elect 2);53296;9001;Aaron Zenner;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Raymond) (Elect 2);53296;9002;Ed Zurn;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Raymond) (Elect 2);53296;9003;Janice Piechowski;;;NP;1;2;0;0.00;0
+MN;;;1010;Council Member (Raymond) (Elect 2);53296;9901;WRITE-IN;;;WI;1;2;0;0.00;0
 MN;;;1001;Mayor (Red Lake Falls);53476;9001;Allen Bertilrud;;;NP;0;3;0;0.00;0
 MN;;;1001;Mayor (Red Lake Falls);53476;9901;WRITE-IN;;;WI;0;3;0;0.00;0
 MN;;;1010;Council Member at Large (Red Lake Falls);53476;9001;Briana Ingraham;;;NP;0;3;0;0.00;0

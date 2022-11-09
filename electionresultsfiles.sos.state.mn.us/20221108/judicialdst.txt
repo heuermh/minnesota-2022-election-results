@@ -49,22 +49,22 @@ MN;;;8324;Judge - 2nd District Court 25;02;9001;Edward Sheu;;;NP;0;162;0;0.00;0
 MN;;;8324;Judge - 2nd District Court 25;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
 MN;;;8325;Judge - 2nd District Court 26;02;9001;John H. Guthmann;;;NP;0;162;0;0.00;0
 MN;;;8325;Judge - 2nd District Court 26;02;9901;WRITE-IN;;;WI;0;162;0;0.00;0
-MN;;;8401;Judge - 3rd District Court 2;03;9001;Karie M. Anderson;;;NP;0;441;0;0.00;0
-MN;;;8401;Judge - 3rd District Court 2;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8408;Judge - 3rd District Court 9;03;9001;Pamela A. W. King;;;NP;0;441;0;0.00;0
-MN;;;8408;Judge - 3rd District Court 9;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8410;Judge - 3rd District Court 11;03;9001;Nancy L. Buytendorp;;;NP;0;441;0;0.00;0
-MN;;;8410;Judge - 3rd District Court 11;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8412;Judge - 3rd District Court 13;03;9001;Jeffrey Kritzer;;;NP;0;441;0;0.00;0
-MN;;;8412;Judge - 3rd District Court 13;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8415;Judge - 3rd District Court 16;03;9001;Carmaine M. Sturino;;;NP;0;441;0;0.00;0
-MN;;;8415;Judge - 3rd District Court 16;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8417;Judge - 3rd District Court 18;03;9001;Kevin Siefken;;;NP;0;441;0;0.00;0
-MN;;;8417;Judge - 3rd District Court 18;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8420;Judge - 3rd District Court 21;03;9001;Kathy M. Wallace;;;NP;0;441;0;0.00;0
-MN;;;8420;Judge - 3rd District Court 21;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
-MN;;;8422;Judge - 3rd District Court 23;03;9001;Joseph A. Bueltel;;;NP;0;441;0;0.00;0
-MN;;;8422;Judge - 3rd District Court 23;03;9901;WRITE-IN;;;WI;0;441;0;0.00;0
+MN;;;8401;Judge - 3rd District Court 2;03;9001;Karie M. Anderson;;;NP;1;441;124;99.20;125
+MN;;;8401;Judge - 3rd District Court 2;03;9901;WRITE-IN;;;WI;1;441;1;0.80;125
+MN;;;8408;Judge - 3rd District Court 9;03;9001;Pamela A. W. King;;;NP;1;441;125;99.21;126
+MN;;;8408;Judge - 3rd District Court 9;03;9901;WRITE-IN;;;WI;1;441;1;0.79;126
+MN;;;8410;Judge - 3rd District Court 11;03;9001;Nancy L. Buytendorp;;;NP;1;441;118;100.00;118
+MN;;;8410;Judge - 3rd District Court 11;03;9901;WRITE-IN;;;WI;1;441;0;0.00;118
+MN;;;8412;Judge - 3rd District Court 13;03;9001;Jeffrey Kritzer;;;NP;1;441;123;98.40;125
+MN;;;8412;Judge - 3rd District Court 13;03;9901;WRITE-IN;;;WI;1;441;2;1.60;125
+MN;;;8415;Judge - 3rd District Court 16;03;9001;Carmaine M. Sturino;;;NP;1;441;127;99.22;128
+MN;;;8415;Judge - 3rd District Court 16;03;9901;WRITE-IN;;;WI;1;441;1;0.78;128
+MN;;;8417;Judge - 3rd District Court 18;03;9001;Kevin Siefken;;;NP;1;441;124;99.20;125
+MN;;;8417;Judge - 3rd District Court 18;03;9901;WRITE-IN;;;WI;1;441;1;0.80;125
+MN;;;8420;Judge - 3rd District Court 21;03;9001;Kathy M. Wallace;;;NP;1;441;123;98.40;125
+MN;;;8420;Judge - 3rd District Court 21;03;9901;WRITE-IN;;;WI;1;441;2;1.60;125
+MN;;;8422;Judge - 3rd District Court 23;03;9001;Joseph A. Bueltel;;;NP;1;441;116;95.87;121
+MN;;;8422;Judge - 3rd District Court 23;03;9901;WRITE-IN;;;WI;1;441;5;4.13;121
 MN;;;8503;Judge - 4th District Court 4;04;9001;Juan G Hoyos;;;NP;2;397;0;0.00;0
 MN;;;8503;Judge - 4th District Court 4;04;9901;WRITE-IN;;;WI;2;397;0;0.00;0
 MN;;;8506;Judge - 4th District Court 7;04;9001;Tamara G. Garcia;;;NP;2;397;0;0.00;0
@@ -145,10 +145,10 @@ MN;;;8918;Judge - 7th District Court 19;07;9001;Johnathan R. Judd;;;NP;2;493;0;0
 MN;;;8918;Judge - 7th District Court 19;07;9901;WRITE-IN;;;WI;2;493;0;0.00;0
 MN;;;8924;Judge - 7th District Court 25;07;9001;Nathaniel D. Welte;;;NP;2;493;0;0.00;0
 MN;;;8924;Judge - 7th District Court 25;07;9901;WRITE-IN;;;WI;2;493;0;0.00;0
-MN;;;9002;Judge - 8th District Court 3;08;9001;Keith Helgeson;;;NP;1;383;0;0.00;0
-MN;;;9002;Judge - 8th District Court 3;08;9901;WRITE-IN;;;WI;1;383;0;0.00;0
-MN;;;9008;Judge - 8th District Court 9;08;9001;Rodney Clay Hanson;;;NP;1;383;0;0.00;0
-MN;;;9008;Judge - 8th District Court 9;08;9901;WRITE-IN;;;WI;1;383;0;0.00;0
+MN;;;9002;Judge - 8th District Court 3;08;9001;Keith Helgeson;;;NP;4;383;136;100.00;136
+MN;;;9002;Judge - 8th District Court 3;08;9901;WRITE-IN;;;WI;4;383;0;0.00;136
+MN;;;9008;Judge - 8th District Court 9;08;9001;Rodney Clay Hanson;;;NP;4;383;136;100.00;136
+MN;;;9008;Judge - 8th District Court 9;08;9901;WRITE-IN;;;WI;4;383;0;0.00;136
 MN;;;9105;Judge - 9th District Court 6;09;9001;Jerrod A. Shermoen;;;NP;4;755;0;0.00;0
 MN;;;9105;Judge - 9th District Court 6;09;9901;WRITE-IN;;;WI;4;755;0;0.00;0
 MN;;;9107;Judge - 9th District Court 8;09;9001;Eric Schieferdecker;;;NP;4;755;0;0.00;0
