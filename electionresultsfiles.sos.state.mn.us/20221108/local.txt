@@ -35,8 +35,8 @@ MN;;;4012;Town Supervisor Seat 2 (Adrian Township);00280;9901;WRITE-IN;;;WI;1;1;
 MN;;;4022;Town Treasurer (Adrian Township);00280;9901;WRITE-IN;;;WI;1;1;12;100.00;12
 MN;;;4031;TOWNSHIP QUESTION 1 (Adrian Twp);00280;9001;YES;;;NP;1;1;58;75.32;77
 MN;;;4031;TOWNSHIP QUESTION 1 (Adrian Twp);00280;9002;NO;;;NP;1;1;19;24.68;77
-MN;;;1001;Mayor (Afton);00316;9001;Bill Palmquist;;;NP;4;4;1431;97.02;1475
-MN;;;1001;Mayor (Afton);00316;9901;WRITE-IN;;;WI;4;4;44;2.98;1475
+MN;;;1001;Mayor (Afton);00316;9001;Bill Palmquist;;;NP;4;4;1430;97.01;1474
+MN;;;1001;Mayor (Afton);00316;9901;WRITE-IN;;;WI;4;4;44;2.99;1474
 MN;;;1022;Council Member Ward 2 (Afton);00316;9001;Lucia Wroblewski;;;NP;1;1;324;97.30;333
 MN;;;1022;Council Member Ward 2 (Afton);00316;9901;WRITE-IN;;;WI;1;1;9;2.70;333
 MN;;;1024;Council Member Ward 3 (Afton);00316;9001;Stan Ross;;;NP;1;1;331;98.22;337
@@ -651,12 +651,12 @@ MN;;;1001;Mayor (Beltrami);05014;9901;WRITE-IN;;;WI;1;1;0;0.00;29
 MN;;;1010;Council Member (Beltrami) (Elect 2);05014;9001;Bruce Mosher;;;NP;1;1;30;53.57;56
 MN;;;1010;Council Member (Beltrami) (Elect 2);05014;9002;Jeremy Billing;;;NP;1;1;22;39.29;56
 MN;;;1010;Council Member (Beltrami) (Elect 2);05014;9901;WRITE-IN;;;WI;1;1;4;7.14;56
-MN;;;1001;Mayor (Belview);05050;9001;Marlo Sander;;;NP;1;1;138;98.57;140
-MN;;;1001;Mayor (Belview);05050;9901;WRITE-IN;;;WI;1;1;2;1.43;140
-MN;;;1010;Council Member (Belview) (Elect 2);05050;9001;Linda Sullivan;;;NP;1;1;80;31.37;255
-MN;;;1010;Council Member (Belview) (Elect 2);05050;9002;Myrle Peterson;;;NP;1;1;121;47.45;255
-MN;;;1010;Council Member (Belview) (Elect 2);05050;9003;Roger Beavers;;;NP;1;1;48;18.82;255
-MN;;;1010;Council Member (Belview) (Elect 2);05050;9901;WRITE-IN;;;WI;1;1;6;2.35;255
+MN;;;1001;Mayor (Belview);05050;9001;Marlo Sander;;;NP;1;1;137;98.56;139
+MN;;;1001;Mayor (Belview);05050;9901;WRITE-IN;;;WI;1;1;2;1.44;139
+MN;;;1010;Council Member (Belview) (Elect 2);05050;9001;Linda Sullivan;;;NP;1;1;79;31.23;253
+MN;;;1010;Council Member (Belview) (Elect 2);05050;9002;Myrle Peterson;;;NP;1;1;120;47.43;253
+MN;;;1010;Council Member (Belview) (Elect 2);05050;9003;Roger Beavers;;;NP;1;1;48;18.97;253
+MN;;;1010;Council Member (Belview) (Elect 2);05050;9901;WRITE-IN;;;WI;1;1;6;2.37;253
 MN;;;1010;Council Member at Large (Bemidji);05068;9002;Ron Johnson;;;NP;5;5;2293;49.02;4678
 MN;;;1010;Council Member at Large (Bemidji);05068;9003;Audrey M. Thayer;;;NP;5;5;2346;50.15;4678
 MN;;;1010;Council Member at Large (Bemidji);05068;9901;WRITE-IN;;;WI;5;5;39;0.83;4678
@@ -1789,11 +1789,11 @@ MN;;;4013;Town Supervisor Seat C (Cosmos Township);13438;9001;Douglas Maahs;;;NP
 MN;;;4013;Town Supervisor Seat C (Cosmos Township);13438;9901;WRITE-IN;;;WI;1;1;3;3.70;81
 MN;;;4022;Town Treasurer (Cosmos Township);13438;9001;Trisha Kruse;;;NP;1;1;83;97.65;85
 MN;;;4022;Town Treasurer (Cosmos Township);13438;9901;WRITE-IN;;;WI;1;1;2;2.35;85
-MN;;;1010;Council Member at Large (Cottage Grove) (Elect 2);13456;9001;Dave Thiede;;;NP;7;7;10096;48.06;21009
-MN;;;1010;Council Member at Large (Cottage Grove) (Elect 2);13456;9002;Steve Dennis;;;NP;7;7;10567;50.30;21009
-MN;;;1010;Council Member at Large (Cottage Grove) (Elect 2);13456;9901;WRITE-IN;;;WI;7;7;346;1.65;21009
-MN;;;1012;Special Election for Council Member at Large (Cottage Grove);13456;9001;Tony Khambata;;;NP;7;7;11795;98.58;11965
-MN;;;1012;Special Election for Council Member at Large (Cottage Grove);13456;9901;WRITE-IN;;;WI;7;7;170;1.42;11965
+MN;;;1010;Council Member at Large (Cottage Grove) (Elect 2);13456;9001;Dave Thiede;;;NP;7;7;10097;48.06;21011
+MN;;;1010;Council Member at Large (Cottage Grove) (Elect 2);13456;9002;Steve Dennis;;;NP;7;7;10568;50.30;21011
+MN;;;1010;Council Member at Large (Cottage Grove) (Elect 2);13456;9901;WRITE-IN;;;WI;7;7;346;1.65;21011
+MN;;;1012;Special Election for Council Member at Large (Cottage Grove);13456;9001;Tony Khambata;;;NP;7;7;11796;98.59;11965
+MN;;;1012;Special Election for Council Member at Large (Cottage Grove);13456;9901;WRITE-IN;;;WI;7;7;169;1.41;11965
 MN;;;4012;Town Supervisor Seat B (Cottonwood Township);13546;9901;WRITE-IN;;;WI;1;1;151;100.00;151
 MN;;;4021;Town Clerk (Cottonwood Township);13546;9001;Lisa Leskey;;;NP;1;1;390;99.49;392
 MN;;;4021;Town Clerk (Cottonwood Township);13546;9901;WRITE-IN;;;WI;1;1;2;0.51;392
@@ -3222,9 +3222,9 @@ MN;;;1010;Council Member at Large (Granite Falls) (Elect 2);25280;9002;Brad Pete
 MN;;;1010;Council Member at Large (Granite Falls) (Elect 2);25280;9901;WRITE-IN;;;WI;2;2;10;0.61;1642
 MN;;;1022;Council Member Ward 2 (Granite Falls);25280;9001;DuWayne Galow;;;NP;1;1;348;98.58;353
 MN;;;1022;Council Member Ward 2 (Granite Falls);25280;9901;WRITE-IN;;;WI;1;1;5;1.42;353
-MN;;;1010;Council Member at Large (Grant) (Elect 2);25334;9001;Jeff Giefer;;;NP;2;2;1501;49.60;3026
-MN;;;1010;Council Member at Large (Grant) (Elect 2);25334;9002;John Rog;;;NP;2;2;1439;47.55;3026
-MN;;;1010;Council Member at Large (Grant) (Elect 2);25334;9901;WRITE-IN;;;WI;2;2;86;2.84;3026
+MN;;;1010;Council Member at Large (Grant) (Elect 2);25334;9001;Jeff Giefer;;;NP;2;2;1500;49.60;3024
+MN;;;1010;Council Member at Large (Grant) (Elect 2);25334;9002;John Rog;;;NP;2;2;1438;47.55;3024
+MN;;;1010;Council Member at Large (Grant) (Elect 2);25334;9901;WRITE-IN;;;WI;2;2;86;2.84;3024
 MN;;;4013;Town Supervisor Seat C (Granville Township);25370;9001;Brent Pearson;;;NP;1;1;42;100.00;42
 MN;;;4013;Town Supervisor Seat C (Granville Township);25370;9901;WRITE-IN;;;WI;1;1;0;0.00;42
 MN;;;4022;Town Treasurer (Granville Township);25370;9001;C.J. Peterson;;;NP;1;1;39;92.86;42
@@ -4725,9 +4725,9 @@ MN;;;1001;Mayor (Lismore);37412;9001;Wayne Bents;;;NP;1;1;41;52.56;78
 MN;;;1001;Mayor (Lismore);37412;9901;WRITE-IN;;;WI;1;1;37;47.44;78
 MN;;;1010;Council Member (Lismore) (Elect 2);37412;9001;Ryan Schieck;;;NP;1;1;59;50.86;116
 MN;;;1010;Council Member (Lismore) (Elect 2);37412;9901;WRITE-IN;;;WI;1;1;57;49.14;116
-MN;;;1001;Mayor (Litchfield);37448;9001;Darlene Kotelnicki;;;NP;5;5;877;34.01;2579
-MN;;;1001;Mayor (Litchfield);37448;9002;Ron Dingmann;;;NP;5;5;1681;65.18;2579
-MN;;;1001;Mayor (Litchfield);37448;9901;WRITE-IN;;;WI;5;5;21;0.81;2579
+MN;;;1001;Mayor (Litchfield);37448;9001;Darlene Kotelnicki;;;NP;5;5;876;33.98;2578
+MN;;;1001;Mayor (Litchfield);37448;9002;Ron Dingmann;;;NP;5;5;1681;65.21;2578
+MN;;;1001;Mayor (Litchfield);37448;9901;WRITE-IN;;;WI;5;5;21;0.81;2578
 MN;;;1020;Council Member Ward 1 (Litchfield);37448;9001;Holly Flemming;;;NP;1;1;275;44.72;615
 MN;;;1020;Council Member Ward 1 (Litchfield);37448;9002;Eric Mathwig;;;NP;1;1;339;55.12;615
 MN;;;1020;Council Member Ward 1 (Litchfield);37448;9901;WRITE-IN;;;WI;1;1;1;0.16;615
@@ -4736,8 +4736,8 @@ MN;;;1024;Council Member Ward 3 (Litchfield);37448;9901;WRITE-IN;;;WI;1;1;3;0.69
 MN;;;1028;Council Member Ward 5 (Litchfield);37448;9001;Robert Powers;;;NP;1;1;111;27.41;405
 MN;;;1028;Council Member Ward 5 (Litchfield);37448;9002;Sara Miller;;;NP;1;1;292;72.10;405
 MN;;;1028;Council Member Ward 5 (Litchfield);37448;9901;WRITE-IN;;;WI;1;1;2;0.49;405
-MN;;;1131;CITY QUESTION 1 (Litchfield);37448;9001;YES;;;NP;5;5;1431;55.66;2571
-MN;;;1131;CITY QUESTION 1 (Litchfield);37448;9002;NO;;;NP;5;5;1140;44.34;2571
+MN;;;1131;CITY QUESTION 1 (Litchfield);37448;9001;YES;;;NP;5;5;1431;55.68;2570
+MN;;;1131;CITY QUESTION 1 (Litchfield);37448;9002;NO;;;NP;5;5;1139;44.32;2570
 MN;;;1001;Mayor (Little Canada);37502;9001;Tom Fischer;;;NP;3;3;2956;97.65;3027
 MN;;;1001;Mayor (Little Canada);37502;9901;WRITE-IN;;;WI;3;3;71;2.35;3027
 MN;;;1010;Council Member (Little Canada) (Elect 2);37502;9001;Amanda Gutierrez;;;NP;3;3;2010;37.95;5297
@@ -5690,11 +5690,11 @@ MN;;;1001;Mayor (New Munich);45772;9901;WRITE-IN;;;WI;1;1;57;100.00;57
 MN;;;1010;Council Member (New Munich) (Elect 2);45772;9001;Kurt Thelen;;;NP;1;1;99;49.01;202
 MN;;;1010;Council Member (New Munich) (Elect 2);45772;9002;Jordan Schmiesing;;;NP;1;1;98;48.51;202
 MN;;;1010;Council Member (New Munich) (Elect 2);45772;9901;WRITE-IN;;;WI;1;1;5;2.48;202
-MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9001;Tom Ingemann;;;NP;1;1;695;30.13;2307
-MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9002;Zachary Murphy;;;NP;1;1;447;19.38;2307
-MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9003;Tony Mahmood;;;NP;1;1;501;21.72;2307
-MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9004;Bill Sumner;;;NP;1;1;638;27.65;2307
-MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9901;WRITE-IN;;;WI;1;1;26;1.13;2307
+MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9001;Tom Ingemann;;;NP;1;1;695;30.14;2306
+MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9002;Zachary Murphy;;;NP;1;1;447;19.38;2306
+MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9003;Tony Mahmood;;;NP;1;1;501;21.73;2306
+MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9004;Bill Sumner;;;NP;1;1;637;27.62;2306
+MN;;;1010;Council Member at Large (Newport) (Elect 2);45790;9901;WRITE-IN;;;WI;1;1;26;1.13;2306
 MN;;;1001;Mayor (New Prague);45808;9001;Duane J. "Dewey" Jirik;;;NP;2;2;3083;98.31;3136
 MN;;;1001;Mayor (New Prague);45808;9901;WRITE-IN;;;WI;2;2;53;1.69;3136
 MN;;;1010;Council Member (New Prague) (Elect 2);45808;9001;Rik Seiler;;;NP;2;2;2294;48.05;4774
@@ -6673,9 +6673,9 @@ MN;;;1024;Council Member Ward 3 (Robbinsdale);54808;9901;WRITE-IN;;;WI;1;1;5;0.3
 MN;;;1026;Council Member Ward 4 (Robbinsdale);54808;9001;Aaron Wagner;;;NP;1;1;809;56.38;1435
 MN;;;1026;Council Member Ward 4 (Robbinsdale);54808;9004;Pat Backen;;;NP;1;1;618;43.07;1435
 MN;;;1026;Council Member Ward 4 (Robbinsdale);54808;9901;WRITE-IN;;;WI;1;1;8;0.56;1435
-MN;;;1001;Mayor (Rochester);54880;9002;Britt Noser;;;NP;80;80;19314;41.79;46216
-MN;;;1001;Mayor (Rochester);54880;9003;Kim Norton;;;NP;80;80;26809;58.01;46216
-MN;;;1001;Mayor (Rochester);54880;9901;WRITE-IN;;;WI;80;80;93;0.20;46216
+MN;;;1001;Mayor (Rochester);54880;9002;Britt Noser;;;NP;80;80;19315;41.79;46217
+MN;;;1001;Mayor (Rochester);54880;9003;Kim Norton;;;NP;80;80;26809;58.01;46217
+MN;;;1001;Mayor (Rochester);54880;9901;WRITE-IN;;;WI;80;80;93;0.20;46217
 MN;;;1020;Council Member District 1 (Rochester);54880;9002;Patrick Keane;;;NP;14;14;5616;70.20;8000
 MN;;;1020;Council Member District 1 (Rochester);54880;9003;Andy Hemenway;;;NP;14;14;2367;29.59;8000
 MN;;;1020;Council Member District 1 (Rochester);54880;9901;WRITE-IN;;;WI;14;14;17;0.21;8000
@@ -7596,9 +7596,9 @@ MN;;;1001;Mayor (Sturgeon Lake);63220;9001;Scott Helfman;;;NP;1;1;112;64.74;173
 MN;;;1001;Mayor (Sturgeon Lake);63220;9002;Jess Langhorst;;;NP;1;1;18;10.40;173
 MN;;;1001;Mayor (Sturgeon Lake);63220;9003;Todd C. Danelski;;;NP;1;1;43;24.86;173
 MN;;;1001;Mayor (Sturgeon Lake);63220;9901;WRITE-IN;;;WI;1;1;0;0.00;173
-MN;;;1010;Council Member (Sturgeon Lake) (Elect 2);63220;9001;David Lingle;;;NP;1;1;93;37.80;246
-MN;;;1010;Council Member (Sturgeon Lake) (Elect 2);63220;9002;Nicholas Dagel;;;NP;1;1;102;41.46;246
-MN;;;1010;Council Member (Sturgeon Lake) (Elect 2);63220;9901;WRITE-IN;;;WI;1;1;51;20.73;246
+MN;;;1010;Council Member (Sturgeon Lake) (Elect 2);63220;9001;David Lingle;;;NP;1;1;93;37.35;249
+MN;;;1010;Council Member (Sturgeon Lake) (Elect 2);63220;9002;Nicholas Dagel;;;NP;1;1;102;40.96;249
+MN;;;1010;Council Member (Sturgeon Lake) (Elect 2);63220;9901;WRITE-IN;;;WI;1;1;54;21.69;249
 MN;;;1012;Special Election for Council Member (Sturgeon Lake) (Elect 2);63220;9001;Adam Langhorst;;;NP;1;1;88;39.11;225
 MN;;;1012;Special Election for Council Member (Sturgeon Lake) (Elect 2);63220;9002;Kris Philipps;;;NP;1;1;80;35.56;225
 MN;;;1012;Special Election for Council Member (Sturgeon Lake) (Elect 2);63220;9901;WRITE-IN;;;WI;1;1;57;25.33;225
