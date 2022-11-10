@@ -2285,13 +2285,13 @@ MN;;;1001;Mayor (Dunnell);17180;9901;WRITE-IN;;;WI;1;1;9;19.15;47
 MN;;;1010;Council Member (Dunnell) (Elect 2);17180;9001;Terry Helmers;;;NP;1;1;30;40.54;74
 MN;;;1010;Council Member (Dunnell) (Elect 2);17180;9002;Robert L. Hecht;;;NP;1;1;39;52.70;74
 MN;;;1010;Council Member (Dunnell) (Elect 2);17180;9901;WRITE-IN;;;WI;1;1;5;6.76;74
-MN;;;1001;Mayor (Eagan);17288;9001;Mike Maguire;;;NP;18;18;24030;97.65;24608
-MN;;;1001;Mayor (Eagan);17288;9901;WRITE-IN;;;WI;18;18;578;2.35;24608
-MN;;;1010;Council Member (Eagan) (Elect 2);17288;9001;Edward Arias;;;NP;18;18;4816;10.67;45129
-MN;;;1010;Council Member (Eagan) (Elect 2);17288;9002;Margaret Jae Cody;;;NP;18;18;10708;23.73;45129
-MN;;;1010;Council Member (Eagan) (Elect 2);17288;9003;Paul Bakken;;;NP;18;18;16291;36.10;45129
-MN;;;1010;Council Member (Eagan) (Elect 2);17288;9004;Gary Hansen;;;NP;18;18;13000;28.81;45129
-MN;;;1010;Council Member (Eagan) (Elect 2);17288;9901;WRITE-IN;;;WI;18;18;314;0.70;45129
+MN;;;1001;Mayor (Eagan);17288;9001;Mike Maguire;;;NP;18;18;24030;97.66;24607
+MN;;;1001;Mayor (Eagan);17288;9901;WRITE-IN;;;WI;18;18;577;2.34;24607
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9001;Edward Arias;;;NP;18;18;4816;10.67;45126
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9002;Margaret Jae Cody;;;NP;18;18;10707;23.73;45126
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9003;Paul Bakken;;;NP;18;18;16290;36.10;45126
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9004;Gary Hansen;;;NP;18;18;12999;28.81;45126
+MN;;;1010;Council Member (Eagan) (Elect 2);17288;9901;WRITE-IN;;;WI;18;18;314;0.70;45126
 MN;;;4010;Town Supervisor Seat A (Eagle Township);17332;9001;Robert H. Switzer;;;NP;1;1;271;98.19;276
 MN;;;4010;Town Supervisor Seat A (Eagle Township);17332;9901;WRITE-IN;;;WI;1;1;5;1.81;276
 MN;;;4021;Town Clerk (Eagle Township);17332;9001;Debra A. Switzer;;;NP;1;1;273;98.56;277
@@ -6771,12 +6771,12 @@ MN;;;4012;Town Supervisor Seat B (Rose Dell Township);55654;9001;Joe Buysse;;;NP
 MN;;;4012;Town Supervisor Seat B (Rose Dell Township);55654;9901;WRITE-IN;;;WI;1;1;2;3.13;64
 MN;;;4022;Town Treasurer (Rose Dell Township);55654;9001;Jerry Purdin;;;NP;1;1;60;96.77;62
 MN;;;4022;Town Treasurer (Rose Dell Township);55654;9901;WRITE-IN;;;WI;1;1;2;3.23;62
-MN;;;1001;Mayor (Rosemount);55726;9001;Jason Moore;;;NP;8;8;3761;36.06;10429
-MN;;;1001;Mayor (Rosemount);55726;9002;Jeff Weisensel;;;NP;8;8;6559;62.89;10429
-MN;;;1001;Mayor (Rosemount);55726;9901;WRITE-IN;;;WI;8;8;109;1.05;10429
-MN;;;1010;Council Member (Rosemount) (Elect 2);55726;9001;Tammy Block;;;NP;8;8;5872;43.28;13569
-MN;;;1010;Council Member (Rosemount) (Elect 2);55726;9002;Paul Essler;;;NP;8;8;7437;54.81;13569
-MN;;;1010;Council Member (Rosemount) (Elect 2);55726;9901;WRITE-IN;;;WI;8;8;260;1.92;13569
+MN;;;1001;Mayor (Rosemount);55726;9001;Jason Moore;;;NP;8;8;3760;36.06;10428
+MN;;;1001;Mayor (Rosemount);55726;9002;Jeff Weisensel;;;NP;8;8;6559;62.90;10428
+MN;;;1001;Mayor (Rosemount);55726;9901;WRITE-IN;;;WI;8;8;109;1.05;10428
+MN;;;1010;Council Member (Rosemount) (Elect 2);55726;9001;Tammy Block;;;NP;8;8;5872;43.28;13568
+MN;;;1010;Council Member (Rosemount) (Elect 2);55726;9002;Paul Essler;;;NP;8;8;7436;54.81;13568
+MN;;;1010;Council Member (Rosemount) (Elect 2);55726;9901;WRITE-IN;;;WI;8;8;260;1.92;13568
 MN;;;4013;Town Supervisor Seat 3 (Rosendale Township);55780;9901;WRITE-IN;;;WI;1;1;13;100.00;13
 MN;;;4010;Town Supervisor Seat A (Roseville Township);55816;9001;Ronald Prahl;;;NP;1;1;54;100.00;54
 MN;;;4010;Town Supervisor Seat A (Roseville Township);55816;9901;WRITE-IN;;;WI;1;1;0;0.00;54
@@ -8747,7 +8747,7 @@ MN;;;1010;Council Member (Zumbrota) (Elect 2);72328;9002;Dirk R. Cedergren;;;NP;
 MN;;;1010;Council Member (Zumbrota) (Elect 2);72328;9003;Kevin Amundson;;;NP;2;2;714;26.18;2727
 MN;;;1010;Council Member (Zumbrota) (Elect 2);72328;9004;Lisa L. Johnson;;;NP;2;2;664;24.35;2727
 MN;;;1010;Council Member (Zumbrota) (Elect 2);72328;9901;WRITE-IN;;;WI;2;2;16;0.59;2727
-MN;;;6003;Special Election for Hospital District Board Member (Arlone Township);02188;9901;WRITE-IN;;;WI;1;1;1;100.00;1
+MN;;;6003;Special Election for Hospital District Board Member (Arlone Township);02188;9901;WRITE-IN;;;WI;1;1;20;100.00;20
 MN;;;6003;Hospital District Board Member (Askov);02548;9001;Sandy Gebhart;;;NP;1;1;86;94.51;91
 MN;;;6003;Hospital District Board Member (Askov);02548;9901;WRITE-IN;;;WI;1;1;5;5.49;91
 MN;;;6003;Hospital District Board Member (Bay Lake Township);04096;9901;WRITE-IN;;;WI;1;1;46;100.00;46

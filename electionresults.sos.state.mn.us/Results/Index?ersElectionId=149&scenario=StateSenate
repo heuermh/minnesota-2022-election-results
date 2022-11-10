@@ -334,10 +334,10 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 1:38 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 3:18 PM
                             </td>
                             <td class="text-right">
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,563,149
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,563,148
                             </td>
                     </tr>
             </table>
@@ -352,13 +352,13 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 1:38 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 3:18 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,563,149
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,563,148
                             </td>
                         </tr>
             </table>
@@ -398,7 +398,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Mark Johnson</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,324</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,320</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">97.14%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="97" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -2744,7 +2744,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Stephen Lowell</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">15,069</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">15,068</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">36.63%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="36" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -2752,7 +2752,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jim Carlson</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26,005</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26,004</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">63.22%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="63" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -2928,7 +2928,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jim Bean</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,008</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,007</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">43.25%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="43" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
