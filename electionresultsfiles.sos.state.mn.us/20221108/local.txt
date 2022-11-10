@@ -1655,15 +1655,15 @@ MN;;;1010;Council Member (Cokato) (Elect 2);12430;9001;Kevin J. Wilson;;;NP;1;1;
 MN;;;1010;Council Member (Cokato) (Elect 2);12430;9002;Jarod Sebring;;;NP;1;1;686;45.31;1514
 MN;;;1010;Council Member (Cokato) (Elect 2);12430;9003;Jesse Masloski;;;NP;1;1;244;16.12;1514
 MN;;;1010;Council Member (Cokato) (Elect 2);12430;9901;WRITE-IN;;;WI;1;1;6;0.40;1514
-MN;;;1001;Mayor (Cold Spring);12484;9001;Doug Schmitz;;;NP;1;1;764;43.56;1754
-MN;;;1001;Mayor (Cold Spring);12484;9002;David Heinen;;;NP;1;1;974;55.53;1754
-MN;;;1001;Mayor (Cold Spring);12484;9901;WRITE-IN;;;WI;1;1;16;0.91;1754
-MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9001;Mike Fall;;;NP;1;1;829;27.74;2989
-MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9002;Ryan Hennen;;;NP;1;1;949;31.75;2989
-MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9003;Paul Waletzko;;;NP;1;1;440;14.72;2989
-MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9004;Stephanie Ferguson;;;NP;1;1;567;18.97;2989
-MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9005;Thomas John LeGassa;;;NP;1;1;197;6.59;2989
-MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9901;WRITE-IN;;;WI;1;1;7;0.23;2989
+MN;;;1001;Mayor (Cold Spring);12484;9001;Doug Schmitz;;;NP;1;1;764;43.58;1753
+MN;;;1001;Mayor (Cold Spring);12484;9002;David Heinen;;;NP;1;1;973;55.50;1753
+MN;;;1001;Mayor (Cold Spring);12484;9901;WRITE-IN;;;WI;1;1;16;0.91;1753
+MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9001;Mike Fall;;;NP;1;1;828;27.72;2987
+MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9002;Ryan Hennen;;;NP;1;1;949;31.77;2987
+MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9003;Paul Waletzko;;;NP;1;1;440;14.73;2987
+MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9004;Stephanie Ferguson;;;NP;1;1;566;18.95;2987
+MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9005;Thomas John LeGassa;;;NP;1;1;197;6.60;2987
+MN;;;1010;Council Member (Cold Spring) (Elect 2);12484;9901;WRITE-IN;;;WI;1;1;7;0.23;2987
 MN;;;1001;Mayor (Coleraine);12502;9002;Thomas Nielsen;;;NP;1;1;678;98.12;691
 MN;;;1001;Mayor (Coleraine);12502;9901;WRITE-IN;;;WI;1;1;13;1.88;691
 MN;;;1010;Council Member (Coleraine) (Elect 2);12502;9001;Jennifer "Eichorn" Dreher;;;NP;1;1;357;32.43;1101
@@ -4041,12 +4041,12 @@ MN;;;4013;Town Supervisor Seat 3 (Jamestown Township);31688;9001;Fred Friedrichs
 MN;;;4013;Town Supervisor Seat 3 (Jamestown Township);31688;9901;WRITE-IN;;;WI;1;1;1;0.34;293
 MN;;;4021;Town Clerk (Jamestown Township);31688;9001;Ava M. Adams-Morris;;;NP;1;1;285;100.00;285
 MN;;;4021;Town Clerk (Jamestown Township);31688;9901;WRITE-IN;;;WI;1;1;0;0.00;285
-MN;;;1001;Mayor (Janesville);31706;9001;Andrew Arnoldt;;;NP;1;1;860;96.63;890
-MN;;;1001;Mayor (Janesville);31706;9901;WRITE-IN;;;WI;1;1;30;3.37;890
-MN;;;1010;Council Member (Janesville);31706;9001;Ivan Maas;;;NP;1;1;558;36.52;1528
-MN;;;1010;Council Member (Janesville);31706;9002;Daniel Frenk;;;NP;1;1;468;30.63;1528
-MN;;;1010;Council Member (Janesville);31706;9003;Melissa Kopachek;;;NP;1;1;490;32.07;1528
-MN;;;1010;Council Member (Janesville);31706;9901;WRITE-IN;;;WI;1;1;12;0.79;1528
+MN;;;1001;Mayor (Janesville);31706;9001;Andrew Arnoldt;;;NP;1;1;859;96.63;889
+MN;;;1001;Mayor (Janesville);31706;9901;WRITE-IN;;;WI;1;1;30;3.37;889
+MN;;;1010;Council Member (Janesville);31706;9001;Ivan Maas;;;NP;1;1;557;36.48;1527
+MN;;;1010;Council Member (Janesville);31706;9002;Daniel Frenk;;;NP;1;1;468;30.65;1527
+MN;;;1010;Council Member (Janesville);31706;9003;Melissa Kopachek;;;NP;1;1;490;32.09;1527
+MN;;;1010;Council Member (Janesville);31706;9901;WRITE-IN;;;WI;1;1;12;0.79;1527
 MN;;;1001;Mayor (Jasper);31760;9001;Mike Baustian;;;NP;2;2;137;92.57;148
 MN;;;1001;Mayor (Jasper);31760;9901;WRITE-IN;;;WI;2;2;11;7.43;148
 MN;;;1010;Council Member (Jasper) (Elect 3);31760;9001;Brian Sievert;;;NP;2;2;118;26.11;452

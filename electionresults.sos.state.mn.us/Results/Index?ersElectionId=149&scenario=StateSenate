@@ -334,7 +334,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 12:08 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 12:48 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,563,149
@@ -352,7 +352,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 12:08 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/10/22 12:48 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -951,14 +951,14 @@
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jeff Howe</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">27,295</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">70.02%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">70.03%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="70" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Alissa Brickman</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,648</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,647</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">29.88%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="29" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1050,7 +1050,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Anita Gaul</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,418</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,417</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">28.76%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="28" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1226,7 +1226,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">John R. Jasinski</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">22,452</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">22,451</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">65.29%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="65" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1235,7 +1235,7 @@
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Kate E. Falvey</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">11,910</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">34.63%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">34.64%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="34" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
