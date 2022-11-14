@@ -334,10 +334,10 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/14/22 9:18 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/14/22 1:38 PM
                             </td>
                             <td class="text-right">
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,629
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,741
                             </td>
                     </tr>
             </table>
@@ -352,13 +352,13 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/14/22 9:18 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/14/22 1:38 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,629
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,741
                             </td>
                         </tr>
             </table>
@@ -896,7 +896,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Torrey Westrom</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26,179</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">26,178</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">68.01%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="68" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1042,7 +1042,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Gary Dahms</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">25,781</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">25,780</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">71.18%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="71" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -1088,16 +1088,16 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Andrew Robert Lang</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24,607</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.67%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">24,596</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">69.66%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="69" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Fernando Alvarado</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,692</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">30.27%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">10,690</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">30.28%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="30" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
@@ -1356,7 +1356,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Rich Draheim</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">29,779</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">29,792</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">96.87%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="96" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
