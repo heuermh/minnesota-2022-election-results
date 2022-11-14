@@ -264,12 +264,12 @@ MN;03;;0110;U.S. Representative District 7;7;0201;Travis "Bull" Johnson;;;LMN;33
 MN;03;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;33;33;8849;66.16;13375
 MN;03;;0110;U.S. Representative District 7;7;0401;Jill Abahsain;;;DFL;33;33;3819;28.55;13375
 MN;03;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;33;33;6;0.04;13375
-MN;03;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;14;14;794;60.61;1310
-MN;03;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;14;14;515;39.31;1310
-MN;03;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;14;14;1;0.08;1310
-MN;03;;0122;State Senator District 2;2;0301;Steve Green;;;R;12;12;633;59.94;1056
-MN;03;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;12;12;422;39.96;1056
-MN;03;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;12;12;1;0.09;1056
+MN;03;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;14;14;794;60.66;1309
+MN;03;;0111;U.S. Representative District 8;8;0401;Jen Schultz;;;DFL;14;14;514;39.27;1309
+MN;03;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;14;14;1;0.08;1309
+MN;03;;0122;State Senator District 2;2;0301;Steve Green;;;R;12;12;633;60.00;1055
+MN;03;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;12;12;421;39.91;1055
+MN;03;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;12;12;1;0.09;1055
 MN;03;;0124;State Senator District 4;4;0301;Dan Bohmer;;;R;17;17;5108;59.20;8628
 MN;03;;0124;State Senator District 4;4;0401;Rob Kupec;;;DFL;17;17;3488;40.43;8628
 MN;03;;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;17;17;32;0.37;8628
@@ -285,27 +285,27 @@ MN;03;;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;17;17;10;0.12
 MN;03;;0196;State Representative District 5A;5A;0301;Krista Knudsen;;;R;18;18;3664;74.10;4945
 MN;03;;0196;State Representative District 5A;5A;0401;Brian M. Hobson;;;DFL;18;18;1277;25.82;4945
 MN;03;;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;18;18;4;0.08;4945
-MN;03;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;47;47;140;0.95;14740
-MN;03;;0331;Governor & Lt Governor;;0201;James McCaskel and David Sandbeck;;;LMN;47;47;219;1.49;14740
-MN;03;;0331;Governor & Lt Governor;;0301;Scott Jensen and Matt Birk;;;R;47;47;9480;64.31;14740
-MN;03;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;47;47;4737;32.14;14740
-MN;03;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;47;47;140;0.95;14740
-MN;03;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;47;47;21;0.14;14740
-MN;03;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;47;47;3;0.02;14740
+MN;03;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;47;47;140;0.95;14739
+MN;03;;0331;Governor & Lt Governor;;0201;James McCaskel and David Sandbeck;;;LMN;47;47;219;1.49;14739
+MN;03;;0331;Governor & Lt Governor;;0301;Scott Jensen and Matt Birk;;;R;47;47;9480;64.32;14739
+MN;03;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;47;47;4736;32.13;14739
+MN;03;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;47;47;140;0.95;14739
+MN;03;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;47;47;21;0.14;14739
+MN;03;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;47;47;3;0.02;14739
 MN;03;;0332;Secretary of State;;0301;Kim Crockett;;;R;47;47;9636;66.26;14542
 MN;03;;0332;Secretary of State;;0401;Steve Simon;;;DFL;47;47;4896;33.67;14542
 MN;03;;0332;Secretary of State;;9901;WRITE-IN;;;WI;47;47;10;0.07;14542
-MN;03;;0333;State Auditor;;0101;Will Finn;;;GLC;47;47;215;1.47;14585
-MN;03;;0333;State Auditor;;0201;Tim Davis;;;LMN;47;47;479;3.28;14585
-MN;03;;0333;State Auditor;;0301;Ryan Wilson;;;R;47;47;9451;64.80;14585
-MN;03;;0333;State Auditor;;0401;Julie Blaha;;;DFL;47;47;4435;30.41;14585
-MN;03;;0333;State Auditor;;9901;WRITE-IN;;;WI;47;47;5;0.03;14585
-MN;03;;0335;Attorney General;;0301;Jim Schultz;;;R;47;47;9918;67.64;14663
-MN;03;;0335;Attorney General;;0401;Keith Ellison;;;DFL;47;47;4738;32.31;14663
-MN;03;;0335;Attorney General;;9901;WRITE-IN;;;WI;47;47;7;0.05;14663
-MN;03;;0391;County Commissioner District 1;01;9001;Craig Hall;;;NP;19;19;1445;48.07;3006
-MN;03;;0391;County Commissioner District 1;01;9002;Erica Jepson;;;NP;19;19;1556;51.76;3006
-MN;03;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;19;19;5;0.17;3006
+MN;03;;0333;State Auditor;;0101;Will Finn;;;GLC;47;47;215;1.47;14584
+MN;03;;0333;State Auditor;;0201;Tim Davis;;;LMN;47;47;479;3.28;14584
+MN;03;;0333;State Auditor;;0301;Ryan Wilson;;;R;47;47;9450;64.80;14584
+MN;03;;0333;State Auditor;;0401;Julie Blaha;;;DFL;47;47;4435;30.41;14584
+MN;03;;0333;State Auditor;;9901;WRITE-IN;;;WI;47;47;5;0.03;14584
+MN;03;;0335;Attorney General;;0301;Jim Schultz;;;R;47;47;9917;67.64;14662
+MN;03;;0335;Attorney General;;0401;Keith Ellison;;;DFL;47;47;4738;32.31;14662
+MN;03;;0335;Attorney General;;9901;WRITE-IN;;;WI;47;47;7;0.05;14662
+MN;03;;0391;County Commissioner District 1;01;9001;Craig Hall;;;NP;19;19;1444;48.05;3005
+MN;03;;0391;County Commissioner District 1;01;9002;Erica Jepson;;;NP;19;19;1556;51.78;3005
+MN;03;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;19;19;5;0.17;3005
 MN;03;;0392;County Commissioner District 2;02;9001;Ben Grimsley;;;NP;3;3;1072;40.39;2654
 MN;03;;0392;County Commissioner District 2;02;9004;David Meyer;;;NP;3;3;1577;59.42;2654
 MN;03;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;3;3;5;0.19;2654
@@ -318,8 +318,8 @@ MN;03;;0405;County Attorney;;9001;Brian W. McDonald;;;NP;47;47;11591;99.20;11685
 MN;03;;0405;County Attorney;;9901;WRITE-IN;;;WI;47;47;94;0.80;11685
 MN;03;;0431;Soil and Water Supervisor District 1;1005;9001;Curtis R. Ballard;;;NP;47;47;11587;99.48;11648
 MN;03;;0431;Soil and Water Supervisor District 1;1005;9901;WRITE-IN;;;WI;47;47;61;0.52;11648
-MN;03;;0434;Soil and Water Supervisor District 4;1005;9001;Eugene Pavelko;;;NP;47;47;11430;99.46;11492
-MN;03;;0434;Soil and Water Supervisor District 4;1005;9901;WRITE-IN;;;WI;47;47;62;0.54;11492
+MN;03;;0434;Soil and Water Supervisor District 4;1005;9001;Eugene Pavelko;;;NP;47;47;11429;99.46;11491
+MN;03;;0434;Soil and Water Supervisor District 4;1005;9901;WRITE-IN;;;WI;47;47;62;0.54;11491
 MN;03;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;47;47;10027;99.43;10084
 MN;03;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;47;47;57;0.57;10084
 MN;03;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;47;47;9950;99.42;10008
