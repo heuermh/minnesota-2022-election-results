@@ -5873,11 +5873,11 @@ MN;62;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;162;162;127;0.06;218075
 MN;62;;0332;Secretary of State;;0301;Kim Crockett;;;R;162;162;55129;25.73;214298
 MN;62;;0332;Secretary of State;;0401;Steve Simon;;;DFL;162;162;158893;74.15;214298
 MN;62;;0332;Secretary of State;;9901;WRITE-IN;;;WI;162;162;276;0.13;214298
-MN;62;;0333;State Auditor;;0101;Will Finn;;;GLC;162;162;5569;2.63;211900
-MN;62;;0333;State Auditor;;0201;Tim Davis;;;LMN;162;162;9472;4.47;211900
-MN;62;;0333;State Auditor;;0301;Ryan Wilson;;;R;162;162;58035;27.39;211900
-MN;62;;0333;State Auditor;;0401;Julie Blaha;;;DFL;162;162;138676;65.44;211900
-MN;62;;0333;State Auditor;;9901;WRITE-IN;;;WI;162;162;148;0.07;211900
+MN;62;;0333;State Auditor;;0101;Will Finn;;;GLC;162;162;5569;2.63;211901
+MN;62;;0333;State Auditor;;0201;Tim Davis;;;LMN;162;162;9472;4.47;211901
+MN;62;;0333;State Auditor;;0301;Ryan Wilson;;;R;162;162;58035;27.39;211901
+MN;62;;0333;State Auditor;;0401;Julie Blaha;;;DFL;162;162;138676;65.44;211901
+MN;62;;0333;State Auditor;;9901;WRITE-IN;;;WI;162;162;149;0.07;211901
 MN;62;;0335;Attorney General;;0301;Jim Schultz;;;R;162;162;64014;29.74;215241
 MN;62;;0335;Attorney General;;0401;Keith Ellison;;;DFL;162;162;150907;70.11;215241
 MN;62;;0335;Attorney General;;9901;WRITE-IN;;;WI;162;162;320;0.15;215241
@@ -5887,60 +5887,60 @@ MN;62;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;22;22;195;0.98;
 MN;62;;0394;County Commissioner District 4;04;9002;Darryl Spence;;;NP;23;23;4177;17.86;23394
 MN;62;;0394;County Commissioner District 4;04;9003;Rena Moran;;;NP;23;23;19015;81.28;23394
 MN;62;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;23;23;202;0.86;23394
-MN;62;;0395;County Commissioner District 5;05;9002;Bill Hosko;;;NP;22;22;7455;28.54;26119
-MN;62;;0395;County Commissioner District 5;05;9003;Rafael E. Ortega;;;NP;22;22;18497;70.82;26119
-MN;62;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;22;22;167;0.64;26119
+MN;62;;0395;County Commissioner District 5;05;9002;Bill Hosko;;;NP;22;22;7455;28.54;26120
+MN;62;;0395;County Commissioner District 5;05;9003;Rafael E. Ortega;;;NP;22;22;18497;70.82;26120
+MN;62;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;22;22;168;0.64;26120
 MN;62;;0396;County Commissioner District 6;06;9002;Ying Vang-Pao;;;NP;21;21;7780;48.83;15933
 MN;62;;0396;County Commissioner District 6;06;9003;Mai Chong Xiong;;;NP;21;21;7993;50.17;15933
 MN;62;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;21;21;160;1.00;15933
-MN;62;;0404;County Sheriff;;9001;Bob Fletcher;;;NP;162;162;136429;96.42;141494
-MN;62;;0404;County Sheriff;;9901;WRITE-IN;;;WI;162;162;5065;3.58;141494
-MN;62;;0405;County Attorney;;9001;John J. Choi;;;NP;162;162;137761;97.69;141017
-MN;62;;0405;County Attorney;;9901;WRITE-IN;;;WI;162;162;3256;2.31;141017
-MN;62;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;162;162;94302;98.43;95809
-MN;62;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;162;162;1507;1.57;95809
-MN;62;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;162;162;93228;98.66;94496
-MN;62;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;162;162;1268;1.34;94496
-MN;62;;7010;Judge - Court of Appeals 1;;9001;Theodora Karin Gaitas;;;NP;162;162;90059;98.67;91271
-MN;62;;7010;Judge - Court of Appeals 1;;9901;WRITE-IN;;;WI;162;162;1212;1.33;91271
-MN;62;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;162;162;88623;98.55;89925
-MN;62;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN;;;WI;162;162;1302;1.45;89925
-MN;62;;7016;Judge - Court of Appeals 7;;9001;Susan Segal;;;NP;162;162;89840;98.65;91071
-MN;62;;7016;Judge - Court of Appeals 7;;9901;WRITE-IN;;;WI;162;162;1231;1.35;91071
-MN;62;;7017;Judge - Court of Appeals 8;;9001;Denise D Reilly;;;NP;162;162;88784;98.74;89915
-MN;62;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;162;162;1131;1.26;89915
-MN;62;;7019;Judge - Court of Appeals 10;;9001;Jennifer L. Frisch;;;NP;162;162;91182;98.66;92419
-MN;62;;7019;Judge - Court of Appeals 10;;9901;WRITE-IN;;;WI;162;162;1237;1.34;92419
-MN;62;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;162;162;88428;98.57;89707
-MN;62;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN;;;WI;162;162;1279;1.43;89707
-MN;62;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;162;162;87123;98.59;88371
-MN;62;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;162;162;1248;1.41;88371
-MN;62;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;162;162;85702;98.47;87034
-MN;62;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;162;162;1332;1.53;87034
-MN;62;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;162;162;86056;98.52;87346
-MN;62;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;162;162;1290;1.48;87346
-MN;62;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;162;162;86300;98.59;87534
-MN;62;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN;;;WI;162;162;1234;1.41;87534
-MN;62;;8304;Judge - 2nd District Court 5;02;9001;Andrew Gordon;;;NP;162;162;88396;98.66;89600
-MN;62;;8304;Judge - 2nd District Court 5;02;9901;WRITE-IN;;;WI;162;162;1204;1.34;89600
-MN;62;;8305;Judge - 2nd District Court 6;02;9001;Richard H. Kyle Jr.;;;NP;162;162;87134;98.64;88336
-MN;62;;8305;Judge - 2nd District Court 6;02;9901;WRITE-IN;;;WI;162;162;1202;1.36;88336
-MN;62;;8308;Judge - 2nd District Court 9;02;9001;Sara Grewing;;;NP;162;162;88125;98.72;89272
-MN;62;;8308;Judge - 2nd District Court 9;02;9901;WRITE-IN;;;WI;162;162;1147;1.28;89272
-MN;62;;8309;Judge - 2nd District Court 10;02;9001;Kellie Charles;;;NP;162;162;86773;98.71;87908
-MN;62;;8309;Judge - 2nd District Court 10;02;9901;WRITE-IN;;;WI;162;162;1135;1.29;87908
-MN;62;;8311;Judge - 2nd District Court 12;02;9001;Nicole J. Starr;;;NP;162;162;87233;98.73;88356
-MN;62;;8311;Judge - 2nd District Court 12;02;9901;WRITE-IN;;;WI;162;162;1123;1.27;88356
-MN;62;;8315;Judge - 2nd District Court 16;02;9001;Mark Ireland;;;NP;162;162;86456;98.64;87647
-MN;62;;8315;Judge - 2nd District Court 16;02;9901;WRITE-IN;;;WI;162;162;1191;1.36;87647
-MN;62;;8316;Judge - 2nd District Court 17;02;9001;David C. Brown;;;NP;162;162;88515;98.72;89659
-MN;62;;8316;Judge - 2nd District Court 17;02;9901;WRITE-IN;;;WI;162;162;1144;1.28;89659
-MN;62;;8320;Judge - 2nd District Court 21;02;9001;Thomas Gilligan;;;NP;162;162;87764;98.62;88990
-MN;62;;8320;Judge - 2nd District Court 21;02;9901;WRITE-IN;;;WI;162;162;1226;1.38;88990
-MN;62;;8324;Judge - 2nd District Court 25;02;9001;Edward Sheu;;;NP;162;162;86271;98.63;87465
-MN;62;;8324;Judge - 2nd District Court 25;02;9901;WRITE-IN;;;WI;162;162;1194;1.37;87465
-MN;62;;8325;Judge - 2nd District Court 26;02;9001;John H. Guthmann;;;NP;162;162;85797;98.33;87258
-MN;62;;8325;Judge - 2nd District Court 26;02;9901;WRITE-IN;;;WI;162;162;1461;1.67;87258
+MN;62;;0404;County Sheriff;;9001;Bob Fletcher;;;NP;162;162;136429;96.42;141496
+MN;62;;0404;County Sheriff;;9901;WRITE-IN;;;WI;162;162;5067;3.58;141496
+MN;62;;0405;County Attorney;;9001;John J. Choi;;;NP;162;162;137761;97.69;141018
+MN;62;;0405;County Attorney;;9901;WRITE-IN;;;WI;162;162;3257;2.31;141018
+MN;62;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;162;162;94302;98.43;95810
+MN;62;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;162;162;1508;1.57;95810
+MN;62;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;162;162;93228;98.66;94497
+MN;62;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;162;162;1269;1.34;94497
+MN;62;;7010;Judge - Court of Appeals 1;;9001;Theodora Karin Gaitas;;;NP;162;162;90059;98.67;91272
+MN;62;;7010;Judge - Court of Appeals 1;;9901;WRITE-IN;;;WI;162;162;1213;1.33;91272
+MN;62;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;162;162;88623;98.55;89926
+MN;62;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN;;;WI;162;162;1303;1.45;89926
+MN;62;;7016;Judge - Court of Appeals 7;;9001;Susan Segal;;;NP;162;162;89840;98.65;91072
+MN;62;;7016;Judge - Court of Appeals 7;;9901;WRITE-IN;;;WI;162;162;1232;1.35;91072
+MN;62;;7017;Judge - Court of Appeals 8;;9001;Denise D Reilly;;;NP;162;162;88784;98.74;89916
+MN;62;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;162;162;1132;1.26;89916
+MN;62;;7019;Judge - Court of Appeals 10;;9001;Jennifer L. Frisch;;;NP;162;162;91182;98.66;92420
+MN;62;;7019;Judge - Court of Appeals 10;;9901;WRITE-IN;;;WI;162;162;1238;1.34;92420
+MN;62;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;162;162;88428;98.57;89708
+MN;62;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN;;;WI;162;162;1280;1.43;89708
+MN;62;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;162;162;87123;98.59;88372
+MN;62;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;162;162;1249;1.41;88372
+MN;62;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;162;162;85702;98.47;87035
+MN;62;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;162;162;1333;1.53;87035
+MN;62;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;162;162;86056;98.52;87347
+MN;62;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;162;162;1291;1.48;87347
+MN;62;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;162;162;86300;98.59;87535
+MN;62;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN;;;WI;162;162;1235;1.41;87535
+MN;62;;8304;Judge - 2nd District Court 5;02;9001;Andrew Gordon;;;NP;162;162;88396;98.66;89601
+MN;62;;8304;Judge - 2nd District Court 5;02;9901;WRITE-IN;;;WI;162;162;1205;1.34;89601
+MN;62;;8305;Judge - 2nd District Court 6;02;9001;Richard H. Kyle Jr.;;;NP;162;162;87134;98.64;88337
+MN;62;;8305;Judge - 2nd District Court 6;02;9901;WRITE-IN;;;WI;162;162;1203;1.36;88337
+MN;62;;8308;Judge - 2nd District Court 9;02;9001;Sara Grewing;;;NP;162;162;88125;98.71;89274
+MN;62;;8308;Judge - 2nd District Court 9;02;9901;WRITE-IN;;;WI;162;162;1149;1.29;89274
+MN;62;;8309;Judge - 2nd District Court 10;02;9001;Kellie Charles;;;NP;162;162;86773;98.71;87909
+MN;62;;8309;Judge - 2nd District Court 10;02;9901;WRITE-IN;;;WI;162;162;1136;1.29;87909
+MN;62;;8311;Judge - 2nd District Court 12;02;9001;Nicole J. Starr;;;NP;162;162;87233;98.73;88357
+MN;62;;8311;Judge - 2nd District Court 12;02;9901;WRITE-IN;;;WI;162;162;1124;1.27;88357
+MN;62;;8315;Judge - 2nd District Court 16;02;9001;Mark Ireland;;;NP;162;162;86456;98.64;87648
+MN;62;;8315;Judge - 2nd District Court 16;02;9901;WRITE-IN;;;WI;162;162;1192;1.36;87648
+MN;62;;8316;Judge - 2nd District Court 17;02;9001;David C. Brown;;;NP;162;162;88515;98.72;89660
+MN;62;;8316;Judge - 2nd District Court 17;02;9901;WRITE-IN;;;WI;162;162;1145;1.28;89660
+MN;62;;8320;Judge - 2nd District Court 21;02;9001;Thomas Gilligan;;;NP;162;162;87764;98.62;88991
+MN;62;;8320;Judge - 2nd District Court 21;02;9901;WRITE-IN;;;WI;162;162;1227;1.38;88991
+MN;62;;8324;Judge - 2nd District Court 25;02;9001;Edward Sheu;;;NP;162;162;86271;98.63;87466
+MN;62;;8324;Judge - 2nd District Court 25;02;9901;WRITE-IN;;;WI;162;162;1195;1.37;87466
+MN;62;;8325;Judge - 2nd District Court 26;02;9001;John H. Guthmann;;;NP;162;162;85797;98.32;87259
+MN;62;;8325;Judge - 2nd District Court 26;02;9901;WRITE-IN;;;WI;162;162;1462;1.68;87259
 MN;63;;0110;U.S. Representative District 7;7;0201;Travis "Bull" Johnson;;;LMN;21;21;116;7.32;1585
 MN;63;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;21;21;1054;66.50;1585
 MN;63;;0110;U.S. Representative District 7;7;0401;Jill Abahsain;;;DFL;21;21;414;26.12;1585
