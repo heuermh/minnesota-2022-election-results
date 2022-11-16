@@ -334,10 +334,10 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,103
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/15/22 3:18 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/15/22 5:38 PM
                             </td>
                             <td class="text-right">
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,891
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,753
                             </td>
                     </tr>
             </table>
@@ -352,13 +352,13 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/15/22 3:18 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/15/22 5:38 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,891
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,562,753
                             </td>
                         </tr>
             </table>
@@ -2836,7 +2836,7 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Eric Pratt</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">20,635</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">20,632</td>
                                     <td class="col-md-2 col-sm-2 col-xs-2 text-right">56.59%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="56" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
@@ -2844,8 +2844,8 @@
                                     <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                     <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                     <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Alicia Donahue</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">15,752</td>
-                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">43.20%</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">15,753</td>
+                                    <td class="col-md-2 col-sm-2 col-xs-2 text-right">43.21%</td>
                                     <td class="col-md-2 hidden-sm hidden-xs"><img width="43" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                                 </tr>
                                 <tr>
