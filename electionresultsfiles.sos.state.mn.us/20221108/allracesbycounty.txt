@@ -1775,9 +1775,9 @@ MN;19;;0297;State Representative District 55B;55B;9901;WRITE-IN;;;WI;11;11;11;0.
 MN;19;;0298;State Representative District 56A;56A;0301;Joe Landru;;;R;12;12;7168;39.89;17970
 MN;19;;0298;State Representative District 56A;56A;0401;Robert Bierman;;;DFL;12;12;10786;60.02;17970
 MN;19;;0298;State Representative District 56A;56A;9901;WRITE-IN;;;WI;12;12;16;0.09;17970
-MN;19;;0299;State Representative District 56B;56B;0301;Joe Scanlon;;;R;12;12;9455;44.33;21330
-MN;19;;0299;State Representative District 56B;56B;0401;John Huot;;;DFL;12;12;11854;55.57;21330
-MN;19;;0299;State Representative District 56B;56B;9901;WRITE-IN;;;WI;12;12;21;0.10;21330
+MN;19;;0299;State Representative District 56B;56B;0301;Joe Scanlon;;;R;12;12;9455;44.33;21329
+MN;19;;0299;State Representative District 56B;56B;0401;John Huot;;;DFL;12;12;11853;55.57;21329
+MN;19;;0299;State Representative District 56B;56B;9901;WRITE-IN;;;WI;12;12;21;0.10;21329
 MN;19;;0300;State Representative District 57A;57A;0301;Jon Koznick;;;R;8;8;7935;58.48;13569
 MN;19;;0300;State Representative District 57A;57A;0401;Greg Henningsen;;;DFL;8;8;5614;41.37;13569
 MN;19;;0300;State Representative District 57A;57A;9901;WRITE-IN;;;WI;8;8;20;0.15;13569
@@ -1800,9 +1800,9 @@ MN;19;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;142;1
 MN;19;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;142;142;1365;0.68;200613
 MN;19;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;142;142;451;0.22;200613
 MN;19;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;142;142;82;0.04;200613
-MN;19;;0332;Secretary of State;;0301;Kim Crockett;;;R;142;142;81422;42.10;193395
-MN;19;;0332;Secretary of State;;0401;Steve Simon;;;DFL;142;142;111687;57.75;193395
-MN;19;;0332;Secretary of State;;9901;WRITE-IN;;;WI;142;142;286;0.15;193395
+MN;19;;0332;Secretary of State;;0301;Kim Crockett;;;R;142;142;81421;42.10;193394
+MN;19;;0332;Secretary of State;;0401;Steve Simon;;;DFL;142;142;111687;57.75;193394
+MN;19;;0332;Secretary of State;;9901;WRITE-IN;;;WI;142;142;286;0.15;193394
 MN;19;;0333;State Auditor;;0101;Will Finn;;;GLC;142;142;2992;1.52;197168
 MN;19;;0333;State Auditor;;0201;Tim Davis;;;LMN;142;142;6758;3.43;197168
 MN;19;;0333;State Auditor;;0301;Ryan Wilson;;;R;142;142;88141;44.70;197168
@@ -1825,8 +1825,8 @@ MN;19;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;19;19;111;0.45;
 MN;19;;0396;County Commissioner District 6;06;9001;Mike Robole;;;NP;16;16;7872;33.70;23359
 MN;19;;0396;County Commissioner District 6;06;9002;Mary Liz Holberg;;;NP;16;16;15382;65.85;23359
 MN;19;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;16;16;105;0.45;23359
-MN;19;;0404;County Sheriff;;9001;Joe Leko;;;NP;142;142;133309;98.78;134952
-MN;19;;0404;County Sheriff;;9901;WRITE-IN;;;WI;142;142;1643;1.22;134952
+MN;19;;0404;County Sheriff;;9001;Joe Leko;;;NP;142;142;133308;98.78;134951
+MN;19;;0404;County Sheriff;;9901;WRITE-IN;;;WI;142;142;1643;1.22;134951
 MN;19;;0405;County Attorney;;9001;Matt Little;;;NP;142;142;78846;48.06;164051
 MN;19;;0405;County Attorney;;9002;Kathy Keena;;;NP;142;142;84519;51.52;164051
 MN;19;;0405;County Attorney;;9901;WRITE-IN;;;WI;142;142;686;0.42;164051
@@ -1840,61 +1840,61 @@ MN;19;;0434;Soil and Water Supervisor District 4;4040;9001;Bruce Johnson;;;NP;24
 MN;19;;0434;Soil and Water Supervisor District 4;4040;9901;WRITE-IN;;;WI;24;24;198;0.88;22440
 MN;19;;0435;Soil and Water Supervisor District 5;4041;9001;Jayne Hager Dee;;;NP;27;27;25028;99.15;25242
 MN;19;;0435;Soil and Water Supervisor District 5;4041;9901;WRITE-IN;;;WI;27;27;214;0.85;25242
-MN;19;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;142;142;108326;99.03;109386
-MN;19;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;142;142;1060;0.97;109386
-MN;19;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;142;142;107582;99.14;108519
-MN;19;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;142;142;937;0.86;108519
-MN;19;;7010;Judge - Court of Appeals 1;;9001;Theodora Karin Gaitas;;;NP;142;142;106021;99.14;106946
-MN;19;;7010;Judge - Court of Appeals 1;;9901;WRITE-IN;;;WI;142;142;925;0.86;106946
-MN;19;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;142;142;105404;99.13;106325
-MN;19;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN;;;WI;142;142;921;0.87;106325
-MN;19;;7016;Judge - Court of Appeals 7;;9001;Susan Segal;;;NP;142;142;105525;99.18;106401
-MN;19;;7016;Judge - Court of Appeals 7;;9901;WRITE-IN;;;WI;142;142;876;0.82;106401
-MN;19;;7017;Judge - Court of Appeals 8;;9001;Denise D Reilly;;;NP;142;142;104902;99.19;105757
-MN;19;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;142;142;855;0.81;105757
-MN;19;;7019;Judge - Court of Appeals 10;;9001;Jennifer L. Frisch;;;NP;142;142;104810;99.18;105675
-MN;19;;7019;Judge - Court of Appeals 10;;9901;WRITE-IN;;;WI;142;142;865;0.82;105675
-MN;19;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;142;142;104562;99.17;105440
-MN;19;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN;;;WI;142;142;878;0.83;105440
-MN;19;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;142;142;104204;99.20;105046
-MN;19;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;142;142;842;0.80;105046
-MN;19;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;142;142;104101;99.21;104928
-MN;19;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;142;142;827;0.79;104928
-MN;19;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;142;142;103510;99.20;104340
-MN;19;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;142;142;830;0.80;104340
-MN;19;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;142;142;102798;99.18;103649
-MN;19;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN;;;WI;142;142;851;0.82;103649
-MN;19;;8104;Judge - 1st District Court 5;01;9001;Martin S. Fallon;;;NP;142;142;102863;99.21;103685
-MN;19;;8104;Judge - 1st District Court 5;01;9901;WRITE-IN;;;WI;142;142;822;0.79;103685
-MN;19;;8106;Judge - 1st District Court 7;01;9001;Timothy J. McManus;;;NP;142;142;103683;99.14;104578
-MN;19;;8106;Judge - 1st District Court 7;01;9901;WRITE-IN;;;WI;142;142;895;0.86;104578
-MN;19;;8107;Judge - 1st District Court 8;01;9001;Patrick M. Biren;;;NP;142;142;102619;99.23;103417
-MN;19;;8107;Judge - 1st District Court 8;01;9901;WRITE-IN;;;WI;142;142;798;0.77;103417
-MN;19;;8110;Judge - 1st District Court 11;01;9001;Matthew R. Hanson;;;NP;142;142;55980;42.45;131883
-MN;19;;8110;Judge - 1st District Court 11;01;9002;Charles F. Webber;;;NP;142;142;75427;57.19;131883
-MN;19;;8110;Judge - 1st District Court 11;01;9901;WRITE-IN;;;WI;142;142;476;0.36;131883
-MN;19;;8112;Judge - 1st District Court 13;01;9001;Cynthia McCollum;;;NP;142;142;103426;99.21;104253
-MN;19;;8112;Judge - 1st District Court 13;01;9901;WRITE-IN;;;WI;142;142;827;0.79;104253
-MN;19;;8114;Judge - 1st District Court 15;01;9001;Mark C. Vandelist;;;NP;142;142;102693;99.21;103512
-MN;19;;8114;Judge - 1st District Court 15;01;9901;WRITE-IN;;;WI;142;142;819;0.79;103512
-MN;19;;8116;Judge - 1st District Court 17;01;9001;Amber R. Donley;;;NP;142;142;103865;99.24;104660
-MN;19;;8116;Judge - 1st District Court 17;01;9901;WRITE-IN;;;WI;142;142;795;0.76;104660
-MN;19;;8120;Judge - 1st District Court 21;01;9001;Eric J. Braaten;;;NP;142;142;103083;99.23;103888
-MN;19;;8120;Judge - 1st District Court 21;01;9901;WRITE-IN;;;WI;142;142;805;0.77;103888
-MN;19;;8121;Judge - 1st District Court 22;01;9001;Colleen Goggins King;;;NP;142;142;103292;99.22;104106
-MN;19;;8121;Judge - 1st District Court 22;01;9901;WRITE-IN;;;WI;142;142;814;0.78;104106
-MN;19;;8122;Judge - 1st District Court 23;01;9001;Chris J. Lehmann;;;NP;142;142;103090;99.25;103872
-MN;19;;8122;Judge - 1st District Court 23;01;9901;WRITE-IN;;;WI;142;142;782;0.75;103872
-MN;19;;8124;Judge - 1st District Court 25;01;9001;Caroline H. Lennon;;;NP;142;142;102660;99.22;103470
-MN;19;;8124;Judge - 1st District Court 25;01;9901;WRITE-IN;;;WI;142;142;810;0.78;103470
-MN;19;;8127;Judge - 1st District Court 28;01;9001;David N. Lutz;;;NP;142;142;102636;99.23;103436
-MN;19;;8127;Judge - 1st District Court 28;01;9901;WRITE-IN;;;WI;142;142;800;0.77;103436
-MN;19;;8132;Judge - 1st District Court 33;01;9001;Kevin F. Mark;;;NP;142;142;102313;99.25;103082
-MN;19;;8132;Judge - 1st District Court 33;01;9901;WRITE-IN;;;WI;142;142;769;0.75;103082
-MN;19;;8133;Judge - 1st District Court 34;01;9001;Janet L. Cain;;;NP;142;142;102672;99.21;103494
-MN;19;;8133;Judge - 1st District Court 34;01;9901;WRITE-IN;;;WI;142;142;822;0.79;103494
-MN;19;;8135;Judge - 1st District Court 36;01;9001;Tim D. Wermager;;;NP;142;142;102828;99.16;103704
-MN;19;;8135;Judge - 1st District Court 36;01;9901;WRITE-IN;;;WI;142;142;876;0.84;103704
+MN;19;;7004;Associate Justice - Supreme Court 3;;9001;Gordon Moore;;;NP;142;142;108325;99.03;109385
+MN;19;;7004;Associate Justice - Supreme Court 3;;9901;WRITE-IN;;;WI;142;142;1060;0.97;109385
+MN;19;;7007;Associate Justice - Supreme Court 6;;9001;Natalie E. Hudson;;;NP;142;142;107581;99.14;108518
+MN;19;;7007;Associate Justice - Supreme Court 6;;9901;WRITE-IN;;;WI;142;142;937;0.86;108518
+MN;19;;7010;Judge - Court of Appeals 1;;9001;Theodora Karin Gaitas;;;NP;142;142;106020;99.14;106945
+MN;19;;7010;Judge - Court of Appeals 1;;9901;WRITE-IN;;;WI;142;142;925;0.86;106945
+MN;19;;7014;Judge - Court of Appeals 5;;9001;Louise Dovre Bjorkman;;;NP;142;142;105403;99.13;106324
+MN;19;;7014;Judge - Court of Appeals 5;;9901;WRITE-IN;;;WI;142;142;921;0.87;106324
+MN;19;;7016;Judge - Court of Appeals 7;;9001;Susan Segal;;;NP;142;142;105524;99.18;106400
+MN;19;;7016;Judge - Court of Appeals 7;;9901;WRITE-IN;;;WI;142;142;876;0.82;106400
+MN;19;;7017;Judge - Court of Appeals 8;;9001;Denise D Reilly;;;NP;142;142;104901;99.19;105756
+MN;19;;7017;Judge - Court of Appeals 8;;9901;WRITE-IN;;;WI;142;142;855;0.81;105756
+MN;19;;7019;Judge - Court of Appeals 10;;9001;Jennifer L. Frisch;;;NP;142;142;104809;99.18;105674
+MN;19;;7019;Judge - Court of Appeals 10;;9901;WRITE-IN;;;WI;142;142;865;0.82;105674
+MN;19;;7020;Judge - Court of Appeals 11;;9001;Michelle A. Larkin;;;NP;142;142;104561;99.17;105439
+MN;19;;7020;Judge - Court of Appeals 11;;9901;WRITE-IN;;;WI;142;142;878;0.83;105439
+MN;19;;7025;Judge - Court of Appeals 16;;9001;Peter M. Reyes, Jr.;;;NP;142;142;104203;99.20;105045
+MN;19;;7025;Judge - Court of Appeals 16;;9901;WRITE-IN;;;WI;142;142;842;0.80;105045
+MN;19;;7026;Judge - Court of Appeals 17;;9001;Matthew E. Johnson;;;NP;142;142;104100;99.21;104927
+MN;19;;7026;Judge - Court of Appeals 17;;9901;WRITE-IN;;;WI;142;142;827;0.79;104927
+MN;19;;7027;Judge - Court of Appeals 18;;9001;Jeff Bryan;;;NP;142;142;103508;99.20;104338
+MN;19;;7027;Judge - Court of Appeals 18;;9901;WRITE-IN;;;WI;142;142;830;0.80;104338
+MN;19;;7028;Judge - Court of Appeals 19;;9001;Francis Connolly;;;NP;142;142;102797;99.18;103648
+MN;19;;7028;Judge - Court of Appeals 19;;9901;WRITE-IN;;;WI;142;142;851;0.82;103648
+MN;19;;8104;Judge - 1st District Court 5;01;9001;Martin S. Fallon;;;NP;142;142;102862;99.21;103684
+MN;19;;8104;Judge - 1st District Court 5;01;9901;WRITE-IN;;;WI;142;142;822;0.79;103684
+MN;19;;8106;Judge - 1st District Court 7;01;9001;Timothy J. McManus;;;NP;142;142;103682;99.14;104577
+MN;19;;8106;Judge - 1st District Court 7;01;9901;WRITE-IN;;;WI;142;142;895;0.86;104577
+MN;19;;8107;Judge - 1st District Court 8;01;9001;Patrick M. Biren;;;NP;142;142;102618;99.23;103416
+MN;19;;8107;Judge - 1st District Court 8;01;9901;WRITE-IN;;;WI;142;142;798;0.77;103416
+MN;19;;8110;Judge - 1st District Court 11;01;9001;Matthew R. Hanson;;;NP;142;142;55981;42.45;131882
+MN;19;;8110;Judge - 1st District Court 11;01;9002;Charles F. Webber;;;NP;142;142;75425;57.19;131882
+MN;19;;8110;Judge - 1st District Court 11;01;9901;WRITE-IN;;;WI;142;142;476;0.36;131882
+MN;19;;8112;Judge - 1st District Court 13;01;9001;Cynthia McCollum;;;NP;142;142;103425;99.21;104252
+MN;19;;8112;Judge - 1st District Court 13;01;9901;WRITE-IN;;;WI;142;142;827;0.79;104252
+MN;19;;8114;Judge - 1st District Court 15;01;9001;Mark C. Vandelist;;;NP;142;142;102692;99.21;103511
+MN;19;;8114;Judge - 1st District Court 15;01;9901;WRITE-IN;;;WI;142;142;819;0.79;103511
+MN;19;;8116;Judge - 1st District Court 17;01;9001;Amber R. Donley;;;NP;142;142;103864;99.24;104659
+MN;19;;8116;Judge - 1st District Court 17;01;9901;WRITE-IN;;;WI;142;142;795;0.76;104659
+MN;19;;8120;Judge - 1st District Court 21;01;9001;Eric J. Braaten;;;NP;142;142;103082;99.23;103887
+MN;19;;8120;Judge - 1st District Court 21;01;9901;WRITE-IN;;;WI;142;142;805;0.77;103887
+MN;19;;8121;Judge - 1st District Court 22;01;9001;Colleen Goggins King;;;NP;142;142;103291;99.22;104105
+MN;19;;8121;Judge - 1st District Court 22;01;9901;WRITE-IN;;;WI;142;142;814;0.78;104105
+MN;19;;8122;Judge - 1st District Court 23;01;9001;Chris J. Lehmann;;;NP;142;142;103089;99.25;103871
+MN;19;;8122;Judge - 1st District Court 23;01;9901;WRITE-IN;;;WI;142;142;782;0.75;103871
+MN;19;;8124;Judge - 1st District Court 25;01;9001;Caroline H. Lennon;;;NP;142;142;102659;99.22;103469
+MN;19;;8124;Judge - 1st District Court 25;01;9901;WRITE-IN;;;WI;142;142;810;0.78;103469
+MN;19;;8127;Judge - 1st District Court 28;01;9001;David N. Lutz;;;NP;142;142;102635;99.23;103435
+MN;19;;8127;Judge - 1st District Court 28;01;9901;WRITE-IN;;;WI;142;142;800;0.77;103435
+MN;19;;8132;Judge - 1st District Court 33;01;9001;Kevin F. Mark;;;NP;142;142;102312;99.25;103081
+MN;19;;8132;Judge - 1st District Court 33;01;9901;WRITE-IN;;;WI;142;142;769;0.75;103081
+MN;19;;8133;Judge - 1st District Court 34;01;9001;Janet L. Cain;;;NP;142;142;102671;99.21;103493
+MN;19;;8133;Judge - 1st District Court 34;01;9901;WRITE-IN;;;WI;142;142;822;0.79;103493
+MN;19;;8135;Judge - 1st District Court 36;01;9001;Tim D. Wermager;;;NP;142;142;102827;99.16;103703
+MN;19;;8135;Judge - 1st District Court 36;01;9901;WRITE-IN;;;WI;142;142;876;0.84;103703
 MN;20;;0104;U.S. Representative District 1;1;0101;Brian Abrahamson;;;GLC;22;22;157;1.67;9382
 MN;20;;0104;U.S. Representative District 1;1;0201;Richard B. Reisdorf;;;LMN;22;22;166;1.77;9382
 MN;20;;0104;U.S. Representative District 1;1;0301;Brad Finstad;;;R;22;22;5995;63.90;9382
