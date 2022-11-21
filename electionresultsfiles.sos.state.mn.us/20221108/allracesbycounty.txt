@@ -1714,10 +1714,10 @@ MN;18;;9119;Judge - 9th District Court 20;09;9001;Donna K. Dixon;;;NP;62;62;1975
 MN;18;;9119;Judge - 9th District Court 20;09;9901;WRITE-IN;;;WI;62;62;104;0.52;19860
 MN;18;;9122;Judge - 9th District Court 23;09;9001;Kristine R. DeMay;;;NP;62;62;20040;99.38;20165
 MN;18;;9122;Judge - 9th District Court 23;09;9901;WRITE-IN;;;WI;62;62;125;0.62;20165
-MN;19;;0105;U.S. Representative District 2;2;0201;Paula M. Overby;;;LMN;142;142;6347;3.16;200541
-MN;19;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;142;142;85362;42.57;200541
-MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;142;142;108329;54.02;200541
-MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;142;142;503;0.25;200541
+MN;19;;0105;U.S. Representative District 2;2;0201;Paula M. Overby;;;LMN;142;142;6347;3.16;200540
+MN;19;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;142;142;85362;42.57;200540
+MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;142;142;108328;54.02;200540
+MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;142;142;503;0.25;200540
 MN;19;;0140;State Senator District 20;20;0301;Steve Drazkowski;;;R;2;2;376;78.17;481
 MN;19;;0140;State Senator District 20;20;0401;Bradley Robert Drenckhahn;;;DFL;2;2;105;21.83;481
 MN;19;;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;2;2;0;0.00;481
@@ -1733,9 +1733,9 @@ MN;19;;0173;State Senator District 53;53;9901;WRITE-IN;;;WI;23;23;36;0.12;30524
 MN;19;;0175;State Senator District 55;55;0301;Pam Myhra;;;R;14;14;8239;41.91;19658
 MN;19;;0175;State Senator District 55;55;0401;Lindsey Port;;;DFL;14;14;11391;57.95;19658
 MN;19;;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;14;14;28;0.14;19658
-MN;19;;0176;State Senator District 56;56;0301;Jim Bean;;;R;24;24;17007;43.25;39327
-MN;19;;0176;State Senator District 56;56;0401;Erin Maye Quade;;;DFL;24;24;22282;56.66;39327
-MN;19;;0176;State Senator District 56;56;9901;WRITE-IN;;;WI;24;24;38;0.10;39327
+MN;19;;0176;State Senator District 56;56;0301;Jim Bean;;;R;24;24;17007;43.25;39326
+MN;19;;0176;State Senator District 56;56;0401;Erin Maye Quade;;;DFL;24;24;22281;56.66;39326
+MN;19;;0176;State Senator District 56;56;9901;WRITE-IN;;;WI;24;24;38;0.10;39326
 MN;19;;0177;State Senator District 57;57;0301;Zach Duckworth;;;R;19;19;19089;56.07;34043
 MN;19;;0177;State Senator District 57;57;0401;Jackie Craig;;;DFL;19;19;14928;43.85;34043
 MN;19;;0177;State Senator District 57;57;9901;WRITE-IN;;;WI;19;19;26;0.08;34043
@@ -1772,9 +1772,9 @@ MN;19;;0296;State Representative District 55A;55A;9901;WRITE-IN;;;WI;3;3;5;0.14;
 MN;19;;0297;State Representative District 55B;55B;0301;Van Holston;;;R;11;11;6601;41.52;15900
 MN;19;;0297;State Representative District 55B;55B;0401;Kaela Berg;;;DFL;11;11;9288;58.42;15900
 MN;19;;0297;State Representative District 55B;55B;9901;WRITE-IN;;;WI;11;11;11;0.07;15900
-MN;19;;0298;State Representative District 56A;56A;0301;Joe Landru;;;R;12;12;7168;39.89;17971
-MN;19;;0298;State Representative District 56A;56A;0401;Robert Bierman;;;DFL;12;12;10787;60.02;17971
-MN;19;;0298;State Representative District 56A;56A;9901;WRITE-IN;;;WI;12;12;16;0.09;17971
+MN;19;;0298;State Representative District 56A;56A;0301;Joe Landru;;;R;12;12;7168;39.89;17970
+MN;19;;0298;State Representative District 56A;56A;0401;Robert Bierman;;;DFL;12;12;10786;60.02;17970
+MN;19;;0298;State Representative District 56A;56A;9901;WRITE-IN;;;WI;12;12;16;0.09;17970
 MN;19;;0299;State Representative District 56B;56B;0301;Joe Scanlon;;;R;12;12;9455;44.33;21329
 MN;19;;0299;State Representative District 56B;56B;0401;John Huot;;;DFL;12;12;11853;55.57;21329
 MN;19;;0299;State Representative District 56B;56B;9901;WRITE-IN;;;WI;12;12;21;0.10;21329
@@ -1793,24 +1793,24 @@ MN;19;;0303;State Representative District 58B;58B;9901;WRITE-IN;;;WI;22;22;19;0.
 MN;19;;0317;State Representative District 65B;65B;0301;Kevin Fjelsted;;;R;3;3;1500;32.20;4658
 MN;19;;0317;State Representative District 65B;65B;0401;Maria Isa Pérez-Hedges;;;DFL;3;3;3155;67.73;4658
 MN;19;;0317;State Representative District 65B;65B;9901;WRITE-IN;;;WI;3;3;3;0.06;4658
-MN;19;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;142;142;1431;0.71;200614
-MN;19;;0331;Governor & Lt Governor;;0201;James McCaskel and David Sandbeck;;;LMN;142;142;2061;1.03;200614
-MN;19;;0331;Governor & Lt Governor;;0301;Scott Jensen and Matt Birk;;;R;142;142;83220;41.48;200614
-MN;19;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;142;142;112004;55.83;200614
-MN;19;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;142;142;1365;0.68;200614
-MN;19;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;142;142;451;0.22;200614
-MN;19;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;142;142;82;0.04;200614
-MN;19;;0332;Secretary of State;;0301;Kim Crockett;;;R;142;142;81421;42.10;193395
-MN;19;;0332;Secretary of State;;0401;Steve Simon;;;DFL;142;142;111688;57.75;193395
-MN;19;;0332;Secretary of State;;9901;WRITE-IN;;;WI;142;142;286;0.15;193395
-MN;19;;0333;State Auditor;;0101;Will Finn;;;GLC;142;142;2992;1.52;197169
-MN;19;;0333;State Auditor;;0201;Tim Davis;;;LMN;142;142;6758;3.43;197169
-MN;19;;0333;State Auditor;;0301;Ryan Wilson;;;R;142;142;88141;44.70;197169
-MN;19;;0333;State Auditor;;0401;Julie Blaha;;;DFL;142;142;99091;50.26;197169
-MN;19;;0333;State Auditor;;9901;WRITE-IN;;;WI;142;142;187;0.09;197169
-MN;19;;0335;Attorney General;;0301;Jim Schultz;;;R;142;142;93750;47.10;199052
-MN;19;;0335;Attorney General;;0401;Keith Ellison;;;DFL;142;142;105096;52.80;199052
-MN;19;;0335;Attorney General;;9901;WRITE-IN;;;WI;142;142;206;0.10;199052
+MN;19;;0331;Governor & Lt Governor;;0101;Steve Patterson and Matt Huff;;;GLC;142;142;1431;0.71;200613
+MN;19;;0331;Governor & Lt Governor;;0201;James McCaskel and David Sandbeck;;;LMN;142;142;2061;1.03;200613
+MN;19;;0331;Governor & Lt Governor;;0301;Scott Jensen and Matt Birk;;;R;142;142;83220;41.48;200613
+MN;19;;0331;Governor & Lt Governor;;0401;Tim Walz and Peggy Flanagan;;;DFL;142;142;112003;55.83;200613
+MN;19;;0331;Governor & Lt Governor;;0501;Hugh McTavish and Mike Winter;;;IA;142;142;1365;0.68;200613
+MN;19;;0331;Governor & Lt Governor;;0701;Gabrielle M. Prosser and Kevin A. Dwire;;;SWP;142;142;451;0.22;200613
+MN;19;;0331;Governor & Lt Governor;;9901;WRITE-IN;;;WI;142;142;82;0.04;200613
+MN;19;;0332;Secretary of State;;0301;Kim Crockett;;;R;142;142;81421;42.10;193394
+MN;19;;0332;Secretary of State;;0401;Steve Simon;;;DFL;142;142;111687;57.75;193394
+MN;19;;0332;Secretary of State;;9901;WRITE-IN;;;WI;142;142;286;0.15;193394
+MN;19;;0333;State Auditor;;0101;Will Finn;;;GLC;142;142;2992;1.52;197168
+MN;19;;0333;State Auditor;;0201;Tim Davis;;;LMN;142;142;6758;3.43;197168
+MN;19;;0333;State Auditor;;0301;Ryan Wilson;;;R;142;142;88141;44.70;197168
+MN;19;;0333;State Auditor;;0401;Julie Blaha;;;DFL;142;142;99090;50.26;197168
+MN;19;;0333;State Auditor;;9901;WRITE-IN;;;WI;142;142;187;0.09;197168
+MN;19;;0335;Attorney General;;0301;Jim Schultz;;;R;142;142;93750;47.10;199051
+MN;19;;0335;Attorney General;;0401;Keith Ellison;;;DFL;142;142;105095;52.80;199051
+MN;19;;0335;Attorney General;;9901;WRITE-IN;;;WI;142;142;206;0.10;199051
 MN;19;;0391;County Commissioner District 1;01;9001;Mike Slavik;;;NP;33;33;20696;98.91;20924
 MN;19;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;33;33;228;1.09;20924
 MN;19;;0392;County Commissioner District 2;02;9001;Jimmy Francis;;;NP;19;19;7352;28.73;25594
